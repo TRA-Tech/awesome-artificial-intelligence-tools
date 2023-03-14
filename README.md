@@ -1,3 +1,37 @@
+### Awesome Artificial Intelligence Tools
+
+Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda kullanılabilecek birçok yapay zeka destekli araçları bu repository altında bir araya getiriyoruz. Yapay zeka destekli araçlarını İK, Sosyal Medya, Yazılım Sektörü gibi birçok alanda kolaylıkla kullanabilirsiniz. İster bir işletmeniz olsun, ister bir kullanıcı olun fark etmez, yapay zeka araçlarıyla yapmak istediğiniz birçok şeyi başarıyla tamamlayabilirsiniz. 
+
+
+#### Metinleri Görüntüye Çevirebileceğiniz Yapay Zeka Araçları (Text to Image)
+> Açıklama metinleri
+
+- [DALL-E 2](#dall-e-2)
+- [STABLE DIFFUSION](#stable-diffusion)
+- [CRAIYON](#craiyon)
+- [JASPER](#jasper)
+- [IMAGEN](#imagen) 
+- [MIDJOURNEY](#midjourney) 
+- [NIGHT CAFE](#night-cafe) 
+- [GauGAN2](#gaugan2)
+- [PIXRAY](#pixray)
+- [NEURAL.LOVE](#neural-love)
+
+#### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları (Text to Video)
+> Açıklama Metinleri
+
+- [RUNWAY](#runway)
+- [FLIKI](#fliki)
+- [SYNTHESIA](#synthesia)
+- [META AI](#meta-ai)
+- [GOOGLE AI](#google-ai)
+- [PHENAKI](#phenaki)
+
+
+
+
+
+
 # Awesome Artificial Intelligence Tools
 
 Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda kullanılabilecek birçok yapay zeka destekli araçların listesini derledik. Yapay zeka destekli araçlarını İK, Sosyal Medya, Yazılım Sektörü gibi birçok alanda kolaylıkla kullanabilirsiniz. İster bir işletmeniz olsun, ister bir kullanıcı olun fark etmez, yapay zeka araçlarıyla yapmak istediğiniz birçok şeyi başarıyla tamamlayabilirsiniz.
