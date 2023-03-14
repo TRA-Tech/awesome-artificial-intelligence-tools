@@ -4,6 +4,8 @@
 Uygulamanın beta sürümünü kullanmak için öncelikle bekleme listesine katılmak gerekiyor. Kimlik doğrulaması yapıldıktan sonra uygulama kullanılmaya başlanabilir.
 Uygulama üzerinden oluşturulan görsellerin ticari kullanımına izin verilmektedir.
 
+<img style="width:1000px" src="https://thred.com/wp-content/uploads/2022/04/dalle2.png" />
+
 DALL.E 2 uygulamasına dair detaylı bilgi almak ve denemek için https://openai.com/product/dall-e-2 linkini ziyaret edebilirsiniz. 
 
 
@@ -34,6 +36,9 @@ Stable Diffusion uygulamasının GitHub hesabı için  https://github.com/CompVi
 - Ücretsiz yapay zeka araçlarından biridir. 
 - Açık kaynak kodludur ve yeni görüntüler oluşturmak için tasarlanmış ve eğitilmiş bir yapay zeka sistemidir. 
 - Görüntü kalitesi düşüktür. Diğer uygulamalara göre verdiği sonuçların çeşitliliği ve istenileni verme oranı daha düşüktür.
+
+<img style="width:1000px" src="https://www.metastellar.com/wp-content/uploads/2022/07/Craiyon-spaceship-prompts-2.png" />
+
 
 Craiyon uygulamasına dair detaylı bilgi almak ve denemek için https://www.craiyon.com/  linkini ziyaret edebilirsiniz.
 
