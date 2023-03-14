@@ -7,7 +7,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 > Text to Image
 
 - [DALL-E 2](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#dall-e-2)
-- [STABLE DIFFUSION](#stable-diffusion)
+- [STABLE DIFFUSION](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#stable-diffusion)
 - [CRAIYON](#craiyon)
 - [JASPER](#jasper)
 - [IMAGEN](#imagen) 
