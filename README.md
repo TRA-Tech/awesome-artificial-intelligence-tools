@@ -6,16 +6,16 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 ### Metinleri Görüntüye Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Image
 
-- [DALL-E 2](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#dall-e-2)
-- [STABLE DIFFUSION](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#stable-diffusion)
-- [CRAIYON](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#craiyon)
-- [JASPER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#jasper)
-- [IMAGEN](#imagen) 
-- [MIDJOURNEY](#midjourney) 
-- [NIGHT CAFE](#night-cafe) 
-- [GauGAN2](#gaugan2)
-- [PIXRAY](#pixray)
-- [NEURAL.LOVE](#neural-love)
+- [DALL-E 2](https://https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#dall-e-2)
+- [STABLE DIFFUSION](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#stable-diffusion)
+- [CRAIYON](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#craiyon)
+- [JASPER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#jasper)
+- [IMAGEN](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#imagen) 
+- [MIDJOURNEY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#midjourney) 
+- [NIGHT CAFE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#night-cafe) 
+- [GauGAN2](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#gaugan2)
+- [PIXRAY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#pixray)
+- [NEURAL.LOVE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#neural-love)
 
 ### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Video
