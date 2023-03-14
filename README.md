@@ -1,15 +1,15 @@
-### Awesome Artificial Intelligence Tools
+## Awesome Artificial Intelligence Tools
 
 Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda kullanılabilecek birçok yapay zeka destekli araçları bu repository altında bir araya getiriyoruz. Yapay zeka destekli araçlarını İK, Sosyal Medya, Yazılım Sektörü gibi birçok alanda kolaylıkla kullanabilirsiniz. İster bir işletmeniz olsun, ister bir kullanıcı olun fark etmez, yapay zeka araçlarıyla yapmak istediğiniz birçok şeyi başarıyla tamamlayabilirsiniz. 
 
 
-#### Metinleri Görüntüye Çevirebileceğiniz Yapay Zeka Araçları
+### Metinleri Görüntüye Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Image
 
 - [DALL-E 2](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#dall-e-2)
 - [STABLE DIFFUSION](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#stable-diffusion)
-- [CRAIYON](#craiyon)
-- [JASPER](#jasper)
+- [CRAIYON](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#craiyon)
+- [JASPER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md#jasper)
 - [IMAGEN](#imagen) 
 - [MIDJOURNEY](#midjourney) 
 - [NIGHT CAFE](#night-cafe) 
@@ -17,7 +17,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [PIXRAY](#pixray)
 - [NEURAL.LOVE](#neural-love)
 
-#### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
+### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Video
 
 - [RUNWAY](#runway)
@@ -26,47 +26,16 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [META AI](#meta-ai)
 - [GOOGLE AI](#google-ai)
 - [PHENAKI](#phenaki)
-
-
-
-
-
-
-# Awesome Artificial Intelligence Tools
-
-Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda kullanılabilecek birçok yapay zeka destekli araçların listesini derledik. Yapay zeka destekli araçlarını İK, Sosyal Medya, Yazılım Sektörü gibi birçok alanda kolaylıkla kullanabilirsiniz. İster bir işletmeniz olsun, ister bir kullanıcı olun fark etmez, yapay zeka araçlarıyla yapmak istediğiniz birçok şeyi başarıyla tamamlayabilirsiniz.
-
-![Awesome Artificial Intelligence Tools](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Awesome%20A%C4%B0%20Tools.jpg?raw=true)
-
-# İçindekiler
-
-## [Metinleri Görüntüye Çevirebileceğiniz Yapay Zeka Araçları](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Image.md) (Text to Image)
-  * [DALL-E 2](#dall-e-2)
-  * [STABLE DIFFUSION](#stable-diffusion)
-  * [CRAIYON](#craiyon)
-  * [JASPER](#jasper)
-  * [IMAGEN](#imagen) 
-  * [MIDJOURNEY](#midjourney) 
-  * [NIGHT CAFE](#night-cafe) 
-  * [GauGAN2](#gaugan2)
-  * [PIXRAY](#pixray)
-  * [NEURAL.LOVE](#neural-love)
  
- ## [Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Video.md)(Text to Video)
-  * [RUNWAY](#runway)
-  * [FLIKI](#fliki)
-  * [SYNTHESIA](#synthesia)
-  * [META AI](#meta-ai)
-  * [GOOGLE AI](#google-ai)
-  * [PHENAKI](#phenaki)
- 
-## [Metinleri Seslere Çevirebileceğiniz Yapay Zeka Araçları](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Audio.md) (Text to Audio)
+### Metinleri Seslere Çevirebileceğiniz Yapay Zeka Araçları
+> Text to Audio
   * [PLAY HT](#play-ht)
   * [MURF AI](#murf-ai)
   * [WELL SAID](#well-said)
   * [DESCRIPT](#descript)
   
-##  [Metinleri Yapay Zeka Destekli Araçlar Sayesinde Optimize Edilmiş Metinlere Çevirin](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Text.md) (Text to Text)
+### Metinleri Yapay Zeka Destekli Araçlar Sayesinde Optimize Edilmiş Metinlere Çevirin 
+> Text to Text
   * [SIMPLIFED](#simplifed)
   * [FRASE](#frase)
   * [ELEUTHER AI](#eleuther-ai)
@@ -90,31 +59,38 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [SUDOWRİTE](#sudowrite)
 
  
-##  [Metinleri Yapay Zeka Araçları Sayesinde Robot Animasyonlarına Çevirin](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Motion.md) (Text to Motion)
+### Metinleri Yapay Zeka Araçları Sayesinde Robot Animasyonlarına Çevirin
+> Text to Motion
   * [TREE-IND](#tree-ind)
   * [MDM HUMAN MOTION DIFFUSION MODEL](#mdm-human-motion-diffusion-model)
  
-##  [Metinleri Kodlara Çevirebileceğiniz Yapay Zeka Araçları](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Text%20to%20Code.md) (Text to Code)
+### Metinleri Kodlara Çevirebileceğiniz Yapay Zeka Araçları
+> Text to Code
   * [REPLIT GENERATE CODE](#replit-generate-code)
   * [GitHub Copilot](#github-copilot)
 
-##  [Metinleri 3D Boyutlandırabileceğiniz Çevirebileceğiniz Yapay Zeka Araçları](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Text%20to%203D.md) (Text to 3D)
+### Metinleri 3D Boyutlandırabileceğiniz Çevirebileceğiniz Yapay Zeka Araçları
+> Text to 3D
   * [CLIP-MESH](#clip-mesh)
   * [GET 3D](#get-3d)
   * [DREAM FUSION](#dream-fusion)
 
-## [Görüntüleri Metne Çevirebileceğiniz Yapay Zeka Araçları](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Image%20to%20Text.md) (Image to Text)
+### Görüntüleri Metne Çevirebileceğiniz Yapay Zeka Araçları
+> Image to Text
   * [NEURAL LOVE](#neural-love)
   * [GPT-3 x Image Captions](#gpt-3-x-image-captions)
  
-##  [Beyin Aktivitelerini Yazıya Çevirebileceğiniz Yapay Zeka Araçları ](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Brain%20to%20Text.md) (Brain to Text)
+### Beyin Aktivitelerini Yazıya Çevirebileceğiniz Yapay Zeka Araçları 
+> Brain to Text
   * [SPEECH FROM BRAIN META](#speech-from-brain-meta)
   
-##  [Ses Sentezleri Geliştirebileceğiniz Yapay Zeka Araçları ](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Audio%20to%20Audio.md) (Audio to Audio)
+### Ses Sentezleri Geliştirebileceğiniz Yapay Zeka Araçları 
+> Audio to Audio
   * [AUDIO LM](#audio-lm)
   * [VOICEMOD](#voicemod)
   
-##  [Sesleri Yazıya Çevirebileceğiniz Yapay Zeka Araçları](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md) (Audio to Text)
+### Sesleri Yazıya Çevirebileceğiniz Yapay Zeka Araçları
+> Audio to Text
   * [ASSEMBLY AI](#assembly-ai)
   * [WHISPER AI](#whisper-ai)
  
