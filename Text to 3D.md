@@ -1,27 +1,33 @@
-## Metinleri Yapay Zeka Araçları Sayesinde Robot Animasyonlarına Çevirin
-### TREE-IND 
+### CLIP-MESH
+Girilen metinden 3D model oluşturmaya yarayan yapay zeka aracı.
 
-Sunduğu imkanlar; 
-#### CHATBOT: 
-- Müşteri hizmetleri için sohbet robotları. 
-- Doğal dil anlama yeteneğine sahiptir.
-- 3. Party yazılımlar içermemektedir. 
-#### AI ŞEKİL SINIFLANDIRICI
-#### KONUŞMA TANIMA 
-- Konuşmayı gerçek zamanlı olarak metne dönüştürür. Ücretsizdir.
-Örnek: 
-EZRA Asistan: EZRA EA, devlet ve özel okullar, evde eğitim kümesleri, bölge yöneticileri, kreşler, DoD okulları, devlet eğitimi veya hemen hemen her türlü eğitim ortamı için mahremiyet odaklı bir akıllı asistandır. Ezra yoklama almak, kelime, sayı ve harf değerlendirmeleri yapmak ve hatta tüm sınıfa yazım testleri yapmak gibi şeyleri sesin gücüyle yapabilir. 
+GitHub : https://github.com/NasirKhalid24/CLIP-Mesh 
 
-GitHub: https://github.com/TREE-Ind 
-
-Tree-ind yapay zeka aracına dair daha fazla bilgi almak için  https://www.tree.industries/ web sitesini ziyaret edebilirsiniz. 
-
-### MDM:HUMAN MOTION DIFFUSION MODEL 
-Metin girişiyle doğal insan hareketlerinin görselleşmesini sağlar. 
+<img style="width:700px" src="https://the-decoder.com/wp-content/uploads/2022/09/Dream-Fields-1-770x293.jpg" />
 
 
-![MDM](https://metaphysic.ai/wp-content/uploads/2022/10/final_example.gif)
+Clip-Mesh yapay zeka aracına dair detaylı bilgi almak için https://www.nasir.lol/clipmesh web sitesini ziyaret edebilirsiniz. 
 
-GitHub: https://github.com/GuyTevet/motion-diffusion-model
+### GET 3D 
+2D modellerden eğitilerek 3D modeller oluşturan araçtır. NVIDIA tarafından geliştirilmektedir. Kurgulama, oyun dünyası ve metaverse için sanal dünyalar yaratılmasında etkin rol oynaması beklenmekte.
 
-MDM yapay zeka aracına dair daha fazla bilgi almak için https://guytevet.github.io/mdm-page/ web sitesini ziyaret edebilirsiniz. 
+GitHub: https://github.com/nv-tlabs/GET3D
+
+
+<img style="width:800px" src="https://nv-tlabs.github.io/GET3D/assets/get3d_model.png" />
+
+### DREAM FUSION 
+Dream Fusion, Google'ın önceden eğitilmiş 2D metin-görüntü yayma modeli Imagen'e dayalı olarak 3D metin sentezi gerçekleştirir. 
+
+Model NERF ve Imagen olarak iki bölümden oluşmaktadır. NERF, bir nesnenin bir veya daha fazla görüntüsünden nöral bir parlaklık alanı oluşturarak 3D sahneleri işlemek için kullanılan bir modeldir. NERF, hacimsel bir görüntüyü (bunun yerine sürekli olan) optimize etmek için seyrek bir girdi seti kullanır. Model, nesnenin çeşitli açılarını kapsayan statik bir görüntü grubuyla başlayarak 3D bir temsil oluşturur.
+
+<img style="width:800px" src="https://mixed-news.com/en/wp-content/uploads/2022/09/dream_fusion.jpg" />
+
+Dream Fusion yapay zeka aracını kullanmak için gereken uygulamalar;
+- Google Colab hesabı — Stable DreamFusion not defterine erişmek için
+- Hugging Face hesabı — SD modeli indirmek için
+- 3D model görüntüleyici — sonucu önizlemek için
+
+GitHub: https://github.com/ashawkey/stable-dreamfusion 
+
+Dream Fusion yapay zeka aracına dair daha fazla bilgi almak için https://dreamfusion3d.github.io/ web sitesini ziyaret edebilirsiniz.
