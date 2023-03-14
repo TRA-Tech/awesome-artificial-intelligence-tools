@@ -2,7 +2,7 @@
 
 Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda kullanılabilecek birçok yapay zeka destekli araçların listesini derledik. Yapay zeka destekli araçlarını İK, Sosyal Medya, Yazılım Sektörü gibi birçok alanda kolaylıkla kullanabilirsiniz. İster bir işletmeniz olsun, ister bir kullanıcı olun fark etmez, yapay zeka araçlarıyla yapmak istediğiniz birçok şeyi başarıyla tamamlayabilirsiniz.
 
-![Awesome Artificial Intelligence Tools](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/Awesome%20A%C4%B0%20Tools.jpg?raw=true)
+![Awesome Artificial Intelligence Tools]()
 
 # İçindekiler
 
