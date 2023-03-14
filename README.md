@@ -6,7 +6,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 ### Metinleri Görüntüye Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Image
 
-- [DALL-E 2](https://https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#dall-e-2)
+- [DALL-E 2](/https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#dall-e-2)
 - [STABLE DIFFUSION](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#stable-diffusion)
 - [CRAIYON](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#craiyon)
 - [JASPER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#jasper)
