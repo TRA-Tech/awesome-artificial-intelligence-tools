@@ -1,3 +1,8 @@
+## Metinleri 3D Boyutlandırabileceğiniz Çevirebileceğiniz Yapay Zeka Araçları
+
+![image](https://user-images.githubusercontent.com/123966022/225607631-da2077fe-e79d-452b-8e54-2c34df0da2a5.png)
+
+
 ### CLIP-MESH
 Girilen metinden 3D model oluşturmaya yarayan yapay zeka aracı.
 
