@@ -1,4 +1,8 @@
 ## Beyin Aktivitelerini Yazıya Çevirebileceğiniz Yapay Zeka Araçları 
+
+![image](https://user-images.githubusercontent.com/123966022/225603760-0f49b215-98d2-428b-9700-94e8338d68e9.png)
+
+
 ### SPEECH FROM BRAIN (META) - Wav2vec
 Konuşmaları beyin aktivitesinden (istilacı olmayan beyin dalgaları ile) deşifre eden yapay zeka modelidir.
 “Karşılaştırmalı öğrenme ile 169 gönüllüden alınan EEG ve MEG kayıtlarını birleştiriyoruz: 3 saniyelik beyin sinyaliyle modelimiz %73'e varan doğruluk sağlıyor”	
