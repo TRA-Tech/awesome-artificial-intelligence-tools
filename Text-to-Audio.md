@@ -1,4 +1,8 @@
 ## Metinleri Seslere Çevirebileceğiniz Yapay Zeka Araçları
+
+![image](https://user-images.githubusercontent.com/123966022/225604332-87e673e0-de84-4096-b7ed-009bfee4f021.png)
+
+
 ### PLAY HT
 
 - Metni kulağa doğal gelen konuşmaya dönüştürmek için kullanılan yapay zekadır. 
