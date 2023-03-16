@@ -1,5 +1,8 @@
 ## Metinleri Kodlara Çevirebileceğiniz Yapay Zeka Araçları
 
+![image](https://user-images.githubusercontent.com/123966022/225604074-1a2b6f70-3ee0-48cf-90fb-ce0a475d7452.png)
+
+
 ### REPLIT GENERATE CODE 
 Tarayıcı üzerinden kullanılabilir. Replit Generate Code bulut üzerinden depolama sağlar. 
 
