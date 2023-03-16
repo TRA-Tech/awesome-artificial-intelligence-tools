@@ -82,7 +82,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [REPLIT GENERATE CODE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#replit-generate-code)
   * [GitHub Copilot](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#github-copilot)
 
-### Metinleri 3D Boyutlandırabileceğiniz Çevirebileceğiniz Yapay Zeka Araçları
+### Metinleri 3D Boyutlandırabileceğiniz Yapay Zeka Araçları
 > Text to 3D
   * [CLIP-MESH](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#clip-mesh)
   * [GET 3D](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#get-3d)
