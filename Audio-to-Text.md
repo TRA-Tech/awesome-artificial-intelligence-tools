@@ -1,4 +1,9 @@
 ## Sesleri Yazıya Çevirebileceğiniz Yapay Zeka Araçları 
+
+![image](https://user-images.githubusercontent.com/123966022/225603672-261a02d2-7878-4b81-a875-e0cb68fe9684.png)
+
+
+
 ### ASSEMBLY AI
 Konuşma tanıma, algılama özellikleriyle sesi ya da videoyu metne dönüştüren yapay zeka modeli. 
 
