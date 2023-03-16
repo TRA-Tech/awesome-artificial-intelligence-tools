@@ -1,4 +1,8 @@
 ## Metinleri Görüntüye Çevirebileceğiniz Yapay Zeka Araçları
+
+![image](https://user-images.githubusercontent.com/123966022/225604542-6da3a3ba-6319-41da-a1e0-f9f7978f8e32.png)
+
+
 ### DALL-E 2
 - **DALL-E 2**, maksimum 400 karakterden oluşan bir metni kendi yarattığı görsellere çeviren, makine öğrenmesiyle çalışan bir yapay zekadır. Oluşturulan görsel üzerinde yazarak düzenleme yapılabilir. Yazılan metin üzerinden farklı alternatifler sunar.
 Uygulamanın beta sürümünü kullanmak için öncelikle bekleme listesine katılmak gerekiyor. Kimlik doğrulaması yapıldıktan sonra uygulama kullanılmaya başlanabilir.
