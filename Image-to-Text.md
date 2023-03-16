@@ -1,5 +1,8 @@
 ## Görüntüleri Metne Çevirebileceğiniz Yapay Zeka Araçları
 
+![image](https://user-images.githubusercontent.com/123966022/225607511-b48c9128-23bf-4ede-ab70-b1e6985abca4.png)
+
+
 ### NEURAL.LOVE
 Neural.love yapay zekâ ile içerik işleme üzerine tasarlanmıştır. Yaratılmasını istediğiniz konuyu metin olarak yazıp bir konsept seçerek ilgili metni görsele dönüştürebilir, bir fotoğraf yükleyerek kendi avatarınızı yaratabilirsiniz. **Uncrop Image** özelliği ile fotoğraflarınızı uygun arka plan ile genişletebilirsiniz. Bunun yanında video, fotoğraf ve ses kalitesi arttırma özelliği de bulunmaktadır. 
 Test kullanım için kullanıcıya 5 kredi tanımlıyor. 
