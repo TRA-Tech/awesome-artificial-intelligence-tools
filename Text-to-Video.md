@@ -1,4 +1,8 @@
 ## Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
+
+![image](https://user-images.githubusercontent.com/123966022/225604678-418f7524-b327-440c-b484-a6a4909c0ae4.png)
+
+
 ### RUNWAY 
 
 **Runway**, yapay zeka destekli metinden videoya dönüştürme aracıdır. Filtreleri, metni, çok kanallı sesi, ana kare animasyonları, çoklu katmanları ve temel düzenleme işlevleri vardır. Ancak asıl farklılığı; metinden videoya, rotoskop tekniği ve içeriğe duyarlı dolgu araçlarıdır.
