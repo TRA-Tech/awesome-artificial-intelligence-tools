@@ -1,6 +1,7 @@
 ## Metinleri Kodlara Çevirebileceğiniz Yapay Zeka Araçları
 
-![image](https://user-images.githubusercontent.com/123966022/225604074-1a2b6f70-3ee0-48cf-90fb-ce0a475d7452.png)
+![image](https://user-images.githubusercontent.com/123966022/225604199-c018a640-ba2a-45b9-9075-a6300a866e48.png)
+
 
 
 ### REPLIT GENERATE CODE 
