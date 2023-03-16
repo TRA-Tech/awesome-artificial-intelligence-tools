@@ -1,4 +1,8 @@
 ## Ses Sentezleri Geliştirebileceğiniz Yapay Zeka Araçları 
+
+![image](https://user-images.githubusercontent.com/123966022/225603479-6c36aa2c-fd87-4ee9-a5c8-216ecc73f235.png)
+
+
 ### AUDIO LM
 Google tarafında geliştirilen yapay zeka ses sentezi modelidir. Uzun vadeli olarak kaliteli ses sentezleri üretmeyi hedefler.
 
