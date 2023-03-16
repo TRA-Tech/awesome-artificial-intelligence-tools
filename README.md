@@ -1,5 +1,8 @@
 ## Awesome Artificial Intelligence Tools
 
+![image](https://user-images.githubusercontent.com/123966022/225603334-20d4ff38-226e-45d1-9c07-81c85735235c.png)
+
+
 Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda kullanılabilecek birçok yapay zeka destekli araçları bu repository altında bir araya getiriyoruz. Yapay zeka destekli araçlarını İK, Sosyal Medya, Yazılım Sektörü gibi birçok alanda kolaylıkla kullanabilirsiniz. İster bir işletmeniz olsun, ister bir kullanıcı olun fark etmez, yapay zeka araçlarıyla yapmak istediğiniz birçok şeyi başarıyla tamamlayabilirsiniz. 
 
 
