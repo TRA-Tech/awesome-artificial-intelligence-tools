@@ -1,4 +1,8 @@
 ## Metinleri Yapay Zeka Destekli Araçlar Sayesinde Optimize Edilmiş Metinlere Çevirin
+
+![image](https://user-images.githubusercontent.com/123966022/225604421-8cfbc0ed-3cae-46f0-999a-950ccb2654d2.png)
+
+
 ### SIMPLIFED 
 **Simplifed** uygulaması sayesinde blog, pazarlama, reklam, sosyal medya, makale gibi farklı kullanım alanlarına 70'ten fazla intihal içermeyen içerik üretebilirsiniz. Açılış sayfaları, sosyal medyadaki reklamlar, ürün açıklamaları ve daha fazlası için 10'dan fazla farklı tonda yazabileceğiniz 70'ten fazla AI şablonuna sahiptir.
 
