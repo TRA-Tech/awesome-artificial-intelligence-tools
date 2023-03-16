@@ -1,6 +1,7 @@
 ## Metinleri Yapay Zeka Araçları Sayesinde Robot Animasyonlarına Çevirin
 
-![Text to Motion](https://github.com/zubeydekocak/awesome-artificial-intelligence-tools/blob/main/TEXT%20TO%20MOT%C4%B0ON.png?raw=true)
+![image](https://user-images.githubusercontent.com/123966022/225607786-9c9c83a3-7a0a-41c8-804d-84a4d686d5cd.png)
+
 
 ### TREE-IND 
 
