@@ -198,3 +198,8 @@ PuzzleLabs yapay zeka aracına dair daha fazla bilgi almak için https://puzzlel
 Yapay zeka destekli platform özgeçmişiniz ve LinkedIn profiliniz hakkında size özel geri bildirim sağlar. CV örnekleri sunarak, CV hazırlanmasına yardımcı olur. 
 
 Resume Worded yapay zeka aracına dair daha fazla bilgi almak için https://www.resumeworded.com/ web sitesini ziyaret edebilirsiniz. 
+
+### GOOGLE BARD 
+Google tarafından geliştirilen bir doğal dil işleme modelidir. Bu model, internet üzerindeki bilgilere daha doğal ve anlamlı bir şekilde erişebilmeyi amaçlamaktadır. Google Bard, özellikle arama motoru sonuçlarının yanı sıra, diyalog sistemleri ve diğer doğal dil işleme uygulamaları gibi birçok alanda kullanılabilecek şekilde tasarlanmıştır. Bu model, OpenAI'nin GPT serisi modelleri gibi, büyük miktarda veri kullanılarak eğitilmiştir ve dil anlama ve oluşturma becerilerinde yüksek başarı oranları elde etmiştir.
+
+
