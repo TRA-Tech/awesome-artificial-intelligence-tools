@@ -109,7 +109,8 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [VOICEMOD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#voicemod)
   * [LOORA AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#loora-ai)
   * [SKIT AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#skit-ai)
-
+  * [CORTI AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#corti-ai)
+  
   
 ### Sesleri Yazıya Çevirebileceğiniz Yapay Zeka Araçları
 > Audio to Text
