@@ -17,3 +17,8 @@ Audio LM yapay zeka aracına dair daha fazla bilgi almak için https://ai.google
 Ücretsiz ses değiştirme ve özel ses efekti ekleme aracıdır. Bir metni şarkı haline getirebilir. Discord, zoom, Google meet, minecraft, Word of Warcraft, Overwatch, Rust, Fortnite,, LOL, Skype dahil uygulamalarda gerçek zamanlı olarak kullanılabilir.
 
 Voicemod yapay zeka aracına dair daha fazla bilgi almak için https://www.voicemod.net/  web sitesini ziyaret edebilirsiniz.
+
+### LOORA 
+Loora; İngilizce konuşmak isteyen ya da konuşma becerilerini arttırmak isteyen kullanıcılar için geliştirilmiş bir yapay zeka aracı. 
+
+Loora yapay zeka aracına dair daha fazla bilgi almak için https://loora.ai/ web sitesini ziyaret edebilirsiniz. 
