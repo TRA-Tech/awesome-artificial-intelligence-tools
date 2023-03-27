@@ -59,6 +59,11 @@ Amberscript yapay zeka aracına dair daha fazla bilgi almak için https://www.am
 ![image](https://user-images.githubusercontent.com/123966022/227929014-c0b2e5ba-a193-4c4d-ad8e-d3bc99466608.png)
 
 
+### SYMBL AI
+Symbl AI, metin dosyaları, ses dosyaları, video dosyaları, yayın akışı ses dosyaları, telefon görüşmeleri gibi birçok kanalda çalışır ve gerçek zamanlı iç görüler elde etmeyi sağlayan yapay zeka aracıdır. 
+
+Symbl AI yapay zeka aracına dair daha fazla bilgi almak için https://symbl.ai/ web sitesini ziyaret edebilirsiniz. ,
+
 
 
 
