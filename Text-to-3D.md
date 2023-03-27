@@ -36,3 +36,10 @@ Dream Fusion yapay zeka aracını kullanmak için gereken uygulamalar;
 GitHub: https://github.com/ashawkey/stable-dreamfusion 
 
 Dream Fusion yapay zeka aracına dair daha fazla bilgi almak için https://dreamfusion3d.github.io/ web sitesini ziyaret edebilirsiniz.
+
+### Instruct-NeRF2NeRF
+3D modellemeler yapabileceğiniz ve ilginç tasarımlar çıkarabileceğiniz yapay zeka aracı: Instruct-NeRF2NeRF. Yapay zeka aracına talimatlar vererek modelleme işlemlerinizi kolaylıkla oluşturabilirsiniz. 
+
+Instruct-NeRF2NeRF yapay zeka aracına dair daha fazla bilgi almak için https://instruct-nerf2nerf.github.io/ web sitesini ziyaret edebilirsiniz. 
+
+
