@@ -38,3 +38,27 @@ Cleanvoice yapay zeka aracını 30 dakika boyunca ücretsiz olarak deneyimlemek 
 Web tabanlı bir uygulamadır. Ses ve video kaydı yapma imkânı sağlar. Yapay zekâ teknolojisinin gücünü kullanarak bölme, kırpma, sıkıştırma, eşitleme, seviyeleme ve geliştirme dahil olmak üzere podcast'inizi düzenleyebilirsiniz. Yazıya dökülen metinde değişiklik yaparak ses parçalarını düzenleyebilirsiniz. 
 
 Podcastle Ai uygulamasına dair daha fazla bilgi almak için https://podcastle.ai/ web sitesini ziyaret edebilirsiniz. 
+
+### SECONDNATURE
+SecondNature, satış ve pazarlama alanında gelişmek isteyen ve hedeflerini aşmak isteyen pazarlamacılar ve satış liderleri için yapılmış yapay zeka tabanlı satış eğitim çözüm platformu. 
+
+SecondNature yapay zeka aracına dair daha fazla bilgi almak için https://secondnature.ai/ web sitesini ziyaret edebilirsiniz. 
+
+### ONE AI
+One AI; metinleri, sesleri ve videoları analiz etmeye ve bu girdiler üzerinde düzenlemeler yapmayı sağlayan yapay zeka aracıdır. 
+
+One AI yapay zeka aracına dair daha fazla bilgi almak için https://www.oneai.com/#widget web sitesini ziyaret edebilirsiniz. 
+
+### AMBERSCRIPT 
+Amberscript; altyazı, dublaj, sesli açıklama, çeviriler üzerinde transkripsiyon işlemleri yapabileceğiniz bir yapay zeka aracı. 
+
+39 dil desteği mevcut. 
+
+Amberscript yapay zeka aracına dair daha fazla bilgi almak için https://www.amberscript.com/en/ web sitesini ziyaret edebilirsiniz. 
+
+![image](https://user-images.githubusercontent.com/123966022/227929014-c0b2e5ba-a193-4c4d-ad8e-d3bc99466608.png)
+
+
+
+
+
