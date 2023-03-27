@@ -22,3 +22,10 @@ Voicemod yapay zeka aracına dair daha fazla bilgi almak için https://www.voice
 Loora; İngilizce konuşmak isteyen ya da konuşma becerilerini arttırmak isteyen kullanıcılar için geliştirilmiş bir yapay zeka aracı. 
 
 Loora yapay zeka aracına dair daha fazla bilgi almak için https://loora.ai/ web sitesini ziyaret edebilirsiniz. 
+
+### SKIT AI 
+Skit AI; çağrı otomasyonları sağlayabileceğiniz, düşük maliyetlerle gerçekçi sesler elde ederek telesekreter aramaları minimum maliyete düşüreceğiniz bir yapay zeka aracı. 
+
+16 dil desteği mevcut. 
+
+Skit AI dair daha fazla bilgi almak için https://skit.ai/ web sitesini ziyaret edebilirsiniz. 
