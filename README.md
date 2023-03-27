@@ -91,6 +91,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [CLIP-MESH](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#clip-mesh)
   * [GET 3D](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#get-3d)
   * [DREAM FUSION](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#dream-fusion)
+  * [Instruct-NeRF2NeRF](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#instruct-nerf2nerf)
 
 ### Görüntüleri Metne Çevirebileceğiniz Yapay Zeka Araçları
 > Image to Text
