@@ -165,3 +165,29 @@ GPT-3 destekli yapay zekâ aracıdır. Müşteri sorularına hızlı dönüş sa
 API: https://www.quickchat.ai/docs/#introduction
 
 Quickchat yapay zeka aracına dair detaylı bilgi almak için https://www.quickchat.ai/  web sitesini ziyaret edebilirsiniz. 
+
+### ADOBE FIREFLY 
+Adobe Firefly; video, dijital fotoğrafçılık, çizim ve grafik tasarım, pazarlama ve sosyal medya alanlarında size birçok konuda yardımcı olabilecek bir yapay zeka aracı. Fotoğraflarınıza, videolarınıza yaratıcı efektler ve dilediğiniz şekilde kreasyonlar oluşturabilirsiniz. 3D modelleme alanında da bu yapay zeka aracı sayesinde geliştirmeler yapabilirsiniz. 
+
+![image](https://user-images.githubusercontent.com/123966022/227861176-7e10f5be-b238-4d28-a902-601cb3090b61.png)
+
+Şu anda BETA sürümü kullanılmaktadır. 
+
+Adobe Firefly yapay zeka aracına dair daha fazla bilgi almak için https://www.adobe.com/sensei/generative-ai/firefly.html web sitesini ziyaret edebilirsiniz. 
+
+### MICROSOFT BING IMAGE CREATOR 
+Microsoft, OpenAI'nin görüntü oluşturucusu DALL-E'yi Bing'e entegre ettiğini duyurdu. Böylelikle Bing üzerinden elde etmek istediğiniz görüntüyü birkaç kelimeyle açıklayarak elde edebilirsiniz. Bing Image Creator, Microsoft Edge üzerinden kolaylıkla kullanılabilecek. 
+
+Microsoft Bing Image Creator yapay zeka aracına dair daha fazla bilgi almak için https://www.bing.com/images/create?toWww=1&redig=A1A8AA555E3645BB9D35FB9F59B4871A web sitesini ziyaret edebilirsiniz. 
+
+### CANVA
+Canva, birçok yapay zeka aracını kullanıcılarına sundu. 
+
+Artık Canva kullanıcıları; 
+- Bir resmi kolaylıkla birden fazla kişiselleştirilmiş şablon üzerinde kullanabilecek
+- Tasarım üzerinde istenmeyen görseller kolaylıkla temizlenebilecek
+- Bir öğeyi, yapay zeka aracıyla oluşturulmuş bir öğeyle değiştirmek
+- Bilgi isteminden isteğinize uygun tasarım slaytları belirleyebilirsiniz. 
+
+Canva yapay zeka özelliklerine dair daha fazla bilgi almak için https://www.canva.com/ web sitesini ziyaret edebilirsiniz. 
+
