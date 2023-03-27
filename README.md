@@ -24,6 +24,9 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [PATTERNED AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#patterned-ai)
 - [STOCKIMG AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#stockimg-ai)
 - [QUICKCHAT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#quickchat)
+- [ADOBE FIREFLY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#adobe-firefly)
+- [MICROSOFT BING IMAGE CREATOR](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#microsoft-bing-image-creator)
+- [CANVA](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#canva)
 
 ### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Video
