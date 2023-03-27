@@ -28,3 +28,11 @@ Metni sese dönüştüren yapay zekâ aracıdır. Ayrıca sesi görüntü-videoy
 İngilizce dil desteği bulunmaktadır. 
 
 Descript uygulaması indirmek için https://www.descript.com/download/other-device linke tıklayın. 
+
+### LOVO AI 
+Lovo AI; pazarlama, eğitim, sosyal medya, kurumsal eğitim, YouTube gibi platformlarda da kullanılabilecek gerçek insan sesleri ve yelpazesi geniş ses kütüphanesine sahip yapay zeka aracıdır. 
+
+100 dil desteği bulunmaktadır. 
+
+Lovo yapay zeka aracına dair daha fazla bilgi almak için https://lovo.ai/ web sitesini ziyaret edebilirsiniz. 
+
