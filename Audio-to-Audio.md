@@ -29,3 +29,10 @@ Skit AI; çağrı otomasyonları sağlayabileceğiniz, düşük maliyetlerle ger
 16 dil desteği mevcut. 
 
 Skit AI dair daha fazla bilgi almak için https://skit.ai/ web sitesini ziyaret edebilirsiniz. 
+
+### CORTI AI
+Corti AI, hasta karşılamalarını dinleyerek yazıya döken, gerekli yönlendirmeleri sağlayan, kodlayan ses tabanlı yapay zeka aracıdır. 
+
+Corti AI dair daha fazla bilgi almak için https://www.corti.ai/ web sitesini ziyaret edebilirsiniz. 
+
+
