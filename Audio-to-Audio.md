@@ -18,7 +18,7 @@ Audio LM yapay zeka aracına dair daha fazla bilgi almak için https://ai.google
 
 Voicemod yapay zeka aracına dair daha fazla bilgi almak için https://www.voicemod.net/  web sitesini ziyaret edebilirsiniz.
 
-### LOORA 
+### LOORA AI
 Loora; İngilizce konuşmak isteyen ya da konuşma becerilerini arttırmak isteyen kullanıcılar için geliştirilmiş bir yapay zeka aracı. 
 
 Loora yapay zeka aracına dair daha fazla bilgi almak için https://loora.ai/ web sitesini ziyaret edebilirsiniz. 
