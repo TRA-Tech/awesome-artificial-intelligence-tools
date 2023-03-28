@@ -60,3 +60,11 @@ Zaman içinde değişebilen komut istemleri ve birkaç dakikaya kadar uzayabilen
 <img style="width:1000px" src="https://the-decoder.com/wp-content/uploads/2022/10/phenaki_demo_prompts_title.jpg" />
 
 Daha fazla bilgi almak için https://phenaki.video/ web sitesini ziyaret edebilirsiniz. 
+
+### DEEPBRAIN AI
+Deepbrain AI, kendi özel avatarlarınızı oluşturabileceğiniz ve temel konuşma becerileriyle yapay zeka videoları elde edebileceğiniz bir araçtır. 
+80 dil desteği bulunmaktadır. Sizze sunulan AI avatarların yanı sıra kendi avatarlarınızı da tasarlayabilirsiniz. 
+
+Daha fazla bilgi almak için https://www.deepbrain.io/ web sitesini ziyaret edebilirsiniz.
+
+
