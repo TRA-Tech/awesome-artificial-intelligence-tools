@@ -87,6 +87,14 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 > Text to Code
   * [REPLIT GENERATE CODE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#replit-generate-code)
   * [GitHub Copilot](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#github-copilot)
+  * [ANIMA AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#anima-ai)
+  * [BLOOP](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#bloop)
+  * [CODACY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#codacy)
+  * [TABNINE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#tabnine-ai)
+  * [MAGIC AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#magic-ai)
+  * [WARP](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#warp)
+ 
+
 
 ### Metinleri 3D Boyutlandırabileceğiniz Yapay Zeka Araçları
 > Text to 3D
