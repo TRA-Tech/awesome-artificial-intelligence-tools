@@ -102,6 +102,16 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [GET 3D](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#get-3d)
   * [DREAM FUSION](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#dream-fusion)
   * [Instruct-NeRF2NeRF](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#instruct-nerf2nerf)
+  * [KINETIX](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#kinetix)
+  * [UNEEQ AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#uneeq-ai)
+  * [MOVE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#move-ai)
+  * [CSM AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#csm-ai)
+  * [MOVIO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#movio)
+  * [SCENARIO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#scenario)
+  * [RCT AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#rct-ai)
+  * [ALETHEA AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#alethea-ai)
+  * [INWORLD AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#inworld-ai)
+  * [LEIA INC](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#leia-inc)
 
 ### Görüntüleri Metne Çevirebileceğiniz Yapay Zeka Araçları
 > Image to Text
