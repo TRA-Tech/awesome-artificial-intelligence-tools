@@ -35,4 +35,9 @@ Corti AI, hasta karşılamalarını dinleyerek yazıya döken, gerekli yönlendi
 
 Corti AI dair daha fazla bilgi almak için https://www.corti.ai/ web sitesini ziyaret edebilirsiniz. 
 
+### BALTO AI
+Balto AI, gerçek zamanlı koçluk, mentorluk, rehberlik desteği veren yapay zeka aracıdır. 
+
+Balto AI dair daha fazla bilgi almak için https://www.balto.ai/ web sitesini ziyaret edebilirsiniz. 
+
 
