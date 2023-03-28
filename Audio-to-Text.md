@@ -64,6 +64,17 @@ Symbl AI, metin dosyaları, ses dosyaları, video dosyaları, yayın akışı se
 
 Symbl AI yapay zeka aracına dair daha fazla bilgi almak için https://symbl.ai/ web sitesini ziyaret edebilirsiniz. ,
 
+### SPEAK AI
+Speak AI, otomatik transkripsiyon özelliği sayesinde ses ve videoları kolaylıkla metne dönüştürmenize yardımcı olan bir yapay zeka aracıdır. Speak Ai Zapier entegrasyonu, Google Chrome Uzantısını, Zoom entegrasyonunu, Vimeo entegrasyonunu gibi birçok uygulamayla entegre bir şekilde çalışmaktadır. 
+
+Speak AI yapay zeka aracına dair daha fazla bilgi almak için https://speakai.co/ web sitesini ziyaret edebilirsiniz. 
+
+### USHUR AI
+Ushur AI, müşteri ilişkilerini güçlendirmek ve müşterilere, çağrı yönlendirme, otomatik mesaj gönderme gibi birçok otomasyonu içinde barındıran bir yapay zeka aracıdır. 
+
+Ushur AI yapay zeka aracına dair daha fazla bilgi almak için https://ushur.com/ web sitesini ziyaret edebilirsiniz. 
+
+
 
 
 
