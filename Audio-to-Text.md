@@ -2,8 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/123966022/225603672-261a02d2-7878-4b81-a875-e0cb68fe9684.png)
 
-
-
 ### ASSEMBLY AI
 Konuşma tanıma, algılama özellikleriyle sesi ya da videoyu metne dönüştüren yapay zeka modeli. 
 
@@ -73,6 +71,13 @@ Speak AI yapay zeka aracına dair daha fazla bilgi almak için https://speakai.c
 Ushur AI, müşteri ilişkilerini güçlendirmek ve müşterilere, çağrı yönlendirme, otomatik mesaj gönderme gibi birçok otomasyonu içinde barındıran bir yapay zeka aracıdır. 
 
 Ushur AI yapay zeka aracına dair daha fazla bilgi almak için https://ushur.com/ web sitesini ziyaret edebilirsiniz. 
+
+### ELISE AI
+Elise AI; e-posta, sms, telefon, web sohbet üzerinde size ulan müşterilere geri bildirim veren yapay zeka aracıdır. E-posta takiplerini yapar, SMS üzerinden gelen mesajları analiz ederek cevap verir, web sitenizi ziyaret eden ve sohbet balonuna mesaj bırakan müşterilerinizi yönlendirir. Bu sayede kurumsal ya da bireysel işlerinizde zamandan tasarruf sağlayabilirsiniz. 
+
+Elise AI, dair daha fazla bilgi almak için https://www.eliseai.com/ web sitesini ziyaret edebilirsiniz. 
+
+
 
 
 
