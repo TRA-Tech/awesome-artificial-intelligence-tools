@@ -37,6 +37,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [META AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#meta-ai)
 - [GOOGLE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#google-ai)
 - [PHENAKI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#phenaki)
+- [DEEPBRAIN AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#deepbrain-ai)
  
 ### Metinleri Seslere Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Audio
