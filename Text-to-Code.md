@@ -58,3 +58,47 @@ Visual Studio Code, Visual Studio, Neovim ve JetBrains entegre geliştirme ortam
 <img style="width:1000px" src="https://github.blog/wp-content/uploads/2021/06/GitHub-Copilot_social-card-1.png?fit=1200%2C630" />
 
 GitHub Copilot yapay zeka aracına dair daha fazla bilgi almak için https://github.com/features/copilot web sitesini ziyaret edin. 
+
+### ANIMA AI
+Anima AI; tasarımcılar, geliştiriciler ve ekip çalışması yapan kişilerce kullanılabilecek bir yapay zeka aracıdır. Bu yapay zeka aracı; tasarım otomasyonu, geliştirici kod gibi işlerinizi destekleyecek bir uygulamadır. 
+
+Anima AI yapay zeka aracına dair daha fazla bilgi almak için https://www.animaapp.com/ web sitesini ziyaret edin. 
+
+### BLOOP 
+Bloop AI; semantik kod arama işlemlerinizi hızlandırarak, dahili API'leri kolaylaştırarak, kod keşfi yapmanızı sağlayan yapay zeka aracıdır. 
+
+10+ dil desteği bulunmaktadır. 
+
+Bloop AI, yapay zeka aracına dair daha fazla bilgi almak için https://bloop.ai/ web sitesini ziyaret edin. 
+
+### CODACY
+Codacy; kod araştırmalarınızda hızlı sonuçlar elde ederek %60'a varan tasarruf elde etmenizi, git deponuzla kolayca entegre olur ve iş akışınızı kolaylıkla devam ettirebileceğiniz bir yapay zeka aracıdır. 
+
+GitHub hesabı: https://github.com/codacy
+
+Codacy yapay zeka aracına dair daha fazla bilgi almak için https://www.codacy.com/ web sitesini ziyaret edin. 
+
+### TABNINE AI
+Tabnine, yazılım geliştiricilerine kolaylık sunan bir yapay zeka aracıdır. Kodlarınızı düzenleyebilir ve tamamlama aşamasında destek alabilirsiniz. GitHub, Gitlab, Bitbucket gibi havuzlarınıza kolayca entegre edebilirsiniz. 
+
+Tabnine yapay zeka aracına dair daha fazla bilgi almak için https://www.tabnine.com/ web sitesini ziyaret edin. 
+
+### MAGIC AI
+Magic AI, yazılım geliştirme alanında kodlarda düzeltmeler ve geliştirmeler yapılmasını sağlayan yapay zeka aracıdır. 
+
+Magic AI, yapay zeka aracına dair daha fazla bilgi almak için https://magic.dev/ web sitesini ziyaret edin. 
+
+### WARP 
+Warp, yazılım alanında geliştirilmiş Rust tabanlı yenilenmiş bir terminal yapay zeka aracıdır. 
+
+GitHub: https://github.com/warpdotdev/Warp
+
+Discord: https://discord.com/invite/warpdotdev
+
+Warp yapay zeka aracına dair daha fazla bilgi almak için https://www.warp.dev/ web sitesini ziyaret edin. 
+
+
+
+
+
+
