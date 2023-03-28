@@ -127,6 +127,9 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [SYMBL AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#symbl-ai)
   * [SPEAK AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#speak-ai)
   * [USHUR AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#ushur-ai)
+  * [ELISE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#elise-ai)
+  
+
   
 
 
