@@ -77,7 +77,17 @@ Elise AI; e-posta, sms, telefon, web sohbet üzerinde size ulan müşterilere ge
 
 Elise AI, dair daha fazla bilgi almak için https://www.eliseai.com/ web sitesini ziyaret edebilirsiniz. 
 
+### PAPERCUP 
+Papercup, doğal dil işleme teknolojisini kullanarak gerçek zamanlı olarak sesli konuşmayı metne dönüştüren bir platformdur. Bu teknoloji sayesinde, canlı yayınlar, video konferanslar, telefon görüşmeleri gibi farklı konuşma türleri gerçek zamanlı olarak yazıya dönüştürülebilir.
 
+Daha fazla bilgi almak için https://www.papercup.com/ web sitesini ziyaret edin. 
+
+### DIALPAD 
+Dialpad, yapay zeka teknolojilerini kullanarak iletişim işlemlerini optimize etmeyi amaçlayan bir platformdur. Bu teknolojiler arasında, doğal dil işleme, makine öğrenimi, konuşma tanıma, duygu analizi ve diyalog yönetimi gibi alanlar yer alır.
+
+Daha fazla bilgi almak için https://www.dialpad.com/ai/ web sitesini ziyaret edin. 
+
+### 
 
 
 
