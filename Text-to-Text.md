@@ -202,4 +202,73 @@ Resume Worded yapay zeka aracına dair daha fazla bilgi almak için https://www.
 ### GOOGLE BARD 
 Google tarafından geliştirilen bir doğal dil işleme modelidir. Bu model, internet üzerindeki bilgilere daha doğal ve anlamlı bir şekilde erişebilmeyi amaçlamaktadır. Google Bard, özellikle arama motoru sonuçlarının yanı sıra, diyalog sistemleri ve diğer doğal dil işleme uygulamaları gibi birçok alanda kullanılabilecek şekilde tasarlanmıştır. Bu model, OpenAI'nin GPT serisi modelleri gibi, büyük miktarda veri kullanılarak eğitilmiştir ve dil anlama ve oluşturma becerilerinde yüksek başarı oranları elde etmiştir.
 
+Daha fazla bilgi almak için https://bard.google.com/ web sitesini ziyaret edin. 
+
+### NLX
+NLX AI, doğal dil işleme ve yapay zeka teknolojileri kullanarak konuşma ve metin tabanlı iletişimde bulunan insanlar ve bilgisayar sistemleri arasındaki etkileşimi kolaylaştırmak için tasarlanmış açık kaynaklı bir yazılım platformudur. Makine öğrenimi modelleri, konuşma ve metin tabanlı kullanıcı arabirimleri, çoklu kanal desteği (SMS, e-posta, sohbet vb.), çoklu dil desteği ve birçok diğer özellik bulunur.
+
+Daha fazla bilgi almak için https://nlx.ai/ web sitesini ziyaret edin. 
+
+### LANDBOT 
+Landbot.io, kullanıcıların diğer dijital kanallar üzerinden etkileşimli sohbet robotları oluşturmasına ve bu sohbet robotlarını yönetmesini sağlayan yapay zeka aracıdır. Bu sohbet robotları; kullanıcılara sorular sorma, yanıtları analiz etme ve doğru cevapları sunma gibi görevleri yerine getirebilir. Landbot.io, müşteri hizmetleri, pazarlama, satış ve diğer birçok işlev için kullanılabilir. 
+
+Daha fazla bilgi almak için https://landbot.io/ web sitesini ziyaret edin. 
+
+### CERTAINLY 
+Certainly AI, doğal dil işleme ve yapay zeka teknolojilerini kullanarak işletmelerin müşteri hizmetlerini, satış faaliyetlerini, pazarlama kampanyalarını ve diğer iş süreçlerini otomatikleştirmelerine yardımcı olan bir yapay zeka aracı ve yazılım platformudur. 
+
+Daha fazla bilgi almak için https://certainly.io/ web sitesini ziyaret edin. 
+
+### LAVENDER AI
+
+Lavender AI, doğal dil işleme ve yapay zeka teknolojilerini kullanarak otomatik müşteri hizmetleri ve chatbot çözümleri sunan bir yazılım platformudur. Lavender AI, işletmelerin müşteri hizmetleri süreçlerini otomatikleştirmelerine, müşteri deneyimini geliştirmelerine ve maliyetleri düşürmelerine yardımcı olur. Entegre NLP modülleri, otomatik cevaplama ve yönlendirme, chatbot özelleştirme ve tasarımı, çoklu kanal desteği (SMS, web, mobil uygulama vb.), gerçek zamanlı analiz ve raporlama, ve birçok diğer özellik bulunur.
+
+Daha fazla bilgi almak için https://www.lavender.ai/ web sitesini ziyaret edebilirsiniz. 
+
+### PERSONAL AI 
+Personal AI, kişisel asistan/chatbot sayesinde mesaj yazma, geri bildirimde bulunma gibi konularda önerileriyle zamandan tasarruf etmeyi sağlayan yapay zeka aracıdır. Kişisel AI'ın örnekleri arasında Apple'ın Siri'si, Amazon'un Alexa'sı ve Google'ın Asistanı yer alır. 
+
+Daha fazla bilgi almak için https://www.personal.ai/features web sitesini ziyaret edin. 
+
+### VERLOOP 
+Verloop.io, müşteri hizmetleri ve satış otomasyonu için bir yapay zeka platformudur. Verloop, yapay zeka teknolojilerini kullanarak otomatik müşteri desteği ve chatbot çözümleri sunmaktadır.
+
+Daha fazla bilgi almak için https://verloop.io/ web sitesini ziyaret edin. 
+
+### UNBOUND 
+Unbound Content, yapay zeka teknolojileri ve veri analizi yoluyla içerik oluşturma hizmetleri sunan bir platformdur. Unbound Content'in hizmetleri arasında blog yazısı, makale, sosyal medya içeriği, infografik, video içerik ve diğer birçok içerik türü bulunur. Platform ayrıca, içerik performansını analiz etmek için veri toplama ve analiz araçları sunar ve müşterilerine içerik stratejilerini optimize etme konusunda danışmanlık hizmetleri sağlar.
+
+Discord: https://discord.com/invite/z2gjKD9ryP 
+
+Daha fazla bilgi almak için https://www.unboundcontent.ai/ web sitesini ziyaret edin. 
+
+### TIMELY
+Timely, kişisel zaman yönetimi için bir web ve mobil uygulama platformudur. Bu platform, kullanıcıların zamanlarını yönetmelerine, görevleri takip etmelerine, proje sürelerini takip etmelerine ve zaman takibi yapmalarına yardımcı olur.
+
+Daha fazla bilgi almak için https://timelyapp.com/ web sitesini ziyaret edin. 
+
+### MAVENOID
+Mavenoid, öz-düzeltme yapabilen bir sorun giderme platformudur. Bu platform, müşteri hizmetleri ve teknik destek için kullanılır ve müşterilerin ürünlerle ilgili sorunları çözmelerine yardımcı olur. Mavenoid, yapay zeka teknolojilerini kullanarak, ürünlerin arızalarını tespit etmek ve bunları otomatik olarak düzeltmek için de kullanılabilir. Bu sayede, üreticiler ve satıcılar için daha verimli bir hizmet sağlanır ve müşteri memnuniyeti artar.
+
+Daha fazla bilgi almak için https://www.mavenoid.com/en/ web sitesini ziyaret edin. 
+
+### ULTIMATE AI
+Ultimate.ai, bir yapay zeka konuşma robotu platformudur. Bu platform, müşteri hizmetleri için kullanılır ve şirketlerin müşterileriyle etkileşimlerini daha verimli hale getirmelerine yardımcı olur.
+
+Daha fazla bilgi almak için https://www.ultimate.ai/ web sitesini ziyaret edin. 
+
+### WRITER 
+İçerik yazarları için bir yazılım platformudur. Bu platform, web siteleri, bloglar, ürün açıklamaları, pazarlama metinleri ve diğer türdeki içerikler için yazarlara destek olur.
+
+API: https://writer.com/product/api/
+
+Daha fazla bilgi almak için https://writer.com/ web sitesini ziyaret edin. 
+
+### CONTENTS 
+Contents, içerik yazarları ve pazarlama ekipleri için yapay zeka destekli bir içerik pazarlama platformudur.
+
+Daha fazla bilgi almak için https://www.contents.com/ web sitesini ziyaret edin. 
+
+### 
+
 
