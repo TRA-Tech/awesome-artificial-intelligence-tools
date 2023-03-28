@@ -202,6 +202,9 @@ Resume Worded yapay zeka aracına dair daha fazla bilgi almak için https://www.
 ### GOOGLE BARD 
 Google tarafından geliştirilen bir doğal dil işleme modelidir. Bu model, internet üzerindeki bilgilere daha doğal ve anlamlı bir şekilde erişebilmeyi amaçlamaktadır. Google Bard, özellikle arama motoru sonuçlarının yanı sıra, diyalog sistemleri ve diğer doğal dil işleme uygulamaları gibi birçok alanda kullanılabilecek şekilde tasarlanmıştır. Bu model, OpenAI'nin GPT serisi modelleri gibi, büyük miktarda veri kullanılarak eğitilmiştir ve dil anlama ve oluşturma becerilerinde yüksek başarı oranları elde etmiştir.
 
+![image](https://user-images.githubusercontent.com/123966022/228273404-4f70e5c8-ac90-4b94-be33-0dcb9289aefd.png)
+
+
 Daha fazla bilgi almak için https://bard.google.com/ web sitesini ziyaret edin. 
 
 ### NLX
@@ -218,6 +221,8 @@ Daha fazla bilgi almak için https://landbot.io/ web sitesini ziyaret edin.
 Certainly AI, doğal dil işleme ve yapay zeka teknolojilerini kullanarak işletmelerin müşteri hizmetlerini, satış faaliyetlerini, pazarlama kampanyalarını ve diğer iş süreçlerini otomatikleştirmelerine yardımcı olan bir yapay zeka aracı ve yazılım platformudur. 
 
 Daha fazla bilgi almak için https://certainly.io/ web sitesini ziyaret edin. 
+
+![image](https://user-images.githubusercontent.com/123966022/228274168-0be15f3b-7e8e-4528-8799-d7c54b6aca9f.png)
 
 ### LAVENDER AI
 
@@ -245,6 +250,9 @@ Daha fazla bilgi almak için https://www.unboundcontent.ai/ web sitesini ziyaret
 ### TIMELY
 Timely, kişisel zaman yönetimi için bir web ve mobil uygulama platformudur. Bu platform, kullanıcıların zamanlarını yönetmelerine, görevleri takip etmelerine, proje sürelerini takip etmelerine ve zaman takibi yapmalarına yardımcı olur.
 
+![image](https://user-images.githubusercontent.com/123966022/228274377-2be0252b-7cef-4dcd-9e11-aad6e04d7647.png)
+
+
 Daha fazla bilgi almak için https://timelyapp.com/ web sitesini ziyaret edin. 
 
 ### MAVENOID
@@ -269,6 +277,61 @@ Contents, içerik yazarları ve pazarlama ekipleri için yapay zeka destekli bir
 
 Daha fazla bilgi almak için https://www.contents.com/ web sitesini ziyaret edin. 
 
-### 
+### REGIE AI 
+Regie.ai websitesi, müşterilerin işletmelerindeki verimliliği artırmalarına yardımcı olmak için bir dizi yapay zeka ve otomasyon araçları sunan bir girişimdir.
+
+![image](https://user-images.githubusercontent.com/123966022/228274542-2f55399a-c263-49ef-aab8-48b864a30526.png)
+
+Daha fazla bilgi almak için https://www.regie.ai/ web sitesini ziyaret edin. 
+
+### PEPPERCONTENT 
+Pepper Content'ın Peppertype AI websitesi, markaların ve şirketlerin daha iyi ve hızlı bir şekilde içerik oluşturmasına yardımcı olan bir yapay zeka tabanlı bir araçtır.
+
+Daha fazla bilgi almak için https://www.peppercontent.io/peppertype-ai/ web sitesini ziyaret edin. 
+
+### AGOLO
+Agolo, işletmelerin içerik akışlarını otomatikleştirmelerine yardımcı olan bir yapay zeka platformudur. 
+
+Daha fazla bilgi almak için https://www.agolo.com/ web sitesini ziyaret edin. 
+
+### DEEPL
+DeepL, yapay zeka teknolojileri kullanarak insanlara daha doğru, hızlı ve etkili bir şekilde çeviri hizmeti sunan bir çeviri platformudur. 
+
+API: https://www.deepl.com/docs-api
+
+GitHub: https://github.com/DeepLcom
+
+Daha fazla bilgi almak için https://www.deepl.com/translator web sitesini ziyaret edin. 
+
+### KASISTO
+Kasisto, yapay zeka teknolojileri kullanarak finansal kuruluşlar için dijital asistan ve chatbot çözümleri sunan bir şirkettir. 
+
+Daha fazla bilgi almak için https://kasisto.com/ web sitesini ziyaret edin. 
+
+### INSTORIED 
+Instoried, yapay zeka teknolojilerini kullanarak metinlerin duygu ve hissiyatlarını analiz eden bir platformdur. Bu analiz sonucunda metnin hedef kitle üzerindeki etkisini tahmin etmek ve geliştirmek mümkün hale gelir.
+
+![image](https://user-images.githubusercontent.com/123966022/228274861-3060714b-fa14-4c48-9709-048c1d246daf.png)
 
 
+Daha fazla bilgi almak için https://instoried.com/ web sitesini ziyaret edin. 
+
+### TEXTIO 
+Textio, işletmelerin ve yazıcıların metinlerinin daha etkili olması için yapay zeka teknolojilerini kullanan bir platformdur. Platform, metinlerin yazım, dilbilgisi, vurgu, tonlama ve anlamını analiz eder ve metnin okuyucu üzerindeki etkisini tahmin etmek için veriye dayalı modeller kullanır.
+
+Daha fazla bilgi almak için https://textio.com/ web sitesini ziyaret edin. 
+
+### HAPTIK 
+Haptik, müşteri hizmetleri alanında faaliyet gösteren bir yapay zeka şirketidir. Şirket, müşteri hizmetleri ve pazarlama işlemlerindeki iş yükünü azaltmak için chatbotlar ve sanal asistanlar gibi otomatikleştirilmiş çözümler sunar.
+
+Daha fazla bilgi almak için https://www.haptik.ai/ web sitesini ziyaret edin. 
+
+### ADA AI 
+Ada, yapay zeka destekli müşteri hizmetleri sağlayan bir platformdur. Ada, müşteri hizmetleri işlemlerinin bir kısmını otomatikleştirerek müşteri deneyimini iyileştirir ve müşteri hizmetleri maliyetlerini azaltır.
+
+Daha fazla bilgi almak için https://www.ada.cx/ web sitesini ziyaret edin. 
+
+### FORETHOUGHT 
+Forethought, yapay zeka destekli müşteri hizmetleri sağlayan bir platformdur. Şirket, müşteri hizmetleri işlemlerini otomatikleştirmek için doğal dil işleme teknolojisi, makine öğrenimi ve diğer yapay zeka teknolojilerini kullanır.
+
+Daha fazla bilgi almak için https://forethought.ai/ web sitesini ziyaret edin. 
