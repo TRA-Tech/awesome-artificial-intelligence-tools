@@ -40,6 +40,77 @@ Dream Fusion yapay zeka aracına dair daha fazla bilgi almak için https://dream
 ### Instruct-NeRF2NeRF
 3D modellemeler yapabileceğiniz ve ilginç tasarımlar çıkarabileceğiniz yapay zeka aracı: Instruct-NeRF2NeRF. Yapay zeka aracına talimatlar vererek modelleme işlemlerinizi kolaylıkla oluşturabilirsiniz. 
 
-Instruct-NeRF2NeRF yapay zeka aracına dair daha fazla bilgi almak için https://instruct-nerf2nerf.github.io/ web sitesini ziyaret edebilirsiniz. 
+Instruct-NeRF2NeRF yapay zeka aracına dair daha fazla bilgi almak için https://instruct-nerf2nerf.github.io/ web sitesini ziyaret edebilirsiniz.
+
+### KINETIX
+Kinetix, kod gerektirmeden Emote NFT'ler oluşturarak bunları sanal ortamlarda sosyalleşmek amacıyla kullanmanızı ya da NFT toplayıp takas etme olanağını size sağlıyor. 
+
+Discord: https://discord.com/invite/rGa6z4pGTW
+
+Kinetix yapay zeka aracına dair daha fazla bilgi almak için https://www.kinetix.tech/ web sitesini ziyaret edin.
+
+### UNEEQ AI
+Uneeq, ChatGPT tarafından desteklenen dijital AI tasarım insanlar yaratmayı sağlayan yapay zeka aracıdır. 
+70+ dil desteği bulunmaktadır. 
+
+Uneeq yapay zeka aracına dair daha fazla bilgi almak için https://www.digitalhumans.com/ web sitesini ziyaret edin. 
+
+### MOVE AI
+Move AI, HD kamera, video ya da mobil cihazlardan kaliteli hareketli görüntüler elde etmeyi sağlayan yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/AMhycR8eay
+
+![image](https://user-images.githubusercontent.com/123966022/228212467-93f95258-f2c4-4d2f-89c5-60f990a02de7.png)
+
+
+Move AI, yapay zeka aracıba dair daha fazla bilgi almak için https://www.move.ai/ web sitesini ziyaret edin. 
+
+### CSM AI
+CSM, 3D ortam ve oyun tasarımı yapmayı sağlayan yapay zeka aracıdır. Görüntüleri ve metinleri 3D boyutlandırabilir. 
+
+CSM AI, dair daha fazla bilgi almak için https://csm.ai/ web sitesini ziyaret edin. 
+
+### MOVIO 
+Movio, metinleri videoya çevirmeye yarayan yapay zeka aracıdır. 
+40+ dil desteği bulunmaktadır. 
+100+ AI avatar tasarımı bulunmaktadır. 
+
+Video oluşturmak için: 
+- Avatar seçin
+- Komut Dosyasını yazın
+- Videoyu oluşturmak için gönderin. 
+
+Movio AI, yapay zeka aracına dair daha fazla bilgi almak için https://www.movio.la/ web sitesini ziyaret edin. 
+
+### SCENARIO 
+Scenario, oyun varlıkları sunan yapay zeka aracıdır. 
+
+Scenario yapay zeka aracına dair daha fazla bilgi almak için https://www.scenario.com/ web sitesini ziyaret edin. 
+
+### RCT AI 
+RCT, oyun sektöründe AI destekli çözümler üretmektedir. 
+
+RCT AI, yapay zeka aracında dair daha fazla bilgi almak için https://rct.ai/en-us/ web sitesini ziyaret edin. 
+
+### ALETHEA AI
+Alethea,  dünyanın ilk multimodal AI sistemini CharacterGPT yayına aldı. Metinleri karakterlere dönüştürmeyi sağlayan bir yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/aletheaai
+
+Alethea yapay zeka aracına dair daha fazla bilgi almak için https://alethea.ai/ web sitesini ziyaret edin. 
+
+### INWORLD AI
+Inworld, oyun sektöründe kullanılan AI destekli karakterler oluşturmayı amaçlayan yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/2jGPwV8g3b
+
+Inworld yapay zeka aracına dair daha fazla bilgi almak için https://www.inworld.ai/ web sitesini ziyaret edin. 
+
+### LEIA INC 
+Leia, dünyanın ilk AI destekli tabletini tanıttı. Tablet içeriğinde sınırsız 3D içerikler, görüntülemeler bulunmaktadır. 
+
+Daha fazla bilgi almak için https://www.leiainc.com/ web sitesini ziyaret edin. 
+
+
 
 
