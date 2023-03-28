@@ -77,6 +77,30 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [PuzzleLabs](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#puzzlelabs)
   * [RESUME WORDED](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#resume-worded)
   * [GOOGLE BARD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#google-bard)
+  * [NLX](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#nlx)
+  * [LANDBOT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#landbot)
+  * [CERTAINLY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#certainly)
+  * [LAVENDER AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#lavender-ai)
+  * [PERSONAL AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#personal-ai)
+  * [VERLOOP](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#verloop)
+  * [UNBOUND](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#unbound)
+  * [TIMELY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#timely)
+  * [MAVENOID](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#mavenoid)
+  * [ULTIMATE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#ultimate-ai)
+  * [WRITER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#writer)
+  * [CONTENTS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#contents)
+  * [REGIE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#regie-ai)
+  * [PEPPERCONTENT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#peppercontent)
+  * [AGOLO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#agolo)
+  * [DEEPL](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#deepl)
+  * [KASISTO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#kasisto)
+  * [INSTORIED](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#instoried)
+  * [TEXTIO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#textio)
+  * [HAPTIK](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#haptik)
+  * [ADA AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#ada-ai)
+  * [FORETHOUGHT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#forethought)
+
+
 
 ### Metinleri Yapay Zeka Araçları Sayesinde Robot Animasyonlarına Çevirin
 > Text to Motion
