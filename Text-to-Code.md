@@ -81,6 +81,9 @@ Codacy yapay zeka aracına dair daha fazla bilgi almak için https://www.codacy.
 ### TABNINE AI
 Tabnine, yazılım geliştiricilerine kolaylık sunan bir yapay zeka aracıdır. Kodlarınızı düzenleyebilir ve tamamlama aşamasında destek alabilirsiniz. GitHub, Gitlab, Bitbucket gibi havuzlarınıza kolayca entegre edebilirsiniz. 
 
+![image](https://user-images.githubusercontent.com/123966022/228184496-2cfab9a4-7ee2-4077-a290-82dc23787e1c.png)
+
+
 Tabnine yapay zeka aracına dair daha fazla bilgi almak için https://www.tabnine.com/ web sitesini ziyaret edin. 
 
 ### MAGIC AI
