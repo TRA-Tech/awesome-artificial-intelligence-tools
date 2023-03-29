@@ -28,6 +28,15 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [MICROSOFT BING IMAGE CREATOR](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#microsoft-bing-image-creator)
 - [CANVA](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#canva)
 - [PRISMA LABS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#prisma-labs)
+- [REFACE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#reface)
+- [VIZCOM](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#vizcom)
+- [PHOTOROOM](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#photoroom)
+- [FACET](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#facet)
+- [VIZARD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#vizard)
+- [BEAUTIFUL AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#beautiful-ai)
+- [TYPEFACE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#typeface)
+- [TOME](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#tome)
+- [LIGHTRICKS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#lightricks)
 
 
 ### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
