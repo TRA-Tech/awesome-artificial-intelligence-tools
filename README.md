@@ -154,6 +154,12 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [SKIT AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#skit-ai)
   * [CORTI AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#corti-ai)
   * [BALTO AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#balto-ai)
+  * [ASAPP](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#asapp)
+  * [OBSERVE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#observe-ai)
+  * [CRESTA](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#cresta)
+  * [REPLICANT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#replicant)
+  * [POLY AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#poly-ai)
+  * [DEEPGRAM](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#deepgram)
   
   
 ### Sesleri Yazıya Çevirebileceğiniz Yapay Zeka Araçları
