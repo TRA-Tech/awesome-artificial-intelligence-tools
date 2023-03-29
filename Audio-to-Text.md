@@ -87,7 +87,32 @@ Dialpad, yapay zeka teknolojilerini kullanarak iletişim işlemlerini optimize e
 
 Daha fazla bilgi almak için https://www.dialpad.com/ai/ web sitesini ziyaret edin. 
 
-### 
+### PEECH
+Peech, yapay zeka teknolojisini kullanarak, kullanıcılara video ve ses dosyalarını otomatik olarak transkripsiyon yapma ve alt yazı ekleme imkanı veren bir araçtır. Bu araç, kullanıcıların video ve ses dosyalarını daha erişilebilir hale getirmelerine ve daha geniş bir kitleye ulaşmalarına yardımcı olur.
+
+Daha fazla bilgi almak için https://www.peech-ai.com/ web sitesini ziyaret edin. 
+
+### REDUCT VIDEO 
+Reduct, bir yapay zeka aracıdır ve video içerikleri otomatik olarak transkripsiyon ve altyazıya dönüştürmek için kullanılır. Bu sayede video içeriklerin daha erişilebilir hale gelmesine yardımcı olur. Ayrıca, bu araç sayesinde video içeriklerdeki konuşmaların metin formatında kaydedilmesi, aranması ve analiz edilmesi daha kolay hale gelir. 
+
+Daha fazla bilgi almak için https://reduct.video/ web sitesini ziyaret edin. 
+
+### WAYMARK
+Waymark, bir yapay zeka aracıdır ve video reklamcılığı sektöründe kullanılmak üzere tasarlanmıştır. Bu araç, kullanıcılara hızlı ve kolay bir şekilde video reklamlar oluşturma imkanı sunar. Waymark, kullanıcıların reklam fikirlerini otomatik olarak analiz ederek, reklamcılık için en uygun olanları seçer. Ayrıca, kullanıcılara yüzlerce önceden hazırlanmış şablon sunarak, reklam yapma sürecini daha kolay ve hızlı hale getirir. 
+
+Daha fazla bilgi almak için https://waymark.com/ web sitesini ziyaret edin. 
+
+### CLOSSYAN
+Clossyan AI, avatar seçeneklerinden birini seçerek ve komut vererek dilediğiniz yapay zeka destekli videolarınızı oluşturmanızı sağlar. 
+70+ dil desteği bulunmaktadır. 
+
+API: https://docs.colossyan.com/
+
+Daha fazla bilgi almak için https://www.colossyan.com/ web sitesini ziyaret edin. 
+
+
+
+
 
 
 
