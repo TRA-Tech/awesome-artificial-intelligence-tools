@@ -37,7 +37,44 @@ Corti AI dair daha fazla bilgi almak için https://www.corti.ai/ web sitesini zi
 
 ### BALTO AI
 Balto AI, gerçek zamanlı koçluk, mentorluk, rehberlik desteği veren yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/228455117-158896bf-b31c-4cfa-8c64-306064b8f13f.png)
+
 
 Balto AI dair daha fazla bilgi almak için https://www.balto.ai/ web sitesini ziyaret edebilirsiniz. 
 
+### ASAPP 
+ASAPP, yapay zeka tabanlı müşteri deneyimi platformları sağlayan bir teknoloji şirketidir. Müşteri deneyimi için doğal dil işleme, makine öğrenimi ve diğer yapay zeka teknolojilerini kullanarak, şirketlerin müşteri hizmetleri ve satış süreçlerini daha verimli hale getirmelerine yardımcı olur.
+
+ASAPP yapay zeka aracına dair daha fazla bilgi almak için https://www.asapp.com/ web sitesini ziyaret edin. 
+
+### OBSERVE AI
+Observe.AI, müşteri hizmetleri konuşmalarının yapay zeka tabanlı olarak analiz edilmesi için bir platform sağlayan bir teknoloji şirketidir. Şirket, müşteri hizmetleri temsilcilerinin performansını ve müşteri deneyimini artırmak için bir dizi analitik araç sunar.
+
+Observe AI yapay zeka aracına dair daha fazla bilgi almak için https://www.observe.ai/ web sitesini ziyaret edin. 
+
+### CRESTA 
+Cresta, yapay zeka tabanlı müşteri hizmetleri ve satış destek platformu sağlayan bir teknoloji şirketidir. Cresta platformu, doğal dil işleme ve makine öğrenimi teknolojilerini kullanarak, müşteri hizmetleri konuşmalarını analiz eder ve müşteri sorularına hızlı ve doğru yanıtlar vermek için müşteri hizmetleri temsilcilerine önerilerde bulunur. 
+
+Cresta yapay zeka aracına dair daha fazla bilgi almak için https://cresta.com/ web sitesini ziyaret edin. 
+
+### REPLICANT 
+Replicant, otomatik müşteri hizmetleri sağlayan bir yapay zeka platformudur. Şirket, müşteri hizmetleri işlemlerinin çoğunu otomatikleştirerek müşterilerin sorularını cevaplamaya yardımcı olur.
+![image](https://user-images.githubusercontent.com/123966022/228455197-d9da2cf9-0029-4b5a-b960-9b90075cd4a3.png)
+
+Replicant yapay zeka aracına dair daha fazla bilgi almak için https://www.replicant.com/ web sitesini ziyaret edin. 
+
+### POLY AI 
+PolyAI, doğal dil işleme (NLP) teknolojisine dayalı bir yapay zeka şirketidir. Şirket, diyalog sistemleri, konuşma tanıma, metin özetleme, dil anlama ve diğer NLP uygulamaları gibi alanlarda uzman bir yapay zeka aracıdır. 
+PolyAI, yapay zeka teknolojisi alanında öncü şirketlerden biri olarak kabul edilmektedir ve dünya genelinde birçok müşteriye hizmet vermektedir.
+
+Poly AI yapay zeka aracına dair daha fazla bilgi almak için https://poly.ai/ web sitesini ziyaret edin. 
+
+### DEEPGRAM 
+Deepgram, yapay zeka tabanlı bir konuşma tanıma platformudur. Şirket, ses dosyalarındaki konuşmayı transkript etmek, anlamak ve analiz etmek için geliştirilmiş birçok özellik sunmaktadır.
+
+GitHub: https://github.com/deepgram 
+
+API: https://developers.deepgram.com/api-reference/ 
+
+Deepgram yapay zeka aracına dair daha fazla bilgi almak için https://deepgram.com/ web sitesini ziyaret edin. 
 
