@@ -83,6 +83,11 @@ HourOne AI, birçok video template ve avatar seçeneğiyle dilediğinizce yapay 
 
 Daha fazla bilgi almak için https://hourone.ai/ web sitesini ziyaret edebilirsiniz. 
 
+### TWELVE LABS
+Twelve Labs, zengin video kütüphanesiyle ve çeşitli vektörel desteklerle videolarınızı baştan yaratmanızı sağlıyor. Sosyal Medya, pazarlama, marka değeri gibi birçok konuda videolar arasında arama yapabilirsiniz. 
 
+API: https://docs.twelvelabs.io/docs
+
+Daha fazla bilgi almak için https://twelvelabs.io/ web sitesini ziyaret edebilirsiniz. 
 
 
