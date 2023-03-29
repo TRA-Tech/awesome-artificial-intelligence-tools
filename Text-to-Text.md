@@ -346,3 +346,78 @@ ZMO.AI, bir müşteri deneyimi platformu olarak hizmet veren bir yazılım şirk
 
 Daha fazla bilgi almak için https://www.zmo.ai/web sitesini ziyaret edin. 
 
+### SEEK 
+Seek, doğal dil işleme ve makine öğrenimi tekniklerini kullanarak metin tabanlı verileri analiz etme, anlama ve yorumlama gibi işlemleri yapan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.seek.ai/ web sitesini ziyaret edin. 
+
+### PERPLEXITY 
+Perplexity AI, doğal dil işleme ve yapay zeka teknolojilerini kullanarak metin verilerini analiz etmek ve anlamak için tasarlanmış bir araçtır.
+
+Discord: https://discord.com/invite/perplexity-ai
+
+Daha fazla bilgi almak için https://www.perplexity.ai/ web sitesini ziyaret edin. 
+
+### NUCLIA 
+Nuclia, kullanıcıların doğal dil işleme, makine öğrenimi ve veri analitiği gibi konularda çalışmalar yapmalarına yardımcı olan bir yapay zeka aracıdır. Nuclia, kullanıcıların iş süreçlerini otomatize etmelerine ve verileri daha hızlı ve doğru bir şekilde analiz etmelerine olanak tanır.
+
+API: https://docs.nuclia.dev/
+GitHub: https://github.com/nuclia
+Discord: https://discord.com/invite/nadxe924YM
+
+Daha fazla bilgi almak için https://nuclia.com/ web sitesini ziyaret edin. 
+
+### METAPHOR
+Metaphor Systems, kullanıcıların doğal dil işleme, anlamsal analiz, metin sınıflandırma, özetleme ve diğer dil işleme görevlerini gerçekleştirmelerine yardımcı olan bir yapay zeka aracıdır. Metaphor Systems, özellikle işletmelerin müşteri ilişkileri yönetimi, sosyal medya analizi ve e-ticaret gibi konularda işlemlerini optimize etmelerine yardımcı olabilir.
+
+Discord: https://discord.com/invite/jvz7GS9W8Y
+
+Daha fazla bilgi almak için https://metaphor.systems/ web sitesini ziyaret edin. 
+
+### DASHWORKS 
+Dashworks, kullanıcıların farklı veri kaynaklarından veri toplamasına ve bu verileri analiz etmelerine olanak tanır. Yapay zeka tabanlı teknolojiler kullanarak, Dashworks, verileri otomatik olarak sınıflandırır, model oluşturur ve trendleri takip eder.
+
+Daha fazla bilgi almak için https://www.dashworks.ai/ web sitesini ziyaret edin. 
+
+### HEBBIA 
+Hebbia, öğrencilere ve araştırmacılara araştırma yapmalarına yardımcı olan bir yapay zeka aracıdır. Hebbia, öğrencilerin ve araştırmacıların araştırma konularını keşfetmelerine, literatür araştırması yapmalarına ve araştırma sonuçlarını organize etmelerine olanak tanır.
+
+Daha fazla bilgi almak için https://www.hebbia.ai/ web sitesini ziyaret edin. 
+
+### VECTRA 
+Vectra, siber güvenlik alanında yapay zeka tabanlı bir araçtır ve ağ trafiğini sürekli olarak izleyerek potansiyel saldırıları tespit etmeye ve önlemeye yardımcı olur. Bu nedenle, Vectra, kurumsal ağların güvenliğini artırmak için kullanılır.
+
+GitHub: https://github.com/vectranetworks
+
+Daha fazla bilgi almak için https://www.vectra.ai/ web sitesini ziyaret edin. 
+
+### WEAVIATE 
+Weaviate, semantik bir veri arama ve analiz aracıdır. Bu araç, yapay zeka teknolojileri kullanarak, büyük veri setlerindeki bilgi ve ilişkileri anlamlandırmaya ve organize etmeye yardımcı olur. 
+
+Slack: https://weaviate.io/slack
+GitHub: https://github.com/weaviate/weaviate
+
+Daha fazla bilgi almak için https://weaviate.io/ web sitesini ziyaret edin. 
+
+### NEEVA 
+Neeva, özel bir arama motorudur ve yapay zeka teknolojilerini kullanarak daha iyi bir arama deneyimi sağlamayı hedefler. Geleneksel arama motorlarının aksine, Neeva, reklamlar veya kişisel veri toplamadan tamamen ücretli bir hizmet sunar.
+
+Daha fazla bilgi almak için https://neeva.com/ web sitesini ziyaret edin. 
+
+### YOU 
+You.com, kişisel bir dijital asistandır ve yapay zeka teknolojilerini kullanarak, kullanıcıların günlük hayatlarını daha verimli ve kolay hale getirmeyi amaçlar. Bu araç, kullanıcılara doğal bir dil ile iletişim kurma imkanı sağlar ve kullanıcıların ihtiyaçlarına uygun cevaplar sunmak için makine öğrenimi algoritmalarını kullanır.
+
+Discord: https://discord.com/invite/f9jRFH5gHP
+
+Daha fazla bilgi almak için https://you.com/ web sitesini ziyaret edin. 
+
+### MADGICX 
+Madgicx, bir dijital pazarlama platformudur ve yapay zeka teknolojilerini kullanarak, reklam kampanyalarını optimize etmeyi amaçlar. Bu araç, reklam verenlerin, daha etkili ve başarılı kampanyalar yürütmelerine yardımcı olmak için makine öğrenimi algoritmalarını kullanır.
+
+Daha fazla bilgi almak için https://madgicx.com/ web sitesini ziyaret edin. 
+
+
+
+
+ 
+
