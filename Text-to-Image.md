@@ -216,4 +216,35 @@ API: https://www.photoroom.com/api
 
 Daha fazla bilgi almak için https://www.photoroom.com/ web sitesini ziyaret edin. 
 
-### 
+### FACET 
+Facet AI, görüntü düzenleyici yapay zeka aracıdır. Görselleri kolaylıkla düzenlemeyi sağlar ve zamandan tasarruf ettirir. 
+
+Daha fazla bilgi almak için https://facet.ai/ web sitesini ziyaret edin. 
+
+### VIZARD 
+Vizard AI, videoları sahne sahne ayırmaya görüntüleri yüksek kaliteli dönüştürmeye yarayan yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/3bK2UdEJjg
+
+Daha fazla bilgi almak için https://vizard.ai/ web sitesini ziyaret edin. 
+
+### BEAUTIFUL AI
+Beautiful.ai, bir sunum yapma aracıdır ve yapay zeka teknolojisini kullanarak sunum tasarımını kolaylaştırmayı hedeflemektedir. Bu araç, kullanıcıların hazır şablonları kullanarak sunumlarını oluşturmasına ve tasarlamasına olanak tanır. Yapay zeka, sunum tasarımında kullanıcı dostu renkler, yazı tipleri ve yerleşimler önererek yardımcı olur.
+
+Daha fazla bilgi almak için https://www.beautiful.ai/ web sitesini ziyaret edin. 
+
+### TYPEFACE 
+Typeface.ai, yapay zeka teknolojisi kullanarak yazı tipleri tasarlamak için kullanılan bir araçtır. Bu araç, kullanıcılara özel yazı tipleri oluşturma imkanı sağlar. Yapay zeka algoritmaları, kullanıcının belirlediği parametreler ve özellikler doğrultusunda yazı tipleri oluşturarak, kullanıcılara özgün ve kendilerine özgü yazı tipleri yaratmalarına olanak tanır.
+
+Daha fazla bilgi almak için https://www.typeface.ai/ web sitesini ziyaret edin. 
+
+### TOME
+Tome, yapay zeka teknolojisini kullanarak, kullanıcıların not alış alışkanlıklarını geliştirmelerine yardımcı olan bir araçtır. Bu araç, kullanıcılara not tutmalarını ve bu notları daha sonra hatırlamalarını kolaylaştıran bir dizi özellik sunar.
+
+Daha fazla bilgi almak için https://beta.tome.app/web sitesini ziyaret edin. 
+
+### LIGHTRICKS
+Lightricks, yapay zeka teknolojisini kullanarak mobil cihazlar için fotoğraf düzenleme ve tasarım araçları sunmaktadır. Şirketin ürünleri arasında, kullanıcılara fotoğraflarını kolayca düzenleme, filtreleme, kırpma, birleştirme ve diğer tasarım işlemleri yapma imkanı veren uygulamalar bulunmaktadır.
+
+Daha fazla bilgi almak için https://www.lightricks.com/ web sitesini ziyaret edin. 
+
