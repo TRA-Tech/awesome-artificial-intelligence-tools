@@ -74,6 +74,7 @@ Daha fazla bilgi almak için https://www.rephrase.ai/ web sitesini ziyaret edebi
 
 ### INVIDEO 
 InVideo, yapay zeka tabanlı bir video düzenleme aracıdır. Bu araç, kullanıcıların videolarını hızlı bir şekilde düzenlemelerine ve özelleştirmelerine yardımcı olmak için bir dizi özellik sunar.
+![image](https://user-images.githubusercontent.com/123966022/228550587-70ffe698-fb0a-47f3-ba5f-1586e9c14ac4.png)
 
 Daha fazla bilgi almak için https://invideo.io/ web sitesini ziyaret edebilirsiniz. 
 
@@ -89,5 +90,22 @@ Twelve Labs, zengin video kütüphanesiyle ve çeşitli vektörel desteklerle vi
 API: https://docs.twelvelabs.io/docs
 
 Daha fazla bilgi almak için https://twelvelabs.io/ web sitesini ziyaret edebilirsiniz. 
+
+### D-ID 
+D-ID AI, maliyetlerinizi düşürmek, zamandan kazanmak ve etkileşimlerinizi arttırmak için geliştirilmiş bir yapay zeka aracıdır. Chatbot geliştirebilir ya da kreatif video tasarımlar ortaya çıkarabilirsiniz. 
+
+![image](https://user-images.githubusercontent.com/123966022/228550717-95978c93-adc5-4464-950d-bcdad1bed4ad.png)
+
+
+API: https://www.d-id.com/api/
+
+Daha fazla bilgi almak için https://www.d-id.com/ web sitesini ziyaret edebilirsiniz. 
+
+### VIDEOVERSE
+Videoverse yapay zeka aracı ile önemli video kayıt anlarını gerçek zamanlı olarak yeniden oluşturabilirsiniz. Videolarınızdaki hassas sahneleri etiketleyerek belirtebilirsiniz. 
+
+Daha fazla bilgi almak için https://vverse.ai/ web sitesini ziyaret edin. 
+
+
 
 
