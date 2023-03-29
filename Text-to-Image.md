@@ -190,6 +190,7 @@ Artık Canva kullanıcıları;
 - Bilgi isteminden isteğinize uygun tasarım slaytları belirleyebilirsiniz. 
 
 Canva yapay zeka özelliklerine dair daha fazla bilgi almak için https://www.canva.com/ web sitesini ziyaret edebilirsiniz. 
+![image](https://user-images.githubusercontent.com/123966022/228514795-8e6804db-9c46-487f-a5ff-8457af0bd401.png)
 
 
 ### PRISMA LABS 
@@ -214,6 +215,9 @@ Photoroom.com, fotoğraf düzenleme hizmeti sunan bir yapay zeka aracıdır. Bu 
 
 API: https://www.photoroom.com/api
 
+![image](https://user-images.githubusercontent.com/123966022/228514936-806f8052-b883-4114-96b9-2d7e43f4a3d2.png)
+
+
 Daha fazla bilgi almak için https://www.photoroom.com/ web sitesini ziyaret edin. 
 
 ### FACET 
@@ -235,6 +239,8 @@ Daha fazla bilgi almak için https://www.beautiful.ai/ web sitesini ziyaret edin
 
 ### TYPEFACE 
 Typeface.ai, yapay zeka teknolojisi kullanarak yazı tipleri tasarlamak için kullanılan bir araçtır. Bu araç, kullanıcılara özel yazı tipleri oluşturma imkanı sağlar. Yapay zeka algoritmaları, kullanıcının belirlediği parametreler ve özellikler doğrultusunda yazı tipleri oluşturarak, kullanıcılara özgün ve kendilerine özgü yazı tipleri yaratmalarına olanak tanır.
+
+![image](https://user-images.githubusercontent.com/123966022/228515056-1b5cb812-8076-40e6-9e43-43e911526c98.png)
 
 Daha fazla bilgi almak için https://www.typeface.ai/ web sitesini ziyaret edin. 
 
