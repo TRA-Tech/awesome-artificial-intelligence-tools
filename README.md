@@ -37,6 +37,8 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [TYPEFACE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#typeface)
 - [TOME](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#tome)
 - [LIGHTRICKS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#lightricks)
+- [YEPIC AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#yepic-ai)
+- [VEED IO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#veed-io)
 
 
 ### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
@@ -49,6 +51,12 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [GOOGLE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#google-ai)
 - [PHENAKI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#phenaki)
 - [DEEPBRAIN AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#deepbrain-ai)
+- [REPHRASE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#rephrase-ai)
+- [INVIDEO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#invideo)
+- [HOURONE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#hourone)
+- [TWELVE LABS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#twelve-labs)
+- [D-ID](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#d-id)
+- [VIDEOVERSE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#videoverse)
  
 ### Metinleri Seslere Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Audio
@@ -191,6 +199,12 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [ELISE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#elise-ai)
   * [PAPERCUP](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#papercup)
   * [DIALPAD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#dialpad)
+  * [PEECH](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#peech)
+  * [REDUCT VIDEO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#reduct-video)
+  * [WAYMARK](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#waymark)
+  * [CLOSSYAN](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#clossyan)
+  * [GRAIN](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#grain)
+  
   
 
   
