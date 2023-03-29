@@ -191,3 +191,11 @@ Artık Canva kullanıcıları;
 
 Canva yapay zeka özelliklerine dair daha fazla bilgi almak için https://www.canva.com/ web sitesini ziyaret edebilirsiniz. 
 
+
+### PRISMA LABS 
+Prisma AI, yapay zeka tabanlı bir görüntü işleme ve düzenleme uygulamasıdır. Kullanıcıların fotoğraflarını işlemek için yapay zeka teknolojileri kullanarak fotoğrafları kolayca düzenlemelerine ve estetik olarak geliştirmelerine olanak tanıdıklarını belirtiyorlar.
+
+Daha fazla bilgi almak için https://prisma-ai.com/ web sitesini ziyaret edin. 
+
+
+
