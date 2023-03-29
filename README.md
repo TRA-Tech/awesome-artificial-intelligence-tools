@@ -27,6 +27,8 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [ADOBE FIREFLY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#adobe-firefly)
 - [MICROSOFT BING IMAGE CREATOR](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#microsoft-bing-image-creator)
 - [CANVA](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#canva)
+- [PRISMA LABS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#prisma-labs)
+
 
 ### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Video
@@ -99,6 +101,8 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [HAPTIK](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#haptik)
   * [ADA AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#ada-ai)
   * [FORETHOUGHT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#forethought)
+  * [MODIFY AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#modify-ai)
+  * [ZMO AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#zmo-ai)
 
 
 
