@@ -59,9 +59,9 @@ Cresta yapay zeka aracına dair daha fazla bilgi almak için https://cresta.com/
 
 ### REPLICANT 
 Replicant, otomatik müşteri hizmetleri sağlayan bir yapay zeka platformudur. Şirket, müşteri hizmetleri işlemlerinin çoğunu otomatikleştirerek müşterilerin sorularını cevaplamaya yardımcı olur.
-![image](https://user-images.githubusercontent.com/123966022/228455197-d9da2cf9-0029-4b5a-b960-9b90075cd4a3.png)
 
 Replicant yapay zeka aracına dair daha fazla bilgi almak için https://www.replicant.com/ web sitesini ziyaret edin. 
+![image](https://user-images.githubusercontent.com/123966022/228455580-eab256ab-2d5c-419f-a50b-0fb8eab8661b.png)
 
 ### POLY AI 
 PolyAI, doğal dil işleme (NLP) teknolojisine dayalı bir yapay zeka şirketidir. Şirket, diyalog sistemleri, konuşma tanıma, metin özetleme, dil anlama ve diğer NLP uygulamaları gibi alanlarda uzman bir yapay zeka aracıdır. 
