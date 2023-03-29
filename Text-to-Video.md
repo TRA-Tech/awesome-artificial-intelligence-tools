@@ -67,4 +67,9 @@ Deepbrain AI, kendi özel avatarlarınızı oluşturabileceğiniz ve temel konu�
 
 Daha fazla bilgi almak için https://www.deepbrain.io/ web sitesini ziyaret edebilirsiniz.
 
+### REPHRASE AI
+Rephrase.ai, yapay zeka teknolojisini kullanarak, kullanıcılara videolarında konuşulan metinleri otomatik olarak yeniden formüle etme ve dönüştürme imkanı veren bir araçtır. Bu araç, video içeriklerini farklı dillere çevirme, altyazı ekleme, videoları daha anlaşılır hale getirme ve SEO dostu hale getirme gibi amaçlarla kullanılır.
+
+Daha fazla bilgi almak için https://www.rephrase.ai/ web sitesini ziyaret edebilirsiniz. 
+
 
