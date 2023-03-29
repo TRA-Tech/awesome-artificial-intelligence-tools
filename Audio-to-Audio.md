@@ -37,8 +37,8 @@ Corti AI dair daha fazla bilgi almak için https://www.corti.ai/ web sitesini zi
 
 ### BALTO AI
 Balto AI, gerçek zamanlı koçluk, mentorluk, rehberlik desteği veren yapay zeka aracıdır. 
-![image](https://user-images.githubusercontent.com/123966022/228455117-158896bf-b31c-4cfa-8c64-306064b8f13f.png)
 
+<img src="https://user-images.githubusercontent.com/123966022/228455117-158896bf-b31c-4cfa-8c64-306064b8f13f.png" width="300" height="250"
 
 Balto AI dair daha fazla bilgi almak için https://www.balto.ai/ web sitesini ziyaret edebilirsiniz. 
 
