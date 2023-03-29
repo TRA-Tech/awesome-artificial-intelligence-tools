@@ -65,6 +65,8 @@ Symbl AI yapay zeka aracına dair daha fazla bilgi almak için https://symbl.ai/
 ### SPEAK AI
 Speak AI, otomatik transkripsiyon özelliği sayesinde ses ve videoları kolaylıkla metne dönüştürmenize yardımcı olan bir yapay zeka aracıdır. Speak Ai Zapier entegrasyonu, Google Chrome Uzantısını, Zoom entegrasyonunu, Vimeo entegrasyonunu gibi birçok uygulamayla entegre bir şekilde çalışmaktadır. 
 
+![image](https://user-images.githubusercontent.com/123966022/228552280-bb805ebe-a355-431a-949b-a5850ea5638a.png)
+
 Speak AI yapay zeka aracına dair daha fazla bilgi almak için https://speakai.co/ web sitesini ziyaret edebilirsiniz. 
 
 ### USHUR AI
@@ -84,6 +86,7 @@ Daha fazla bilgi almak için https://www.papercup.com/ web sitesini ziyaret edin
 
 ### DIALPAD 
 Dialpad, yapay zeka teknolojilerini kullanarak iletişim işlemlerini optimize etmeyi amaçlayan bir platformdur. Bu teknolojiler arasında, doğal dil işleme, makine öğrenimi, konuşma tanıma, duygu analizi ve diyalog yönetimi gibi alanlar yer alır.
+![image](https://user-images.githubusercontent.com/123966022/228552370-35daa5aa-217f-4624-aad4-36fdeb262ac1.png)
 
 Daha fazla bilgi almak için https://www.dialpad.com/ai/ web sitesini ziyaret edin. 
 
@@ -102,9 +105,10 @@ Waymark, bir yapay zeka aracıdır ve video reklamcılığı sektöründe kullan
 
 Daha fazla bilgi almak için https://waymark.com/ web sitesini ziyaret edin. 
 
-### CLOSSYAN
-Clossyan AI, avatar seçeneklerinden birini seçerek ve komut vererek dilediğiniz yapay zeka destekli videolarınızı oluşturmanızı sağlar. 
+### COLOSSYAN
+Colossyan AI, avatar seçeneklerinden birini seçerek ve komut vererek dilediğiniz yapay zeka destekli videolarınızı oluşturmanızı sağlar. 
 70+ dil desteği bulunmaktadır. 
+![image](https://user-images.githubusercontent.com/123966022/228552554-03b0f1db-d328-41c9-8a24-7334011eaff3.png)
 
 API: https://docs.colossyan.com/
 
