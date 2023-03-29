@@ -110,6 +110,11 @@ API: https://docs.colossyan.com/
 
 Daha fazla bilgi almak için https://www.colossyan.com/ web sitesini ziyaret edin. 
 
+### GRAIN 
+Grain AI, yapay zeka destekli toplantı kaydı elde etmenizi sağlar. Toplantı sırasında not alma, kayıt tutma, içgörü yakalamayı otomatik hale getirir. 
+
+Daha fazla bilgi almak için https://grain.com/ web sitesini ziyaret edebilirsiniz. 
+
 
 
 
