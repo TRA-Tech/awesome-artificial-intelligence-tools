@@ -197,5 +197,23 @@ Prisma AI, yapay zeka tabanlı bir görüntü işleme ve düzenleme uygulamasıd
 
 Daha fazla bilgi almak için https://prisma-ai.com/ web sitesini ziyaret edin. 
 
+### REFACE 
+Reface AI, yüz değiştirme uygulaması sunan bir web sitesidir. Kullanıcılar, Reface AI aracılığıyla bir fotoğraf veya videoyu yükleyebilir ve ardından uygulama, yüklenen içeriğin yüzünü animasyonlu bir şekilde başka bir kişinin yüzüyle değiştirir.
 
+Daha fazla bilgi almak için https://hey.reface.ai/ web sitesini ziyaret edin. 
 
+### VIZCOM 
+Vizcom AI, görüntü işleme ve analiz çözümleri sunan bir yapay zeka aracıdır. Vizcom AI, müşterilerine görüntü analizi, nesne tespiti, yüz tanıma, nesne takibi, öznitelik çıkarımı ve daha pek çok yapay zeka teknolojisi sağlar.
+
+Discord: https://discord.com/invite/aJZZaJpPSZ
+
+Daha fazla bilgi almak için https://www.vizcom.ai/ web sitesini ziyaret edin. 
+
+###  PHOTOROOM 
+Photoroom.com, fotoğraf düzenleme hizmeti sunan bir yapay zeka aracıdır. Bu site sayesinde kullanıcılar, yükledikleri fotoğrafları düzenleyebilir, filtreler ekleyebilir, fotoğraf efektleri uygulayabilir ve diğer düzenleme araçlarını kullanarak fotoğraflarını istedikleri şekilde özelleştirebilirler.
+
+API: https://www.photoroom.com/api
+
+Daha fazla bilgi almak için https://www.photoroom.com/ web sitesini ziyaret edin. 
+
+### 
