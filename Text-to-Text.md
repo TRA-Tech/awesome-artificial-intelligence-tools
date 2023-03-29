@@ -335,3 +335,14 @@ Daha fazla bilgi almak için https://www.ada.cx/ web sitesini ziyaret edin.
 Forethought, yapay zeka destekli müşteri hizmetleri sağlayan bir platformdur. Şirket, müşteri hizmetleri işlemlerini otomatikleştirmek için doğal dil işleme teknolojisi, makine öğrenimi ve diğer yapay zeka teknolojilerini kullanır.
 
 Daha fazla bilgi almak için https://forethought.ai/ web sitesini ziyaret edin. 
+
+### MODIFY AI
+ModifyAI, işletmeler için AI destekli çözümler sunan bir yazılım şirketidir. Şirketin web sitesi, doğal dil işleme (NLP), bilgisayar görüşü, öngörücü analizler ve makine öğrenimi de dahil olmak üzere bir dizi hizmet sunmaktadır. 
+
+Daha fazla bilgi almak için https://www.modifyai.com/ web sitesini ziyaret edin. 
+
+### ZMO AI
+ZMO.AI, bir müşteri deneyimi platformu olarak hizmet veren bir yazılım şirkettir. Şirketin yapay zeka teknolojisi ve veri analitiği kullanarak müşteri deneyimlerini iyileştirmeyi hedeflemektedir. 
+
+Daha fazla bilgi almak için https://www.zmo.ai/web sitesini ziyaret edin. 
+
