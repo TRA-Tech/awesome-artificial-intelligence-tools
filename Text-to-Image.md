@@ -261,3 +261,9 @@ API: https://www.yepic.ai/api
 
 Daha fazla bilgi almak için https://www.yepic.ai/ web sitesini ziyaret edin. 
 
+### VEED IO
+Veed.IO, yapay zeka teknolojilerini kullanarak otomatik olarak resimler oluşturur. Bu araç, kullanıcıların birçok farklı özelliği seçmelerine olanak tanır, bu özellikler arasında renkler, şekiller, desenler ve diğer grafik öğeler yer alır. Kullanıcılar ayrıca belirli bir stili veya temayı seçebilirler ve AI Image Generator, seçilen stil veya tema doğrultusunda resimler oluşturur.
+
+Daha fazla bilgi almak için https://www.veed.io/ web sitesini ziyaret edin. 
+
+
