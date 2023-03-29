@@ -36,3 +36,16 @@ Lovo AI; pazarlama, eğitim, sosyal medya, kurumsal eğitim, YouTube gibi platfo
 
 Lovo yapay zeka aracına dair daha fazla bilgi almak için https://lovo.ai/ web sitesini ziyaret edebilirsiniz. 
 
+### OMNEKY 
+Omneky, bir müşteri ilişkileri yönetimi aracıdır ve yapay zeka teknolojilerini kullanarak, işletmelerin müşterileriyle daha etkili bir şekilde etkileşim kurmalarına yardımcı olur. Bu araç, müşterilerle gerçek zamanlı olarak etkileşim kurarak, müşteri memnuniyetini artırmayı ve müşteri sadakatini sağlamayı amaçlar.
+
+Daha fazla bilgi almak için https://www.omneky.com/ web sitesini ziyaret edin. 
+
+### OUTPLAYHQ
+OutplayHQ, bir satış yönetimi platformudur ve yapay zeka teknolojisi kullanarak satış süreçlerini otomatikleştirmeye yardımcı olur. Bu platform, müşterilerle otomatik olarak iletişim kurarak, potansiyel müşterileri belirleyerek ve satış ekibi için öncelikli hedefler belirleyerek satış sürecini daha verimli hale getirir.
+
+Daha fazla bilgi almak için https://outplayhq.com/ web sitesini ziyaret edin. 
+
+
+
+
