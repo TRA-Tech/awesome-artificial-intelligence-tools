@@ -254,3 +254,10 @@ Lightricks, yapay zeka teknolojisini kullanarak mobil cihazlar için fotoğraf d
 
 Daha fazla bilgi almak için https://www.lightricks.com/ web sitesini ziyaret edin. 
 
+### YEPIC AI
+Yepic, bir yapay zeka aracıdır ve e-ticaret sektöründe kullanılmak üzere tasarlanmıştır. Bu araç, e-ticaret sitelerinin ürün resimlerini otomatik olarak optimize etmelerine yardımcı olur. Bu optimizasyonlar, ürünlerin daha iyi görüntülenmesine, daha fazla dönüşüm elde edilmesine ve müşterilerin ürünler hakkında daha iyi bilgilendirilmesine yardımcı olabilir. 
+
+API: https://www.yepic.ai/api
+
+Daha fazla bilgi almak için https://www.yepic.ai/ web sitesini ziyaret edin. 
+
