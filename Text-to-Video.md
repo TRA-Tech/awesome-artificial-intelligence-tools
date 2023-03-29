@@ -72,4 +72,17 @@ Rephrase.ai, yapay zeka teknolojisini kullanarak, kullanıcılara videolarında 
 
 Daha fazla bilgi almak için https://www.rephrase.ai/ web sitesini ziyaret edebilirsiniz. 
 
+### INVIDEO 
+InVideo, yapay zeka tabanlı bir video düzenleme aracıdır. Bu araç, kullanıcıların videolarını hızlı bir şekilde düzenlemelerine ve özelleştirmelerine yardımcı olmak için bir dizi özellik sunar.
+
+Daha fazla bilgi almak için https://invideo.io/ web sitesini ziyaret edebilirsiniz. 
+
+### HOURONE
+HourOne AI, birçok video template ve avatar seçeneğiyle dilediğinizce yapay zeka destekli videolar elde etmenizi sağlar. 
+60+ dil desteği mevcut. 
+
+Daha fazla bilgi almak için https://hourone.ai/ web sitesini ziyaret edebilirsiniz. 
+
+
+
 
