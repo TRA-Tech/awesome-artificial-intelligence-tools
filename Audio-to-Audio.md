@@ -78,3 +78,32 @@ API: https://developers.deepgram.com/api-reference/
 
 Deepgram yapay zeka aracına dair daha fazla bilgi almak için https://deepgram.com/ web sitesini ziyaret edin. 
 
+### WOMBO AI
+Wombo AI, yapay zeka destekli bir uygulamadır ve kullanıcıların şarkı söyleyen animasyonlu videolar oluşturmasına olanak tanır. Kullanıcılar, uygulama aracılığıyla bir şarkı seçer ve uygulama, şarkıdaki sözleri algılayarak, kullanıcının seçtiği fotoğrafı kullanarak, animasyonlu bir video oluşturur. Özellikle sosyal medya platformları için kullanılan bir araçtır ve kullanıcıların eğlenceli ve paylaşılabilir içerikler oluşturmalarına yardımcı olabilir.
+
+API: https://www.w.ai/dream-api
+Discord: https://discord.com/invite/SXF2MJ8T6t
+
+![image](https://user-images.githubusercontent.com/123966022/228819932-0c4cf441-7e6f-4292-a1a6-6d517c3863af.png)
+
+Daha fazla bilgi almak için https://www.wombo.ai/ web sitesini ziyaret edin. 
+
+### MOISES
+Moises AI, yapay zeka destekli bir müzik prodüksiyon aracıdır. 
+Moises AI, sunduğu özellikler arasında;
+- Vokal ayıklama
+- Enstrüman izole etme
+- Tempo ayarlama
+- Dinamik eşitleme ve EQ ayarları gibi özellikler yer alır. Kullanıcılar, bu özellikleri kullanarak, müziklerinin kalitesini artırabilir ve farklı müzikal efektler ekleyebilirler.
+
+API: https://moises.ai/business-api/
+
+Daha fazla bilgi almak için https://moises.ai/tr/ web sitesini ziyaret edin. 
+
+### SPLASH 
+Splash, yapay zeka destekli bir müzik prodüksiyon araçlarından biridir. Bu araç, kullanıcılara müzik üretimi ve ses kaydı yapmaları için gerekli olan bir dizi araç ve özellik sunar.
+
+Discord: https://discord.com/invite/splashgame
+
+Daha fazla bilgi almak için https://www.splashmusic.com/ web sitesini ziyaret edin. 
+
