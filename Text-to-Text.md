@@ -611,6 +611,11 @@ Archistar, emlak şirketlerinin siteleri bulma, değerlendirme ve tasarlama yön
 
 Daha fazla bilgi almak için https://www.archistar.ai/ web sitesini ziyaret edin. 
 
+### DATASKRIVE
+Dataskrive, bir metin yazarlığı yapay zeka aracıdır. Bu araç, kullanıcıların farklı amaçlar için ihtiyaç duydukları metinleri otomatik olarak oluşturmalarına yardımcı olur. Örneğin, web sayfası içeriği, blog gönderileri, sosyal medya gönderileri, ürün açıklamaları, raporlar ve daha birçok farklı türde metinler oluşturmak için kullanılabilir.
+
+Daha fazla bilgi almak için https://dataskrive.com/ web sitesini ziyaret edin. 
+
 
 
 
