@@ -482,6 +482,116 @@ API: https://www.persado.com/platform/motivation-ai-api/
 
 Daha fazla bilgi almak için https://www.persado.com/ web sitesini ziyaret edin. 
 
+### VALENCE 
+Valence Discovery, ilaç ve biyoteknoloji endüstrisinde kullanılmak üzere tasarlanmış bir yapay zeka aracıdır. Bu araç, yeni ilaç keşfi ve geliştirilmesi için kullanılan bilimsel araştırma ve geliştirme süreçlerinde kullanılır. Moleküler verileri analiz etmek için çeşitli yapay zeka teknikleri kullanır, bunlar arasında makine öğrenmesi, yapay sinir ağları, veri madenciliği ve doğal dil işleme gibi teknikler yer alır. Bu teknikler, moleküler yapıları ve etkileşimlerini tanımlayarak, hangi moleküllerin ilaç adayı olarak potansiyel olarak uygun olabileceğini belirleyebilir.
+
+Daha fazla bilgi almak için https://www.valencediscovery.com/ web sitesini ziyaret edin. 
+
+### SYNTEGRA 
+Syntegra, yapay zeka tabanlı bir yazılım platformudur ve endüstriyel ve ticari işletmelerin üretim, tedarik zinciri ve operasyonel verimliliklerini artırmak için tasarlanmıştır. Syntegra, büyük veri kümelerini analiz etmek için yapay zeka ve makine öğrenmesi tekniklerini kullanır. Bu teknikler, işletmelerin verimliliklerini artırmak için önemli olan tahmin yapma, arıza öngörüsü ve üretim planlaması gibi çeşitli işlevleri yerine getirebilirler. 
+
+Daha fazla bilgi almak için https://www.syntegra.io/ web sitesini ziyaret edin. 
+
+### PROFLUENT 
+Profluent AI temel işlevi, genetik verileri analiz etmek ve bu verilerden biyolojik keşifler yapmak için gelişmiş yapay zeka teknolojilerini kullanmaktır. Bu veriler arasında gen ifadesi, protein etkileşimleri ve diğer biyolojik veriler bulunabilir. Profluent Bio, bu verileri kullanarak, ilaç geliştirme, hastalık teşhisi ve tedavisi, bitki biyoteknolojisi ve tarım gibi çeşitli alanlarda keşifler yapmaya yardımcı olur.
+
+Daha fazla bilgi almak için https://www.profluent.bio/ web sitesini ziyaret edin. 
+
+### ATOMICA AI 
+Atomica AI, diş hekimliğini dijitale entegre eden bir yapay zeka aracıdır. Atomica Scanner adı veriler dijital tarama sistemiyle hastaları tarayabilir ve manuel ölçüleri değiştirebilir. Elde ettiğiniz tarama görsellerini 3D olarak yazdırabilirsiniz. Şu anlık sadece İmplant çözümlerinde aktif rol oynuyorlar. Ortodonti, Splint ve Restoratif çözümler için geliştirmeleri devam etmektedir. 
+
+Daha fazla bilgi almak için https://atomica.ai/ web sitesini ziyaret edin. 
+
+### SORCERO
+Sorcero, yapay zeka tabanlı bir doğal dil işleme platformudur. Sorcero platformu, işletmelerin büyük veri kümelerindeki doğal dil verilerini anlamalarına ve kullanmalarına yardımcı olmak için tasarlanmıştır. Platform, birçok endüstride kullanılabilir ve müşteri hizmetleri, finans, sağlık, perakende, enerji, eğitim, sigorta ve daha birçok alanda kullanılmaktadır.
+
+Daha fazla bilgi almak için https://www.sorcero.com/ web sitesini ziyaret edin. 
+
+### ANTIVERSE 
+Antiverse, makine öğrenimini ilaç geliştirmeleri üzerinde kullanmaktadır. Antikor üreten bir şirket olup yapay zeka teknolojilerini, yapay zeka tarafından üretilen spesifik antikor kütüphaneleri arttırmak amacıyla kullanmaktadır. 
+
+Daha fazla bilgi almak için https://www.antiverse.io/ web sitesini ziyaret edin. 
+
+### ATROPOS HEALTH 
+Atropos Health, yapay zeka tabanlı bir sağlık teknolojileri şirketidir. Şirketin amacı, hastaların sağlık durumlarını daha iyi takip etmelerine ve sağlık hizmeti sunucularının da hastaların sağlık durumunu daha iyi yönetmelerine yardımcı olmaktır. Atropos Health, yapay zeka algoritmalarını kullanarak hastaların sağlık verilerini analiz eder ve bu verileri kullanarak hastaların gelecekteki sağlık durumlarını öngörmeye çalışır. 
+
+Daha fazla bilgi almak için https://www.atroposhealth.com/ web sitesini ziyaret edin.
+
+### WYSA 
+Wysa, yapay zeka tabanlı bir mental sağlık uygulamasıdır. Uygulama, kullanıcılara anksiyete, depresyon, yalnızlık ve stres gibi konularda destek sağlamak için tasarlanmıştır. Ayrıca Wysa, kullanıcılara meditasyon, nefes çalışmaları, sanal terapi ve diğer mental sağlık kaynaklarına da erişim imkanı sunar. Uygulamanın amacı, kullanıcıların duygusal refahlarını iyileştirmek ve mental sağlık hizmetlerine daha erişilebilir hale getirmektir. 
+
+Daha fazla bilgi almak için https://www.wysa.com/ web sitesini ziyaret edin. 
+
+### ABRIDGE 
+Abridge uygulaması, sağlık randevularınızın ses kayıtlarını otomatik olarak transkribe eder ve bu kayıtları sadece sizinle paylaşmak istediğiniz sağlık profesyonelleriyle paylaşmanızı sağlar. 
+
+API: https://apidocs.abridge.com/
+
+Daha fazla bilgi almak için https://www.abridge.com/ web sitesini ziyaret edin. 
+
+### PICTOR LABS 
+Pictor Labs, görüntü işleme ve yapay zeka teknolojileri kullanarak tıbbi görüntüleri analiz etmek ve tanı koymak için bir araç geliştiriyor. Pictor Labs'un amacı, hastalıkların erken teşhisini kolaylaştırmak ve tedavi sürecini iyileştirmek için yapay zeka ve görüntü işleme teknolojilerini kullanarak daha hızlı ve doğru tanılar koymak.
+
+Daha fazla bilgi almak için https://pictorlabs.ai/ web sitesini ziyaret edin.
+
+### A-ALPHA BIO 
+Aalpha Bio, biyoteknoloji ve yapay zeka alanlarında faaliyet gösteren bir şirkettir. Şirket, biyoteknoloji ve yapay zeka teknolojilerini bir araya getirerek hastalıkların teşhis ve tedavisinde kullanılan ilaçların geliştirilmesine odaklanıyor. Aalpha Bio'nun yapay zeka aracı, protein yapılarını analiz etmek, sentezlemek ve optimize etmek için kullanılır. Bu araç, proteinlerin özelliklerini daha doğru bir şekilde tahmin etmek ve ilaç geliştirme sürecini hızlandırmak için tasarlanmıştır.
+
+Daha fazla bilgi almak için https://www.aalphabio.com/ web sitesini ziyaret edin. 
+
+### REDESIGN SCIENCE 
+Redesign Science, moleküler tasarım ve ilaç keşfi için yapay zeka tabanlı araçlar geliştiren bir teknoloji şirketidir. Şirketin amacı, ilaç keşfi sürecini hızlandırmak ve maliyetlerini düşürmek için yapay zeka tabanlı bir yaklaşım kullanarak yeni ilaç adayları üretmektir. 
+
+Daha fazla bilgi almak için https://www.redesignscience.com/ web sitesini ziyare edin. 
+
+### ATOMIC AI
+Atomic AI, RNA ilaç keşfi yapan bir yapay zeka tabanlı analiz aracıdır. Daha önce tedavi edilemeyen hastalıklarla mücadele edebilecek ilaçlar yaratarak RNA biyolojisini tasarlamak için yapay zekanın moleküler yapı üzerindeki gücünü açığa çıkarmak için çalışmalar yürütmektedirler. 
+
+Daha fazla bilgi almak için https://atomic.ai/ web sitesini ziyaret edin. 
+
+### GENERATE BIOMEDICINES
+Generate Biomedicines; makine öğrenimi, biyoloji mühendisliği ve tıbbın kesiştiği noktada var olan ve çığır açan ilaçlar yaratmak için Üretken Biyolojiye öncülük eden yeni bir tür terapötik şirkettir.
+
+Daha fazla bilgi almak için https://generatebiomedicines.com/ web sitesini ziyaret edin. 
+
+### WOEBOT HEALTH 
+WoeBot Health, yapay zeka tabanlı bir terapi uygulamasıdır ve mental sağlık hizmetlerine erişimi kolaylaştırmak için tasarlanmıştır. Bu uygulama, kullanıcıların mental sağlık sorunlarına ilişkin destek almalarına, stresle başa çıkmalarına ve duygusal refahlarını artırmalarına yardımcı olur.
+
+Daha fazla bilgi almak için https://woebothealth.com/ web sitesini ziyaret edin. 
+
+### INSILICO MEDICINE 
+Insilico Medicine, yapay zeka tabanlı bir ilaç keşif ve geliştirme şirketidir. Bu şirket, ilaç keşif sürecinde yapay zeka ve makine öğrenimi tekniklerini kullanarak, yeni ilaçlar keşfetmek, mevcut ilaçları geliştirmek ve klinik araştırmalar için aday ilaçları belirlemek için çalışmaktadır.
+
+Daha fazla bilgi almak için https://insilico.com/ web sitesini ziyaret edin. 
+
+### MDCLONE 
+mdClone, yapay zeka ve veri analizi teknolojilerini kullanarak, sağlık verilerinin analizini ve kullanımını kolaylaştıran bir sağlık veri platformu sağlayıcısıdır. mdClone, sağlık verilerinin anonimleştirilmesi, veri işleme ve analizi konusunda yapay zeka ve veri analizi teknolojilerini kullanarak, sağlık sektöründe verimliliği ve doğruluğu artırmak ve daha iyi sağlık sonuçları elde etmek için çalışmaktadır. 
+
+Daha fazla bilgi almak için https://www.appengine.ai/company/mdclone web sitesini ziyaret edin. 
+
+### BIGHAT BIOSCIENCES
+BigHat Biosciences, yapay zeka tabanlı bir protein mühendisliği platformu sağlayıcısıdır. Şirket, yapay zeka teknolojilerini kullanarak proteinlerin üretimini optimize eder ve biyolojik problemleri çözmek için bu proteinlerin kullanımını sağlar.
+
+Daha fazla bilgi almak için https://www.bighatbio.com/ web sitesini ziyaret edin. 
+
+### PAIGE 
+Paige, yapay zeka tabanlı bir tıbbi teşhis platformu sağlayıcısıdır. Yapay zeka ve makine öğrenimi teknolojilerini kullanarak, kanser ve diğer hastalıkların teşhisinde önemli bir rol oynamaktadır. Paige, özellikle kanser tespiti ve teşhisi konusunda uzmanlaşmış bir tıbbi teşhis platformu sağlayıcısıdır. Yapay zeka teknolojilerini kullanarak, tıbbi görüntülerin analizi ve moleküler verilerin değerlendirilmesi gibi görevleri otomatikleştirir ve daha hızlı ve doğru sonuçlar elde edilmesine yardımcı olur.
+
+Daha fazla bilgi almak için https://paige.ai/ web sitesini ziyaret edin. 
+
+### DARWIN AI
+DarwinAI, yapay zeka algoritmalarını kullanarak, işletmelerin ve endüstrilerin veri analizi ve işleme ihtiyaçlarını karşılamak için bir dizi araç sağlayan bir teknoloji şirketidir. Şirket, özellikle görüntü ve video analizi, ses analizi, nesne tanıma ve tahmin, anket verilerinin analizi ve diğer endüstriyel veri analizi uygulamalarında uzmanlaşmıştır. DarwinAI'in yapay zeka platformu, müşterilerin kendi verilerini analiz etmelerine, işlemelerine ve sonuçlarını anlamalarına yardımcı olur. 
+ 
+Daha fazla bilgi almak için https://darwinai.com/ web sitesini ziyaret edin. 
+
+
+
+
+
+
+
+
+
 
 
 
