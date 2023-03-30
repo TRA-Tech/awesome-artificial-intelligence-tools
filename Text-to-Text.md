@@ -417,6 +417,31 @@ Madgicx, bir dijital pazarlama platformudur ve yapay zeka teknolojilerini kullan
 Daha fazla bilgi almak için https://madgicx.com/ web sitesini ziyaret edin. 
 
 
+### QUATTR 
+Quattr, yapay zeka destekli bir proje yönetim aracıdır. Bu araç, projelerinizi daha etkili ve verimli bir şekilde yönetmenize yardımcı olmak için tasarlanmıştır.
+- Yapay Zeka Destekli Proje Yönetimi
+- Görev Yönetimi
+- Proje Takibi
+- Verimlilik Analizi
+- Ekip İletişimi gibi birçok özelliği bulunmaktadır. 
+
+Daha fazla bilgi almak için https://www.quattr.com/ web sitesini ziyaret edin. 
+
+### DEMANDWELL 
+Demandwell, pazarlama alanında kullanılmak üzere geliştirilen bir yapay zeka aracıdır. İçerik pazarlaması stratejilerinizi ve SEO çalışmalarınızı geliştirmek için kullanabilirsiniz. 
+
+Daha fazla bilgi almak için https://www.demandwell.com/ web sitesini ziyaret edin. 
+
+### DURABLE 
+Durable, müşteri desteği sağlayan yapay zeka araçlarından biridir. Doğal dil işleme teknolojisi kullanarak, müşteri sorularına ve sorunlarına otomatik olarak cevaplar sağlamak için tasarlanmıştır.
+Durable yapay zeka aracının; 
+- Otomatik Yanıtlar
+- Kişiselleştirilmiş Yanıtlar
+- Çok Kanallı Destek
+- Analiz ve Raporlama
+- Sürekli Öğrenme gibi birçok özelliği bulunmaktadır. 
+
+Daha fazla bilgi almak için https://durable.co/ web sitesini ziyaret edin. 
 
 
  
