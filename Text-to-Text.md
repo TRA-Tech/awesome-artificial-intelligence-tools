@@ -348,6 +348,7 @@ Daha fazla bilgi almak için https://www.zmo.ai/web sitesini ziyaret edin.
 
 ### SEEK 
 Seek, doğal dil işleme ve makine öğrenimi tekniklerini kullanarak metin tabanlı verileri analiz etme, anlama ve yorumlama gibi işlemleri yapan yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/228813148-6781b489-349b-47a6-bfbd-1dd02b433aab.png)
 
 Daha fazla bilgi almak için https://www.seek.ai/ web sitesini ziyaret edin. 
 
@@ -394,6 +395,9 @@ Daha fazla bilgi almak için https://www.vectra.ai/ web sitesini ziyaret edin.
 ### WEAVIATE 
 Weaviate, semantik bir veri arama ve analiz aracıdır. Bu araç, yapay zeka teknolojileri kullanarak, büyük veri setlerindeki bilgi ve ilişkileri anlamlandırmaya ve organize etmeye yardımcı olur. 
 
+![gif](https://camo.githubusercontent.com/4b8cc66b97ba6962c8e23afe421dd855701ba3669a24da7a27c70e77e6ffd795/68747470733a2f2f77656176696174652e696f2f696d672f736974652f77656176696174652d64656d6f2e6769663f693d39)
+
+
 Slack: https://weaviate.io/slack
 GitHub: https://github.com/weaviate/weaviate
 
@@ -416,7 +420,6 @@ Madgicx, bir dijital pazarlama platformudur ve yapay zeka teknolojilerini kullan
 
 Daha fazla bilgi almak için https://madgicx.com/ web sitesini ziyaret edin. 
 
-
 ### QUATTR 
 Quattr, yapay zeka destekli bir proje yönetim aracıdır. Bu araç, projelerinizi daha etkili ve verimli bir şekilde yönetmenize yardımcı olmak için tasarlanmıştır.
 - Yapay Zeka Destekli Proje Yönetimi
@@ -429,6 +432,8 @@ Daha fazla bilgi almak için https://www.quattr.com/ web sitesini ziyaret edin.
 
 ### DEMANDWELL 
 Demandwell, pazarlama alanında kullanılmak üzere geliştirilen bir yapay zeka aracıdır. İçerik pazarlaması stratejilerinizi ve SEO çalışmalarınızı geliştirmek için kullanabilirsiniz. 
+
+![image](https://user-images.githubusercontent.com/123966022/228813429-b783e80a-6030-4e27-9973-a13d414ed4dd.png)
 
 Daha fazla bilgi almak için https://www.demandwell.com/ web sitesini ziyaret edin. 
 
@@ -448,5 +453,34 @@ Dynamo, işletmelerin verilerini analiz ederek, işletme sahiplerine ve yönetic
 
 Daha fazla bilgi almak için https://www.dynamo.fyi/ web sitesini ziyaret edin. 
  
+### LATELY
+Lately.ai, sosyal medya yönetimi için kullanılan bir yapay zeka aracıdır. İşletmelerin sosyal medya hesaplarını yönetmelerine, sosyal medya hesaplarındaki içerikleri planlamasına, oluşturmasına ve yayınlamasına olanak tanır.
+
+Daha fazla bilgi almak için https://www.lately.ai/ web sitesini ziyaret edin. 
+
+### TOPLINE PRO 
+opline Pro, bir satış ve pazarlama yapay zeka aracıdır. İşletmelerin satışlarını artırmalarına ve müşteri deneyimini iyileştirmelerine yardımcı olur. 
+
+Daha fazla bilgi almak için https://www.toplinepro.com/ web sitesini ziyaret edin. 
+
+### ANYWORD 
+Anyword, yapay zeka destekli bir reklam yazma aracıdır. Reklam metinleri oluşturmak isteyen işletmelerin işlerini kolaylaştırır. Kullanıcıların marka, hedef kitle ve reklam türü gibi bilgileri girdikten sonra, otomatik olarak reklam metinleri oluşturur. 
+![image](https://user-images.githubusercontent.com/123966022/228813543-95e5c8a9-178c-4ccf-8c36-339b63b721a3.png)
+
+Daha fazla bilgi almak için https://anyword.com/ web sitesini ziyaret edin. 
+
+### MUTINY 
+MutinyHQ, yapay zeka destekli bir pazarlama ve kişiselleştirme aracıdır. İşletmelerin web sitelerindeki ziyaretçilerin davranışlarını izleyerek, onlara özelleştirilmiş deneyimler sunmalarına yardımcı olur. Ayrıca web sitesi performansını da izleyebilir. İşletmeler, web sitesi trafiğini ve dönüşüm oranlarını takip edebilirler. Bu sayede, işletmeler web sitesinin etkililiğini artırabilir ve dönüşümleri artırabilirler.
+
+Daha fazla bilgi almak için https://www.mutinyhq.com/ web sitesini ziyaret edin. 
+
+### PERSADO 
+Persado, yapay zeka destekli bir pazarlama yazılımıdır ve işletmelerin müşterilerine doğru mesajları sunmalarına yardımcı olur. Yapay zeka ve doğal dil işleme teknolojilerini kullanarak, işletmelerin müşterilerinin dilini anlayarak, doğru mesajları oluşturmasına ve müşterileri etkilemelerine yardımcı olur.
+
+API: https://www.persado.com/platform/motivation-ai-api/
+
+Daha fazla bilgi almak için https://www.persado.com/ web sitesini ziyaret edin. 
+
+
 
 
