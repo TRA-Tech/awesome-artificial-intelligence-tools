@@ -443,6 +443,10 @@ Durable yapay zeka aracının;
 
 Daha fazla bilgi almak için https://durable.co/ web sitesini ziyaret edin. 
 
+### DYNAMO10X 
+Dynamo, işletmelerin verilerini analiz ederek, işletme sahiplerine ve yöneticilerine veri odaklı kararlar almalarına yardımcı olur.
 
+Daha fazla bilgi almak için https://www.dynamo.fyi/ web sitesini ziyaret edin. 
  
+
 
