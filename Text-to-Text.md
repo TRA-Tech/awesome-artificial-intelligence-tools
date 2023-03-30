@@ -584,6 +584,34 @@ DarwinAI, yapay zeka algoritmalarını kullanarak, işletmelerin ve endüstriler
  
 Daha fazla bilgi almak için https://darwinai.com/ web sitesini ziyaret edin. 
 
+### TERMSCOUT 
+Termscout, yapay zeka teknolojilerinden faydalanarak sözleşmeleri inceleme ve yazma işlemlerini sürdüren bir araçtır. Bu platform, özellikle işletmelerin ve hukuk firmalarının hızlı ve etkili bir şekilde sözleşmeleri analiz etmelerine yardımcı olur. 
+
+API: https://www.termscout.com/contract-api-solutions
+
+Daha fazla bilgi almak için https://www.termscout.com/ web sitesini ziyaret edin. 
+
+### HARVEY AI
+Harvey yasal süreçleri yapay zeka teknolojisiyle sürdürebileceğiniz bir araç. Şu an aracı incelemek için bir bekleme listesine dahil olmanız gerekmektedir.
+
+Daha fazla bilgi almak için https://www.harvey.ai/ web sitesini ziyaret edin. 
+
+### ZUMA 
+GetZuma, bir proje yönetim aracıdır ve yapay zeka teknolojilerini kullanarak projelerinizi yönetmenize yardımcı olur. 
+GetZuma, proje yönetimi sürecinde;
+- Görev takibi
+- Raporlama
+- Yapay zeka tabanlı öneriler
+- İletişim gibi birçok özelliği sunar. 
+
+Daha fazla bilgi almak için https://www.getzuma.com/ web sitesini ziyaret edin. 
+
+### ARCHISTAR
+Archistar, emlak şirketlerinin siteleri bulma, değerlendirme ve tasarlama yöntemlerinde kullandığı yapay zeka aracıdır. Kolaylıkla site analizleri çıkarabilirsiniz. 
+
+Daha fazla bilgi almak için https://www.archistar.ai/ web sitesini ziyaret edin. 
+
+
 
 
 
