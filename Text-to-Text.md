@@ -399,6 +399,7 @@ Weaviate, semantik bir veri arama ve analiz aracıdır. Bu araç, yapay zeka tek
 
 
 Slack: https://weaviate.io/slack
+
 GitHub: https://github.com/weaviate/weaviate
 
 Daha fazla bilgi almak için https://weaviate.io/ web sitesini ziyaret edin. 
