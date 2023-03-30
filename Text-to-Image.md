@@ -266,4 +266,12 @@ Veed.IO, yapay zeka teknolojilerini kullanarak otomatik olarak resimler oluştur
 
 Daha fazla bilgi almak için https://www.veed.io/ web sitesini ziyaret edin. 
 
+### SWAPP 
+Swapp, birkaç dakika içinde yapay zeka teknolojisinden yararlanarak çizim belgeleri oluşturmaya yarayan bir araçtır. Çizim alanında desteğe ihtiyacı olan birçok meslek dalına bu konuda kolaylık sağlar, tasarım çiziminde harcanan zamandan tasarruf etmeyi hedefler. 
+
+Daha fazla bilgi almak için https://www.swapp.ai/ web sitesini ziyaret edin. 
+
+
+
+
 
