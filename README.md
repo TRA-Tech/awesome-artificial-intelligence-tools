@@ -39,6 +39,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [LIGHTRICKS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#lightricks)
 - [YEPIC AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#yepic-ai)
 - [VEED IO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#veed-io)
+- [SWAPP](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#swapp)
 
 
 ### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
