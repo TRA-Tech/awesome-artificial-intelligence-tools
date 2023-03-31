@@ -910,7 +910,27 @@ Generally Intelligent, öğrenme ve anlama yeteneği olan yapay zeka sistemleri 
 
 Daha fazla bilgi almak için https://generallyintelligent.com/ web sitesini ziyaret edin. 
 
-### 
+### UNLIKELY 
+Unlikely AI, işe alım sürecinde kullanılan bir yapay zeka aracıdır. Şirket, geliştirdiği yapay zeka teknolojileri sayesinde, işverenlerin işe alım sürecini optimize etmelerine yardımcı olur.
+
+Daha fazla bilgi almak için https://unlikely.ai/ web sitesini ziyaret edin. 
+
+### ANTHROPIC 
+Anthropic, insan merkezli yapay zeka araştırma ve geliştirme şirketidir. Şirket, insan merkezli yapay zeka sistemleri oluşturarak, yapay zeka teknolojilerinin insanlığa fayda sağlamasına odaklanır.
+
+Daha fazla bilgi almak için https://www.anthropic.com/ web sitesini ziyaret edin. 
+
+### INFLEXION 
+Inflexion, doğal dil işleme alanında yapay zeka çözümleri sunan bir şirkettir. Şirket, metin verilerini analiz ederek, anlamlı bilgiler çıkarmak için makine öğrenimi ve doğal dil işleme tekniklerini kullanır.
+
+Daha fazla bilgi almak için https://www.inflexion.ai/ web sitesini ziyaret edin. 
+
+### ADEPT 
+Adept, yapay zeka ve makine öğrenimi teknolojileri kullanarak doğal dil anlama ve dil üretimi konusunda uzmanlaşmış bir şirkettir. Adept'in yapay zeka araçları, müşteri hizmetleri, pazarlama, finans, sağlık, e-ticaret ve birçok diğer sektörde kullanılabilir.
+
+Daha fazla bilgi almak için https://www.adept.ai/ web sitesini ziyaret edin. 
+
+
 
 
 
