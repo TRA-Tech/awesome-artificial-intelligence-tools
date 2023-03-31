@@ -69,6 +69,8 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [WELL SAID](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#well-said)
   * [DESCRIPT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#descript)
   * [LOVO AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#lovo-ai)
+  * [OMNEKY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#omneky)
+  * [OUTPLAYHQ](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#outplayhq)
   
 ### Metinleri Yapay Zeka Destekli Araçlar Sayesinde Optimize Edilmiş Metinlere Çevirin 
 > Text to Text
