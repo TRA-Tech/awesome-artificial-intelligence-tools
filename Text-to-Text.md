@@ -377,6 +377,7 @@ Daha fazla bilgi almak için https://metaphor.systems/ web sitesini ziyaret edin
 
 ### DASHWORKS 
 Dashworks, kullanıcıların farklı veri kaynaklarından veri toplamasına ve bu verileri analiz etmelerine olanak tanır. Yapay zeka tabanlı teknolojiler kullanarak, Dashworks, verileri otomatik olarak sınıflandırır, model oluşturur ve trendleri takip eder.
+![image](https://user-images.githubusercontent.com/123966022/229113145-784fdbc8-1785-4548-a2b6-2806e9518458.png)
 
 Daha fazla bilgi almak için https://www.dashworks.ai/ web sitesini ziyaret edin. 
 
@@ -413,6 +414,8 @@ Daha fazla bilgi almak için https://neeva.com/ web sitesini ziyaret edin.
 You.com, kişisel bir dijital asistandır ve yapay zeka teknolojilerini kullanarak, kullanıcıların günlük hayatlarını daha verimli ve kolay hale getirmeyi amaçlar. Bu araç, kullanıcılara doğal bir dil ile iletişim kurma imkanı sağlar ve kullanıcıların ihtiyaçlarına uygun cevaplar sunmak için makine öğrenimi algoritmalarını kullanır.
 
 Discord: https://discord.com/invite/f9jRFH5gHP
+
+![image](https://user-images.githubusercontent.com/123966022/229113291-a71b5a9e-39ff-4d3d-b793-65379e0a4c73.png)
 
 Daha fazla bilgi almak için https://you.com/ web sitesini ziyaret edin. 
 
@@ -462,6 +465,8 @@ Daha fazla bilgi almak için https://www.lately.ai/ web sitesini ziyaret edin.
 ### TOPLINE PRO 
 opline Pro, bir satış ve pazarlama yapay zeka aracıdır. İşletmelerin satışlarını artırmalarına ve müşteri deneyimini iyileştirmelerine yardımcı olur. 
 
+![image](https://user-images.githubusercontent.com/123966022/229113408-40d9ace4-9ece-4d9a-bdb3-82ca103b2db5.png)
+
 Daha fazla bilgi almak için https://www.toplinepro.com/ web sitesini ziyaret edin. 
 
 ### ANYWORD 
@@ -489,6 +494,8 @@ Daha fazla bilgi almak için https://www.valencediscovery.com/ web sitesini ziya
 
 ### SYNTEGRA 
 Syntegra, yapay zeka tabanlı bir yazılım platformudur ve endüstriyel ve ticari işletmelerin üretim, tedarik zinciri ve operasyonel verimliliklerini artırmak için tasarlanmıştır. Syntegra, büyük veri kümelerini analiz etmek için yapay zeka ve makine öğrenmesi tekniklerini kullanır. Bu teknikler, işletmelerin verimliliklerini artırmak için önemli olan tahmin yapma, arıza öngörüsü ve üretim planlaması gibi çeşitli işlevleri yerine getirebilirler. 
+
+![image](https://user-images.githubusercontent.com/123966022/229113567-ee82230b-49f9-4da6-a501-096daabcf065.png)
 
 Daha fazla bilgi almak için https://www.syntegra.io/ web sitesini ziyaret edin. 
 
@@ -519,6 +526,8 @@ Daha fazla bilgi almak için https://www.atroposhealth.com/ web sitesini ziyaret
 
 ### WYSA 
 Wysa, yapay zeka tabanlı bir mental sağlık uygulamasıdır. Uygulama, kullanıcılara anksiyete, depresyon, yalnızlık ve stres gibi konularda destek sağlamak için tasarlanmıştır. Ayrıca Wysa, kullanıcılara meditasyon, nefes çalışmaları, sanal terapi ve diğer mental sağlık kaynaklarına da erişim imkanı sunar. Uygulamanın amacı, kullanıcıların duygusal refahlarını iyileştirmek ve mental sağlık hizmetlerine daha erişilebilir hale getirmektir. 
+
+![image](https://user-images.githubusercontent.com/123966022/229114268-852d9604-8a0b-49eb-8822-23b10cf010b1.png)
 
 Daha fazla bilgi almak için https://www.wysa.com/ web sitesini ziyaret edin. 
 
@@ -581,6 +590,9 @@ Daha fazla bilgi almak için https://paige.ai/ web sitesini ziyaret edin.
 
 ### DARWIN AI
 DarwinAI, yapay zeka algoritmalarını kullanarak, işletmelerin ve endüstrilerin veri analizi ve işleme ihtiyaçlarını karşılamak için bir dizi araç sağlayan bir teknoloji şirketidir. Şirket, özellikle görüntü ve video analizi, ses analizi, nesne tanıma ve tahmin, anket verilerinin analizi ve diğer endüstriyel veri analizi uygulamalarında uzmanlaşmıştır. DarwinAI'in yapay zeka platformu, müşterilerin kendi verilerini analiz etmelerine, işlemelerine ve sonuçlarını anlamalarına yardımcı olur. 
+
+![image](https://user-images.githubusercontent.com/123966022/229116310-c03698d6-bccc-4558-b45c-8b43d66b8768.png)
+
  
 Daha fazla bilgi almak için https://darwinai.com/ web sitesini ziyaret edin. 
 
@@ -608,6 +620,7 @@ Daha fazla bilgi almak için https://www.getzuma.com/ web sitesini ziyaret edin.
 
 ### ARCHISTAR
 Archistar, emlak şirketlerinin siteleri bulma, değerlendirme ve tasarlama yöntemlerinde kullandığı yapay zeka aracıdır. Kolaylıkla site analizleri çıkarabilirsiniz. 
+![image](https://user-images.githubusercontent.com/123966022/229116484-4f2f99ae-35cc-42b0-954e-7d37a3749499.png)
 
 Daha fazla bilgi almak için https://www.archistar.ai/ web sitesini ziyaret edin. 
 
@@ -640,6 +653,7 @@ Daha fazla bilgi almak için https://blackshark.ai/ web sitesini ziyaret edin.
 
 ### CASETEXT
 Casetext, yapay zeka teknolojisi kullanılarak chatbot/asistan olarak çalışan hukuk asistanı aracıdır. Belge incelemesi, vaka analizi, analiz sonuçları oluşturma, sözleşme analizi gibi özellikleri bulunmaktadır. 
+![image](https://user-images.githubusercontent.com/123966022/229116540-6b937b01-45a2-43f1-8393-3532a4604257.png)
 
 Daha fazla bilgi almak için https://casetext.com/ web sitesini ziyaret edin. 
 
@@ -685,6 +699,8 @@ Daha fazla bilgi almak için https://www.dhiwise.com/ web sitesini ziyaret edin.
 
 ### WHYLABS
 whylabs, verileri hızlı analiz etmek, makine öğrenimi sorunlarını daha hızlı algılamak için geliştirilmiş bir yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/229117982-88eacf14-5af1-480f-9c0a-ee9733790690.png)
+
 
 GitHub: https://github.com/whylabs 
 
@@ -720,6 +736,8 @@ Daha fazla bilgi almak için https://www.fixie.ai/ web sitesini ziyaret edin.
 
 ### PINECONE 
 Pinecone, işletmelerin büyük veri kümelerini etkili bir şekilde işlemelerine ve yapay zeka modellerini hızlandırmalarına yardımcı olan bir hizmettir. Pinecone, özellikle büyük boyutlu vektörlerin işlenmesi için tasarlanmıştır. 
+![image](https://user-images.githubusercontent.com/123966022/229118205-a036f00e-7fcc-4191-aa91-44aa0c570c69.png)
+
 
 API: https://docs.pinecone.io/docs/overview
 
@@ -750,6 +768,9 @@ Daha fazla bilgi almak için https://www.deepset.ai/ web sitesini ziyaret edin.
 
 ### ITERATIVE
 Iterative, veri bilimi projeleri için açık kaynaklı bir araç seti olan DVC (Data Version Control) ve CML (Continuous Machine Learning) geliştirir. Bu araçlar, veri bilimi ekiplerinin projelerini daha iyi organize etmelerine, takip etmelerine, tekrar kullanmalarına ve paylaşmalarına olanak tanır.
+
+![image](https://user-images.githubusercontent.com/123966022/229118335-223fbb63-9edb-4f87-8ad9-d12ad945407d.png)
+
 
 GitHub: https://github.com/iterative 
 Discord: https://discord.com/invite/dvwXA2N
@@ -791,6 +812,8 @@ Daha fazla bilgi almak için https://www.anyscale.com/ web sitesini ziyaret edin
 
 ### OCTOML
 OctoML, yapay zeka uygulamalarının hızlı ve verimli bir şekilde çalıştırılmasını sağlayan bir araçtır. Bu araç, açık kaynaklı bir derleme ortamı olan Apache TVM'yi kullanarak, farklı donanımlarda (CPU, GPU, FPGA, ASIC vb.) çalıştırılabilen yapay zeka modellerini optimize eder.
+![image](https://user-images.githubusercontent.com/123966022/229118452-c80c9ba5-391e-4a18-ad74-5f60499babbb.png)
+
 
 Daha fazla bilgi almak için https://octoml.ai/ web sitesini analiz edin. 
 
@@ -833,6 +856,9 @@ Daha fazla bilgi almak için https://www.lang.ai/ web sitesini ziyaret edin.
 ### SATURN CLOUD 
 Saturn Cloud, veri bilimciler ve makine öğrenmesi mühendisleri için tasarlanmış bir bulut platformudur. Bu platform, büyük ölçekli veri analizi, makine öğrenmesi model eğitimi ve dağıtımı için gereken altyapıyı sağlar.
 
+![image](https://user-images.githubusercontent.com/123966022/229118553-ac23adc3-663a-4841-ae0b-ce29ab31ac31.png)
+
+
 API: https://saturncloud.io/docs/concepts/api/
 
 Daha fazla bilgi almak için https://saturncloud.io/ web sitesini ziyaret edin. 
@@ -864,6 +890,8 @@ Daha fazla bilgi almak için https://hazy.com/ web sitesini ziyaret edin.
 
 ### ZILLIZ 
 Zilliz, yapay zeka tabanlı bir veri analizi ve sorgulama aracıdır. Bu araç, büyük veri kümeleri üzerinde hızlı ve etkili bir şekilde analiz yapmak için kullanılır.
+
+![image](https://user-images.githubusercontent.com/123966022/229118640-061fe868-0390-429c-97aa-1648de938a5f.png)
 
 GitHub: https://github.com/zilliztech
 API: https://zilliz.com/doc/about_zilliz_cloud 
@@ -907,6 +935,9 @@ Daha fazla bilgi almak için https://snorkel.ai/ web sitesini ziyaret edin.
 
 ### GENERAL INTELLIGENT
 Generally Intelligent, öğrenme ve anlama yeteneği olan yapay zeka sistemleri oluşturan bir yapay zeka araştırma ve geliştirme şirketidir. Şirketin amacı, insanlarla doğal bir şekilde etkileşim kurabilen, karmaşık görevleri yerine getirebilen ve öğrenen yapay zeka sistemleri geliştirmektir.
+
+![image](https://user-images.githubusercontent.com/123966022/229118816-4186a242-ec0a-4a58-851e-434cf49a7b03.png)
+
 
 Daha fazla bilgi almak için https://generallyintelligent.com/ web sitesini ziyaret edin. 
 
