@@ -271,6 +271,18 @@ Swapp, birkaç dakika içinde yapay zeka teknolojisinden yararlanarak çizim bel
 
 Daha fazla bilgi almak için https://www.swapp.ai/ web sitesini ziyaret edin. 
 
+### AI FOUNDATION 
+AI Foundation, insan benzeri dijital varlıkların (digital humans) oluşturulması ve dijital ortamlarda kullanılması konusunda uzmanlaşmış bir yapay zeka araştırma ve geliştirme şirketidir. Şirket, yapay zeka, bilgisayar grafikleri ve insan etkileşimi gibi konularda çalışmalar yaparak, dijital varlıkların gerçekçiliğini artırmayı ve insanlarla doğal bir şekilde etkileşim kurabilmelerini sağlamayı hedeflemektedir.
+
+Daha fazla bilgi almak için https://aifoundation.com/ web sitesini ziyaret edin. 
+
+### CHOOCH AI 
+Chooch AI, görüntü ve video analizi için kullanılan bir yapay zeka aracıdır. Şirket, geliştirdiği yapay zeka teknolojileri sayesinde, görüntülerdeki nesneleri, yüzleri, sahneleri ve diğer özellikleri tanıyarak, bu verileri analiz edebilir.
+
+API: https://www.chooch.com/api/
+
+Daha fazla bilgi almak için https://www.chooch.com/ web sitesini ziyaret edin. 
+
 
 
 
