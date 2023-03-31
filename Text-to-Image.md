@@ -284,6 +284,11 @@ API: https://www.chooch.com/api/
 Daha fazla bilgi almak için https://www.chooch.com/ web sitesini ziyaret edin. 
 
 
+### CHARACTER AI
+Character, dijital karakterler oluşturmak için kullanılan bir yapay zeka aracıdır. Bu araç, insan benzeri dijital karakterlerin hızlı ve kolay bir şekilde oluşturulmasına olanak sağlar.
+
+Daha fazla bilgi almak için https://beta.character.ai/ web sitesini ziyaret edin. 
+
 
 
 
