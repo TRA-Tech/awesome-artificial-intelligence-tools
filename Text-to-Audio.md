@@ -39,6 +39,8 @@ Lovo yapay zeka aracına dair daha fazla bilgi almak için https://lovo.ai/ web 
 ### OMNEKY 
 Omneky, bir müşteri ilişkileri yönetimi aracıdır ve yapay zeka teknolojilerini kullanarak, işletmelerin müşterileriyle daha etkili bir şekilde etkileşim kurmalarına yardımcı olur. Bu araç, müşterilerle gerçek zamanlı olarak etkileşim kurarak, müşteri memnuniyetini artırmayı ve müşteri sadakatini sağlamayı amaçlar.
 
+![image](https://user-images.githubusercontent.com/123966022/229111979-7c1eaf56-de56-4b90-b341-020910c092f2.png)
+
 Daha fazla bilgi almak için https://www.omneky.com/ web sitesini ziyaret edin. 
 
 ### OUTPLAYHQ
