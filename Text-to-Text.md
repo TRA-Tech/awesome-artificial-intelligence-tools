@@ -616,15 +616,301 @@ Dataskrive, bir metin yazarlığı yapay zeka aracıdır. Bu araç, kullanıcıl
 
 Daha fazla bilgi almak için https://dataskrive.com/ web sitesini ziyaret edin. 
 
+### DARROW AI
+Darrow AI, yapay zeka tabanlı teknolojisiyle hukuk alanında vaka listeleme ve analiz işlemlerini sağlamaya yarayan araçtır. Vaka eşleştirme, vaka bilgisi, vaka stratejisi belirleme ve davacıyla etkileşim kurma gibi özellikleri mevcuttur. 
+
+Daha fazla bilgi almak için https://www.darrow.ai/ web sitesini ziyaret edin. 
+
+### TESFIT 
+Tesfit AI, gayrimenkul alanında yapay zeka teknolojileri kullanılarak fizibilite raporu oluşturmayı sağlayan araçtır. TestFit.io'nun bu özellikleri, inşaat sektöründe çalışanların tasarım ve planlama süreçlerini hızlandırması ve optimize etmesi için birçok uygulama sunar.
+
+Daha fazla bilgi almak için https://testfit.io/ web sitesini ziyaret edin. 
+
+### BLACKSHARK AI 
+Blackshark AI, yapay zeka teknolojileri kullanarak haritalama, navigasyon ve coğrafi bilgi sistemleri için gelişmiş çözümler sunan bir araçtır. Bu araç, farklı amaçlar için kullanılabilecek çeşitli özellikler sunar;
+- Haritalama
+- Yol Ağı Oluşturma
+- Nesne Tespiti
+- Coğrafi Analiz
+- Hava Kalitesi Tahmini 
+
+Blackshark.ai'nin bu özellikleri, çeşitli endüstrilerde ve işlevlerde kullanılabilecek coğrafi veri analizi ve işlemeye yönelik birçok uygulama sunar.
+
+Daha fazla bilgi almak için https://blackshark.ai/ web sitesini ziyaret edin. 
+
+### CASETEXT
+Casetext, yapay zeka teknolojisi kullanılarak chatbot/asistan olarak çalışan hukuk asistanı aracıdır. Belge incelemesi, vaka analizi, analiz sonuçları oluşturma, sözleşme analizi gibi özellikleri bulunmaktadır. 
+
+Daha fazla bilgi almak için https://casetext.com/ web sitesini ziyaret edin. 
+
+### PRIMER
+Primer, doğal dil işleme ve makine öğrenimi teknolojilerini kullanarak, kullanıcılara farklı amaçlar için veri analizi ve anlama konusunda yardımcı olan bir yapay zeka aracıdır. 
+- Metin Analizi
+- Bilgi Çıkarımı
+- Veri Görselleştirme
+- Özel Modeller Oluşturma gibi özelliklere sahiptir. 
+
+Daha fazla bilgi almak için https://primer.ai/ web sitesini ziyaret edin. 
+
+### LATTICEFLOW
+LatticeFlow, makine öğrenimi algoritmalarını ve yapay zeka tekniklerini kullanarak, veri bilimi ve mühendisliği alanlarında uygulama geliştirme için bir çerçeve sağlayan bir yapay zeka aracıdır. LatticeFlow, özellikle büyük veri setleri ile çalışan ve yüksek ölçeklenebilirliğe ihtiyaç duyan uygulamalar için tasarlanmıştır.
+- Veri Hazırlığı
+- Makine Öğrenimi
+- Model Yönetimi
+- Uygulama Geliştirme gibi birçok özelliklerinden yararlanabilirsiniz. 
 
 
+Daha fazla bilgi almak için https://latticeflow.ai/ web sitesini ziyaret edin. 
 
+### EXPLOSION 
+Explosion AI, doğal dil işleme teknolojileri ve yapay zeka algoritmaları geliştirmeye odaklanan bir yapay zeka aracıdır. Bu araç, dil modelleri, kelime gömme modelleri ve benzeri yapay zeka tekniklerini kullanarak, doğal dildeki metinleri analiz etmek, anlamak ve işlemek için kullanılır.
 
+GitHub: https://github.com/explosion
 
+Daha fazla bilgi almak için https://explosion.ai/ web sitesini ziyaret edin. 
 
+### FEATUREFORM 
+Featureform, makine öğrenimi özelliklerini tanımlamasına, yönetmesine ve sunmasına olanak tanır. kiplerin işleme sorunlarını çözmek için doğru veri altyapısını seçmelerine olanak tanırken bunun üzerinde bir özellik deposu oluşturmasını da sağlar. 
 
+GitHub: https://github.com/featureform
 
+Daha fazla bilgi almak için https://www.featureform.com/ web sitesini ziyaret edin. 
 
+### DHIWISE 
+DhiWise, geliştiricilerin tasarımlarını mobil ve web uygulamaları için geliştirici dostu kodlara dönüştürebilecekleri bir programlama platformudur. DhiWise, uygulama geliştirme yaşam döngüsünü otomatikleştirir ve anında okunabilir, modüler ve yeniden kullanılabilir kod üretir. 
+
+GitHub: https://github.com/DhiWise
+
+Daha fazla bilgi almak için https://www.dhiwise.com/ web sitesini ziyaret edin. 
+
+### WHYLABS
+whylabs, verileri hızlı analiz etmek, makine öğrenimi sorunlarını daha hızlı algılamak için geliştirilmiş bir yapay zeka aracıdır. 
+
+GitHub: https://github.com/whylabs 
+
+Daha fazla bilgi almak için https://whylabs.ai/ web sitesini ziyaret edin. 
+
+### MODAL
+Modal, makine öğrenimi modellerini, büyük ölçüde paralel bilgi işlem işlerini, görev sıralarını, web uygulamalarını ve çok daha fazlasını kendi altyapınız olmadan çalıştırmanıza veya dağıtmanıza olanak tanır. Herhangi bir kod yığınını kolayca dağıtıp ölçeklendirebilirsiniz. 
+
+GitHub: https://github.com/modal-labs
+
+Daha fazla bilgi almak için https://modal.com/ web sitesini ziyaret edin. 
+
+### XETDATA
+Xetdata, Git deponuzla entegre bir şekilde çalışarak kodlarınızı ve verilerinizi güçlü bir şekilde ölçeklenebilir kılar. Kodlarınızı ve verilerinizi kolayca geliştirebilirsiniz. 
+
+Daha fazla bilgi almak için https://xetdata.com/ web sitesini ziyaret edin. 
+
+### MYSTIC 
+Mystic, bir dizi yapay zeka aracı sunan bir platformdur. Bu araçlar, veri analizi, makine öğrenimi ve doğal dil işleme gibi çeşitli alanlarda kullanılabilir.
+- Mystic Data
+- Mystic NLP
+- Mystic ML
+- Mystic AI gibi özellikleri mevcuttur. 
+
+Discord: https://discord.com/invite/7REbAX5v3N
+
+Daha fazla bilgi almak için https://www.mystic.ai/ web sitesini ziyaret edin. 
+
+### FIXIE 
+Fixie, verilerinize bağlanıp, API'leri analiz eden ve karmaşık sorunları çözen yapay zeka detekli doğal dil aracıdır. 
+
+Daha fazla bilgi almak için https://www.fixie.ai/ web sitesini ziyaret edin. 
+
+### PINECONE 
+Pinecone, işletmelerin büyük veri kümelerini etkili bir şekilde işlemelerine ve yapay zeka modellerini hızlandırmalarına yardımcı olan bir hizmettir. Pinecone, özellikle büyük boyutlu vektörlerin işlenmesi için tasarlanmıştır. 
+
+API: https://docs.pinecone.io/docs/overview
+
+Daha fazla bilgi almak için https://www.pinecone.io/ web sitesini ziyaret edin. 
+
+### MOSAIC 
+Mosaic, makine öğrenimi modelini hızlı ve kolay bir şekilde oluşturmak ve yönetmek için bir hizmettir. Mosaic, yapay zeka modelinin tamamını oluşturan tüm adımları birleştiren bir otomatikleştirme platformudur.
+
+API: https://docs.mosaicml.com/en/latest/
+
+Daha fazla bilgi almak için https://www.mosaicml.com/ web sitesini ziyaret edin. 
+
+### APORIA
+Aporia, veri bilimcilerin ve makine öğrenimi mühendislerinin makine öğrenimi projelerini daha hızlı, daha güvenilir ve daha kolay bir şekilde yönetmelerine yardımcı olan bir hizmettir. Aporia, makine öğrenimi modellerinin performansını izleme, hata ayıklama, veri yönetimi ve model paylaşımı gibi bir dizi görevi otomatikleştirir.
+
+API: https://platform.aporia.com/api/v1/docs
+
+GitHub: https://github.com/aporia-ai
+
+Daha fazla bilgi almak için https://www.aporia.com/ web sitesini ziyaret edin. 
+
+### DEEPSET 
+Deepset, doğal dil işleme konusunda uzmanlaşmış bir yapay zeka şirketidir. Şirket, NLP projelerinde kullanılabilecek açık kaynaklı bir NLP platformu olan Haystack'i geliştirir. Haystack, NLP projelerinin hızlı bir şekilde prototip edilmesine, ölçeklendirilmesine ve dağıtılmasına olanak tanıyan bir dizi araç sağlar. Platform, metin verilerini yönetmek, önceden eğitilmiş model ve algoritmaları kullanmak, özel model ve algoritmalar oluşturmak ve sonuçları görselleştirmek için araçlar sunar.
+
+GitHub: https://github.com/deepset-ai
+
+Daha fazla bilgi almak için https://www.deepset.ai/ web sitesini ziyaret edin. 
+
+### ITERATIVE
+Iterative, veri bilimi projeleri için açık kaynaklı bir araç seti olan DVC (Data Version Control) ve CML (Continuous Machine Learning) geliştirir. Bu araçlar, veri bilimi ekiplerinin projelerini daha iyi organize etmelerine, takip etmelerine, tekrar kullanmalarına ve paylaşmalarına olanak tanır.
+
+GitHub: https://github.com/iterative 
+Discord: https://discord.com/invite/dvwXA2N
+
+Daha fazla bilgi almak için https://iterative.ai/ web sitesini ziyaret edin. 
+
+### GALILEO AI
+Galileo AI, basit bir metin açıklamasından keyifli, düzenlenebilir UI tasarımları oluşturur . Her zamankinden daha hızlı tasarım yapmanızı sağlar. 
+
+Daha fazla bilgi almak için https://www.usegalileo.ai/ web sitesini ziyaret edin. 
+
+### COMET
+Comet, makine öğrenimi projelerini yönetmek, izlemek ve paylaşmak için bir platform sunar. Yapay zeka araştırmacıları ve veri bilimcileri, Comet aracılığıyla makine öğrenimi projelerini daha verimli bir şekilde yönetebilirler.
+
+API: https://www.comet.com/docs/v2/
+
+Daha fazla bilgi almak için https://www.comet.com/site/ web sitesini ziyaret edin. 
+
+### LIGHTNING 
+Lightning, makine öğrenimi projeleri için bir hızlandırıcıdır ve yüksek performanslı hesaplama kaynaklarını kullanarak bu projelerin daha hızlı ve daha verimli bir şekilde çalışmasını sağlar. Lightning, araştırmacıların ve veri bilimcilerinin makine öğrenimi modellerini daha hızlı bir şekilde eğitmesine ve sonuçları daha hızlı bir şekilde analiz etmesine olanak tanır.
+
+GitHub: https://github.com/lightning-ai/lightning
+Discord: https://discord.com/invite/XncpTy7DSt
+API: https://lightning.ai/docs
+
+Daha fazla bilgi almak için https://lightning.ai/ web sitesini ziyaret edin. 
+
+### ROBUST INTELLIGENCE
+Robust Intelligence, model yaşam döngüsü boyunca Makine Öğrenimi Bütünlüğünü sağlayan bir platform sağlar. Robust Intelligence'ın ana hizmetleri arasında, yapay zeka sistemleri için güvenliğin sağlanması, veri gizliliği ve güvenliği, yapay zeka etiği, yapay zeka teknolojilerinin uygulanması ve yapay zeka ile ilgili stratejilerin geliştirilmesi bulunmaktadır. Ayrıca, yapay zeka alanında eğitim, danışmanlık ve araştırma hizmetleri de sunmaktadır.
+
+Daha fazla bilgi almak için https://www.robustintelligence.com/ web sitesini ziyaret edin. 
+
+### ANYSCALE 
+Anyscale, yapay zeka teknolojiyleriyle Pyhton uygulamalarını kolayca ölçeklendirmeye yaramaktadır. 
+
+GitHub: https://github.com/anyscale
+
+Daha fazla bilgi almak için https://www.anyscale.com/ web sitesini ziyaret edin. 
+
+### OCTOML
+OctoML, yapay zeka uygulamalarının hızlı ve verimli bir şekilde çalıştırılmasını sağlayan bir araçtır. Bu araç, açık kaynaklı bir derleme ortamı olan Apache TVM'yi kullanarak, farklı donanımlarda (CPU, GPU, FPGA, ASIC vb.) çalıştırılabilen yapay zeka modellerini optimize eder.
+
+Daha fazla bilgi almak için https://octoml.ai/ web sitesini analiz edin. 
+
+### HUGGING FACE
+Hugging Face, doğal dil işleme alanında yapay zeka uygulamaları geliştirmek için kullanılan bir araçtır. Hugging Face, özellikle açık kaynaklı yapay zeka kütüphaneleri (frameworks) üzerine yoğunlaşır ve önceden eğitilmiş NLP modellerinin kullanımını kolaylaştırmak için arayüzler sağlar.
+
+GitHub: https://github.com/huggingface/transformers
+API: https://huggingface.co/inference-api
+Discord: https://discord.com/invite/JfAtkvEtRb
+
+Daha fazla bilgi almak için https://huggingface.co/ web sitesini ziyaret edin. 
+
+### WEIGHTS AND BIASES 
+Weights and Biases, yapay zeka modellerinin eğitimi ve izlenmesi için kullanılan bir araçtır. W&B, açık kaynaklı yapay zeka kütüphaneleri (frameworks) ile entegre çalışır ve bu kütüphanelerden elde edilen verileri toplar, izler ve analiz eder.
+
+API: https://docs.wandb.ai/?_gl=1*vwef1k*_ga*MjA5MDY0NDAyMi4xNjgwMjUyNDE5*_ga_JH1SJHJQXJ*MTY4MDI1MjQxOS4xLjEuMTY4MDI1MjQ0Mi4zNy4wLjA.
+
+Daha fazla bilgi almak için https://wandb.ai/site web sitesini ziyaret edin. 
+
+### MANTIUM 
+Mantium, veri entegrasyonunu, dönüşümünü ve analizini basitleştiren yapay zeka aracıdır. Verileri büyük dil modellerine bağlamayı kolaylaştırarak sektörler arasında sorunsuz yapay zeka entegrasyonu sağlar. 
+
+API: https://developer.mantiumai.com/v2.0/
+Discord: https://discord.com/invite/SscDru7dFB
+
+Daha fazla bilgi almak için https://mantiumai.com/ web sitesini ziyaret edin. 
+
+### DATOMIZE
+Datomize, yapay zeka destekli veri oluşturma ve analitik veri kümelerini üst sıralara çıkarma işlemini sağlayan yapay zeka destekli araçtır. 
+
+Daha fazla bilgi almak için https://www.datomize.com/ web sitesini ziyaret edin. 
+
+### LANG AI
+Lang.ai, doğal dil işleme teknolojileri kullanarak müşteri hizmetleri süreçlerindeki yükü azaltmak ve müşteri deneyimini iyileştirmek için tasarlanmış bir yapay zeka aracıdır. 
+
+API: https://docs.lang.ai/
+
+Daha fazla bilgi almak için https://www.lang.ai/ web sitesini ziyaret edin. 
+
+### SATURN CLOUD 
+Saturn Cloud, veri bilimciler ve makine öğrenmesi mühendisleri için tasarlanmış bir bulut platformudur. Bu platform, büyük ölçekli veri analizi, makine öğrenmesi model eğitimi ve dağıtımı için gereken altyapıyı sağlar.
+
+API: https://saturncloud.io/docs/concepts/api/
+
+Daha fazla bilgi almak için https://saturncloud.io/ web sitesini ziyaret edin. 
+
+### MOSTLY AI
+Mostly AI, yapay zeka tabanlı bir veri anonimleştirme aracıdır. Bu araç, müşteri verilerini anonimleştirerek gizliliği korumak ve veri güvenliğini sağlamak için kullanılır. 
+
+Discord: https://discord.com/invite/pXcX4HMVGP
+API: https://mostly.ai/synthetic-data-generator-docs/
+
+Daha fazla bilgi almak için https://mostly.ai/ web sitesini ziyaret edin.
+
+### SYNTHESIS 
+Synthesis AI, yapay zeka tabanlı bir veri oluşturma aracıdır. Gerçek dünya verileriyle benzerlik gösteren ve gerçek dünya örneklerini taklit eden yapay veri setleri oluşturmak için kullanılır. 
+
+Daha fazla bilgi almak için https://synthesis.ai/ web sitesini ziyaret edin. 
+
+### DIVEPLANE 
+Diveplane, yapay zeka tabanlı bir veri doğrulama ve denetim aracıdır. Bu araç, müşteri verilerindeki hataları ve yanlışlıkları tespit etmek, veri bütünlüğünü korumak ve yapay zeka uygulamaları için güvenilir veri setleri oluşturmak için kullanılır.
+
+Daha fazla bilgi almak için https://diveplane.com/ web sitesini ziyaret edin.
+
+### HAZY 
+Hazy, yapay zeka tabanlı bir veri anonimleştirme ve gizlilik koruma aracıdır. Bu araç, müşteri verilerinin gizliliğini korumak ve anonimleştirerek veri güvenliğini sağlamak için kullanılır.
+
+GitHub: https://github.com/hazy
+
+Daha fazla bilgi almak için https://hazy.com/ web sitesini ziyaret edin. 
+
+### ZILLIZ 
+Zilliz, yapay zeka tabanlı bir veri analizi ve sorgulama aracıdır. Bu araç, büyük veri kümeleri üzerinde hızlı ve etkili bir şekilde analiz yapmak için kullanılır.
+
+GitHub: https://github.com/zilliztech
+API: https://zilliz.com/doc/about_zilliz_cloud 
+
+Daha fazla bilgi almak için https://zilliz.com/ web sitesini ziyaret edin. 
+
+### GRETEL 
+Gretel AI, yapay zeka ve makine öğrenimi modelleri oluşturma ve eğitme konusunda uzmanlaşmış bir platformdur. Gretel AI, müşterilerin verilerini kullanarak yeni yapay zeka modelleri oluşturmalarına ve bunları kullanarak farklı işlevler gerçekleştirmelerine olanak tanır.
+
+GitHub: https://github.com/gretelai
+API: https://docs.gretel.ai/
+
+Daha fazla bilgi almak için https://gretel.ai/ web sitesini ziyaret edin. 
+
+### TONIC
+Tonic, yapay zeka ve veri özetleme konularında uzmanlaşmış bir platformdur. Tonic, müşterilerin verilerini kullanarak yeni yapay zeka modelleri oluşturmalarına ve bunları kullanarak farklı işlevler gerçekleştirmelerine olanak tanır.
+
+Discord: https://discord.com/invite/rZZwrPYP3M
+
+Daha fazla bilgi almak için https://www.tonic.ai/ web sitesini ziyaret edin. 
+
+### DATAGEN 
+DataGen, yapay zeka ve veri oluşturma konularında uzmanlaşmış bir platformdur. DataGen, müşterilerin farklı türde veriler oluşturmalarına ve bu verileri kullanarak yapay zeka modelleri oluşturmalarına olanak tanır.
+
+GitHub: https://github.com/DatagenTech
+API: https://docs.datagen.tech/en/latest/?_gl=1*71oee6*_ga*MzYxNDA1OTc0LjE2ODAyNTkwNTA.*_ga_LW232HDDYN*MTY4MDI1OTA1MC4xLjAuMTY4MDI1OTA5Ny4xMy4wLjA.
+
+Daha fazla bilgi almak için https://datagen.tech/ web sitesini ziyaret edin. 
+
+### SCALE
+Scale AI, insanlar için işlem yapması zor olan görevleri otomatikleştirmek için yapay zeka ve makine öğrenimi teknolojileri kullanarak çözümler sunan bir platformdur. Scale AI, müşterilerine çeşitli hizmetler sunarak, veri işleme ve veri etiketleme işlemlerinin otomatikleştirilmesini sağlar.
+
+API: https://scale.com/docs/api-compatibility-policy
+
+Daha fazla bilgi almak için https://scale.com/ web sitesini ziyaret edin. 
+
+### SNORKEL AI
+Snorkel AI, makine öğrenimi modellerinin eğitimi için veri işleme işlemlerini otomatikleştirmek için kullanılan bir platformdur. Snorkel AI, müşterilerine veri işleme, etiketleme ve eğitim için bir dizi araç sunar.
+
+Daha fazla bilgi almak için https://snorkel.ai/ web sitesini ziyaret edin.
+
+### GENERAL INTELLIGENT
+Generally Intelligent, öğrenme ve anlama yeteneği olan yapay zeka sistemleri oluşturan bir yapay zeka araştırma ve geliştirme şirketidir. Şirketin amacı, insanlarla doğal bir şekilde etkileşim kurabilen, karmaşık görevleri yerine getirebilen ve öğrenen yapay zeka sistemleri geliştirmektir.
+
+Daha fazla bilgi almak için https://generallyintelligent.com/ web sitesini ziyaret edin. 
+
+### 
 
 
 
