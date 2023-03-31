@@ -85,6 +85,9 @@ Movio AI, yapay zeka aracına dair daha fazla bilgi almak için https://www.movi
 ### SCENARIO 
 Scenario, oyun varlıkları sunan yapay zeka aracıdır. 
 
+![image](https://user-images.githubusercontent.com/123966022/229111704-ee663d9e-5512-4b99-bc57-492c1aa4b3c7.png)
+
+
 Scenario yapay zeka aracına dair daha fazla bilgi almak için https://www.scenario.com/ web sitesini ziyaret edin. 
 
 ### RCT AI 
@@ -101,6 +104,8 @@ Alethea yapay zeka aracına dair daha fazla bilgi almak için https://alethea.ai
 
 ### INWORLD AI
 Inworld, oyun sektöründe kullanılan AI destekli karakterler oluşturmayı amaçlayan yapay zeka aracıdır. 
+
+![image](https://user-images.githubusercontent.com/123966022/229111789-a5f8047c-0d37-41ea-a59b-3ccec980c98b.png)
 
 Discord: https://discord.com/invite/2jGPwV8g3b
 
