@@ -931,6 +931,10 @@ Adept, yapay zeka ve makine öğrenimi teknolojileri kullanarak doğal dil anlam
 Daha fazla bilgi almak için https://www.adept.ai/ web sitesini ziyaret edin. 
 
 
+### GEN APP BUILDER
+Gen App Builder, ekleme, veri alımı ve özelleştirme gibi yaygın görevler için önceden oluşturulmuş iş akışlarıyla arama ve konuşma uygulamalarının adım adım düzenlenmesini sağlayarak geliştiricilerin uygulamalarını kurmasını ve dağıtmasını kolaylaştırır.
+
+Daha fazla bilgi almak için https://cloud.google.com/blog/products/ai-machine-learning/create-generative-apps-in-minutes-with-gen-app-builder?utm_source=linkedin&utm_medium=unpaidsoc&utm_campaign=fy23q1-googlecloud-blog-ai-in_feed-no-brand-global&utm_content=genai-data-cloud-summit&utm_term=- web sitesini ziyaret edin. 
 
 
 
