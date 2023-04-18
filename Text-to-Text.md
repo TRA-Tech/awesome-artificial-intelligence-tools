@@ -967,5 +967,10 @@ Gen App Builder, ekleme, veri alımı ve özelleştirme gibi yaygın görevler i
 
 Daha fazla bilgi almak için https://cloud.google.com/blog/products/ai-machine-learning/create-generative-apps-in-minutes-with-gen-app-builder?utm_source=linkedin&utm_medium=unpaidsoc&utm_campaign=fy23q1-googlecloud-blog-ai-in_feed-no-brand-global&utm_content=genai-data-cloud-summit&utm_term=- web sitesini ziyaret edin. 
 
+### AUTOBOUND 
+Autobound, müşteri ilişkileri geliştirmeye  yönelik yapay zeka aracıdır. Autobound yapay zeka aracı ile satış odaklı e-postalar hazırlayabilir, satışlarınızı arttırabilirsiniz. 
 
+Daha fazla bilgi almak için https://www.autobound.ai/ web sitesini ziyaret edin. 
 
+### COGRAM
+Coogram, proje yönetimi yapay zeka aracıdır. 
