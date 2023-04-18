@@ -961,6 +961,7 @@ Adept, yapay zeka ve makine öğrenimi teknolojileri kullanarak doğal dil anlam
 
 Daha fazla bilgi almak için https://www.adept.ai/ web sitesini ziyaret edin. 
 
+![image](https://user-images.githubusercontent.com/123966022/232764142-b9649639-ba9f-4900-92ab-e42855554e5f.png)
 
 ### GEN APP BUILDER
 Gen App Builder, ekleme, veri alımı ve özelleştirme gibi yaygın görevler için önceden oluşturulmuş iş akışlarıyla arama ve konuşma uygulamalarının adım adım düzenlenmesini sağlayarak geliştiricilerin uygulamalarını kurmasını ve dağıtmasını kolaylaştırır.
@@ -973,4 +974,9 @@ Autobound, müşteri ilişkileri geliştirmeye  yönelik yapay zeka aracıdır. 
 Daha fazla bilgi almak için https://www.autobound.ai/ web sitesini ziyaret edin. 
 
 ### COGRAM
-Coogram, proje yönetimi yapay zeka aracıdır. 
+Coogram, proje yönetimi yapay zeka aracıdır. Cogram yapay zeka aracı sayesinde, toplantılarda kolaylıkla not alabilir, toplantı özeti çıkarabilir ve verilerinizi güvende tutabilir. Ayrıca Cogram yapay zeka aracı; Zoom, Google Meet, Google Calendar, Outlook, Microsoft Teams, Email ile entegre bir şekilde çalışmaktadır. 
+
+Daha fazla bilgi almak için https://www.cogram.com/ web sitesini ziyaret edin. 
+
+### GENEI 
+Genei, metinlerinizi tarayarak size zaman kazandırmak için tasarlanmış bir yapay zeka aracıdır. Metinlerin tarayarak; kategorilere ayırma, özetleme, 
