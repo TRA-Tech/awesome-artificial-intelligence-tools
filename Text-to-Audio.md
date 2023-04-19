@@ -48,6 +48,27 @@ OutplayHQ, bir satış yönetimi platformudur ve yapay zeka teknolojisi kullanar
 
 Daha fazla bilgi almak için https://outplayhq.com/ web sitesini ziyaret edin. 
 
+### RESEMBLE AI
+Resemble AI, gerçekçi insan sesleri oluşturmaya yarayan yapay zeka aracıdır. 
+- 200.000 üzerinde yapay zeka sesi bulunmaktadır. 
+- 30+ dil desteği bulunmaktadır. 
+
+API: https://docs.app.resemble.ai/
+
+Daha fazla bilgi almak için https://www.resemble.ai/ web sitesini ziyaret edin. 
+
+### AIMI
+Aimi, yapay zeka teknolojisinden yararlanarak metinleri, sesleri müziğe çevirmeye yarayan bir araçtır. 
+
+Daha fazla bilgi almak için https://www.aimi.fm/ web sitesini ziyaret edin. 
+
+### KAIZAN AI
+Kaizan AI, yapay zeka teknolojilerinden yararlanarak müşteri hizmeti sunmayı sağlayan araçtır. Müşterilerle yapılan tüm etkileşimleri otomatik olarak analiz eder ve bu analizler sonucunda işletmelerin iş performansını artırmalarına yardımcı olur. 
+
+Daha fazla bilgi almak için https://kaizan.ai/ web sitesini ziyaret edin. 
+
+ 
+
 
 
 
