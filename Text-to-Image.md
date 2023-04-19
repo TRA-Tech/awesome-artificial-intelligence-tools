@@ -286,11 +286,27 @@ API: https://www.chooch.com/api/
 
 Daha fazla bilgi almak için https://www.chooch.com/ web sitesini ziyaret edin. 
 
-
 ### CHARACTER AI
 Character, dijital karakterler oluşturmak için kullanılan bir yapay zeka aracıdır. Bu araç, insan benzeri dijital karakterlerin hızlı ve kolay bir şekilde oluşturulmasına olanak sağlar.
 
 Daha fazla bilgi almak için https://beta.character.ai/ web sitesini ziyaret edin. 
+
+### CLIPDROP 
+ClipDrop, görsellerin ve fotoğrafların arka planlarını kaldırma, değiştirme, ışık ayarı yapma gibi birçok işlemi yapabilen bir yapay zeka aracıdır. iOS, Android, Figma ve Adobe Photoshop işlemci ve uygulamalarıyla entegre bir şekilde çalışmaktadır. 
+
+API: https://clipdrop.co/apis
+GitHub: https://github.com/initml
+
+Daha fazla bilgi almak için https://clipdrop.co/ web sitesini ziyaret edin. 
+
+### BRIA AI
+Bria AI, yapay zeka teknolojilerinden yararlanarak görseller üzerinde değişiklikler yapma imkanını sağlayan araçtır. Nesnleri kaldırma, görsel zenginleştirme, otomatik görsel oluşturma gibi özellikleri mevcuttur. 
+
+API: https://bria.ai/api/
+
+Daha fazla bilgi almak için https://bria.ai/ web sitesini ziyaret edin. 
+
+ 
 
 
 
