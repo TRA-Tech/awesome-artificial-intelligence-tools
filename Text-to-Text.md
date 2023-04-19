@@ -979,4 +979,8 @@ Coogram, proje yönetimi yapay zeka aracıdır. Cogram yapay zeka aracı sayesin
 Daha fazla bilgi almak için https://www.cogram.com/ web sitesini ziyaret edin. 
 
 ### GENEI 
-Genei, metinlerinizi tarayarak size zaman kazandırmak için tasarlanmış bir yapay zeka aracıdır. Metinlerin tarayarak; kategorilere ayırma, özetleme, 
+Genei, metinlerinizi tarayarak size zaman kazandırmak için tasarlanmış bir yapay zeka aracıdır. Metinlerin tarayarak; kategorilere ayırma, özetleme ve çeviri gibi işlemleri kolaylıkla yapmaktadır. 
+
+Daha fazla bilgi almak için https://www.genei.io/?genei_segment_id=5caff18a-07bf-4365-94f2-6d33484db157 web sitesini ziyaret edin. 
+
+
