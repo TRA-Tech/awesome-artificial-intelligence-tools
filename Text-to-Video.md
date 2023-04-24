@@ -116,6 +116,17 @@ Neosapience, yapay zeka teknolojilerini kullanarak komut dosyalarıyla ses ve vi
 
 Daha fazla bilgi almak için https://neosapience.com/ web sitesini ziyaret edin. 
 
+### METAPHYSIC AI
+Metaphysic AI, yapay zeka aracını kullanarak videolar üzerinde geliştirmeler yapmayı sağlayan, videolardaki görselleri/yüzleri değiştirmeye yarayan yapay zeka aracıdır. 
+
+![image](https://user-images.githubusercontent.com/123966022/233989965-bbe0c680-c7a1-44b0-afab-d8f21854237d.png)
+
+Discord: https://discord.com/invite/5vshCNWTuw
+
+Daha fazla bilgi almak için https://metaphysic.ai/ web sitesini ziyaret edin. 
+
+
+
 
 
 
