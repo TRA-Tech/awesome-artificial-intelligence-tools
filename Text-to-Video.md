@@ -111,6 +111,11 @@ Pictory AI, yapay zeka teknolojilerinden yararlanarak metin komutlarıyla videol
 
 Daha fazla bilgi almak için https://pictory.ai/ web sitesini ziyaret edin. 
 
+### NEOSAPIENCE 
+Neosapience, yapay zeka teknolojilerini kullanarak komut dosyalarıyla ses ve videolarda kullanılmak üzere avatarlar tasarlamaya yarayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://neosapience.com/ web sitesini ziyaret edin. 
+
 
 
 
