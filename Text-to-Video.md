@@ -106,6 +106,11 @@ Videoverse yapay zeka aracı ile önemli video kayıt anlarını gerçek zamanl�
 
 Daha fazla bilgi almak için https://vverse.ai/ web sitesini ziyaret edin. 
 
+### PICTORY AI
+Pictory AI, yapay zeka teknolojilerinden yararlanarak metin komutlarıyla videolar oluşturabileceğiniz araçtır. Otomatik alt yazı ekleme gibi birçok işlemi kolaylıkla yapabilirsiniz. 
+
+Daha fazla bilgi almak için https://pictory.ai/ web sitesini ziyaret edin. 
+
 
 
 
