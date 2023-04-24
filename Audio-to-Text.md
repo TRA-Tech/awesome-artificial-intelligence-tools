@@ -129,6 +129,11 @@ Clearword, yapay zeka destekli toplantı asistanı aracıdır. Clearword yapay z
 
 Daha fazla bilgi almak için https://clearword.com/ web sitesini ziyaret edin. 
 
+### SEMBLY AI 
+Sembly AI, yapay zeka destekli toplantı asistanı aracıdır. Sembly toplantıda notlar alıp içgörüler oluşturmayı sağlar. Geçmiş toplantı verilerini bulabilir, toplantı özetlerini kolayca çıkarabilirsiniz. 
+
+Daha fazla bilgi için https://www.sembly.ai/ web sitesini ziyaret edebilirsiniz. 
+
 
 
 
