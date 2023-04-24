@@ -110,6 +110,10 @@ Codex, OpenAI tarafından geliştirilmiş metinleri kodlara çevirmeye yarayan d
 
 Daha fazla bilgi almak için https://openai.com/blog/openai-codex web sitesini ziyaret edin. 
 
+### CODEWHISPERER
+Codewhisperer, Amazon tarafından geliştirilmiş sınırsız kod önerisi ile kodlarınızı geliştirebileceğiniz yapay zeka aracıdır.
+
+Daha fazla bilgi almak için https://aws.amazon.com/tr/codewhisperer/ web sitesini ziyaret edin. 
 
 
 
