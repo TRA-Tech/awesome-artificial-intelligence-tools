@@ -69,6 +69,7 @@ Daha fazla bilgi almak için https://kaizan.ai/ web sitesini ziyaret edin.
 
 ### JUKEBOX
 Jukebox, OpenAI tarafından geliştirilen müzik ve ses deneyimlerini geliştirmeye yarayan yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/233993255-d08042b4-8d58-489b-a555-0fd66cbd85ec.png)
 
 Daha fazla bilgi almak için https://openai.com/research/jukebox web sitesini ziyaret edin. 
 
@@ -76,6 +77,11 @@ Daha fazla bilgi almak için https://openai.com/research/jukebox web sitesini zi
 Music LM, Google tarafından geliştirilmiş metin girdileriyle müzik geliştirmeye yarayan yapay zeka aracıdır. 
 
 Daha fazla bilgi almak için https://research.google/pubs/pub52118/ web sitesini ziyaret edin. 
+
+### TEXT TO SPEECH 
+Text to Speech, Microsoft Azure tarafından geliştirilmiş müzik ve ses deneyimini doğal dil işleme ve makine öğrenimi kullanarak geliştiren yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech web sitesini ziyaret edin. 
 
 
 
