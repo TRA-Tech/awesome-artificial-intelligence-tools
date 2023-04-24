@@ -67,7 +67,17 @@ Kaizan AI, yapay zeka teknolojilerinden yararlanarak müşteri hizmeti sunmayı 
 
 Daha fazla bilgi almak için https://kaizan.ai/ web sitesini ziyaret edin. 
 
- 
+### JUKEBOX
+Jukebox, OpenAI tarafından geliştirilen müzik ve ses deneyimlerini geliştirmeye yarayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://openai.com/research/jukebox web sitesini ziyaret edin. 
+
+### MUSIC LM 
+Music LM, Google tarafından geliştirilmiş metin girdileriyle müzik geliştirmeye yarayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://research.google/pubs/pub52118/ web sitesini ziyaret edin. 
+
+
 
 
 
