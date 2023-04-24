@@ -988,4 +988,9 @@ Xembly yapay zeka kullanarak XML belgelerindeki verileri işleme işlemleri ger�
 
 Daha fazla bilgi almak için https://www.xembly.com/ web sitesini ziyaret edin. 
 
+### CREATEXT
+Creatext, bir metin girdisi veya konusu verildiğinde, anlamlı ve özgün içerik üreten bir yapay zeka aracıdır.
+
+Daha fazla bilgi almak için https://www.creatext.ai/ web sitesini ziyaret edin. 
+
 
