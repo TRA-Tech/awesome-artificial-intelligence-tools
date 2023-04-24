@@ -124,6 +124,11 @@ Fathom AI, yapay zeka teknolojisinden yararlanarak geliştirilmiş ücretsiz top
 
 Daha fazla bilgi almak için https://fathom.video/ web sitesini ziyaret edebilirsiniz. 
 
+### CLEARWORD
+Clearword, yapay zeka destekli toplantı asistanı aracıdır. Clearword yapay zeka aracı ile toplantılarda kolayca özet çıkarabilir, toplantı notlarını dokümente edebilirsiniz. Google Meet ve Zoom ile çalışmaktadır. 
+
+Daha fazla bilgi almak için https://clearword.com/ web sitesini ziyaret edin. 
+
 
 
 
