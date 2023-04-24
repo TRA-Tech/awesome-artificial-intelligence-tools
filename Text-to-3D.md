@@ -116,6 +116,23 @@ Leia, dünyanın ilk AI destekli tabletini tanıttı. Tablet içeriğinde sını
 
 Daha fazla bilgi almak için https://www.leiainc.com/ web sitesini ziyaret edin. 
 
+### POINT E 
+Point E, OpenAI tarafından geliştirilmiş 3D görseller geliştirmeyi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://openai.com/research/point-e web sitesini ziyaret edin. 
+
+### MAGIC3D 
+Magic 3D, Nvidia tarafından geliştirilmiş 3D görseller ve içerikler oluşturmaya yarayan yapay zeka aracıdır. 
+
+Daaha fazla bilgi almak için https://research.nvidia.com/labs/dir/magic3d/ web sitesini ziyaret edin. 
+
+### IMAGINE 3D 
+Imagine 3D, Luma AI tarafından geliştirilmiş 3D prototipler oluşturmayı sağlayan yapay zeka aracıdır.
+
+API: https://captures.lumalabs.ai/luma-api
+
+Daha fazla bilgi almak için https://captures.lumalabs.ai/imagine web sitesini ziyaret edin. 
+
 
 
 
