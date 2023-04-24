@@ -986,11 +986,18 @@ Daha fazla bilgi almak için https://www.genei.io/?genei_segment_id=5caff18a-07b
 ### XEMBLY 
 Xembly yapay zeka kullanarak XML belgelerindeki verileri işleme işlemleri gerçekleştiren bir araçtır. 
 
-Daha fazla bilgi almak için https://www.xembly.com/ web sitesini ziyaret edin. 
+Daha fazla bilgi almak için https://www.xembly.com/ web sitesini ziyaret edin.
+
+![image](https://user-images.githubusercontent.com/123966022/233927527-e001c8d2-2709-443b-88ad-ec8a6f02c0b8.png)
 
 ### CREATEXT
 Creatext, bir metin girdisi veya konusu verildiğinde, anlamlı ve özgün içerik üreten bir yapay zeka aracıdır.
 
 Daha fazla bilgi almak için https://www.creatext.ai/ web sitesini ziyaret edin. 
+
+### SURFER 
+Surfer, bir SEO aracıdır ve içerik optimizasyonu yapmak için yapay zeka kullanır. Bir web sitesinin SEO performansını artırmak için gerekli olan anahtar kelime araştırması, rakip analizi ve içerik optimizasyonu gibi işlevleri yerine getirir.
+
+Daha fazla bilgi almak için https://surferseo.com/ web sitesini ziyaret edin. 
 
 
