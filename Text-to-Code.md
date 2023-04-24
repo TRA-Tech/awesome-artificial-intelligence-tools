@@ -100,6 +100,11 @@ Discord: https://discord.com/invite/warpdotdev
 
 Warp yapay zeka aracına dair daha fazla bilgi almak için https://www.warp.dev/ web sitesini ziyaret edin. 
 
+### THE COM
+The.com, yapay zeka teknolojisinden yararlanarak ve kod gerektirmeden web site oluşturmanızı sağlayan araçtır. Çeşitli şablonlar içerisinden belirlediğiniz şablonla geliştirmeler yaparak web sitesi oluşturabilirsiniz. 
+
+Daha fazla bilgi için https://www.the.com/ web sitesini ziyaret edebilirsiniz. 
+
 
 
 
