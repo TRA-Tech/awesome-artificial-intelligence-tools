@@ -109,10 +109,23 @@ Daha fazla bilgi almak için https://www.splashmusic.com/ web sitesini ziyaret e
 
 ### VIDYO AI
 Vidyo AI, uzun videolardan kısa videolar elde etmeyi sağlayan yapay zeka aracıdır. Otomatik alt yazı değiştirme, videoyu yeniden boyutlandırma, video kırpma, otomatik video bölümleri ekleme gibi birçok işlemi kolaylıkla yapabilirsiniz. 
+![image](https://user-images.githubusercontent.com/123966022/233975713-117e3d4a-5fc1-4722-bbc2-94a942a9cc58.png)
 
 Discord: https://discord.com/invite/M8rJ4c2zvZ
 
 Daha fazla bilgi almak için https://vidyo.ai/ web sitesini ziyaret edin. 
+
+### MAGNIFI AI
+Magnifi AI, yapay zeka teknolojilerini kullanarak görüntü tanıma ve sınıflandırma işlemleri düzenlemeyi sağlayan bir araçtır. 
+
+Daha fazla bilgi almak için https://magnifi.ai/ web sitesini ziyaret edin. 
+
+### HUME
+Hume, yapay zeka teknolojilerinden yararlanarak doğal dil işleme ve veri madenciliğinden yararlanarak duygusal ifadeyi anlamaya yarayan yapay zeka aracıdır. 
+
+API: https://help.hume.ai/basics/about-hume-ai
+
+Daha fazla bilgi almak için https://hume.ai/ web sitesini ziyaret edin. 
 
 
 
