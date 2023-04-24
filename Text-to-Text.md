@@ -983,4 +983,9 @@ Genei, metinlerinizi tarayarak size zaman kazandırmak için tasarlanmış bir y
 
 Daha fazla bilgi almak için https://www.genei.io/?genei_segment_id=5caff18a-07bf-4365-94f2-6d33484db157 web sitesini ziyaret edin. 
 
+### XEMBLY 
+Xembly yapay zeka kullanarak XML belgelerindeki verileri işleme işlemleri gerçekleştiren bir araçtır. 
+
+Daha fazla bilgi almak için https://www.xembly.com/ web sitesini ziyaret edin. 
+
 
