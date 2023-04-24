@@ -107,3 +107,12 @@ Discord: https://discord.com/invite/splashgame
 
 Daha fazla bilgi almak için https://www.splashmusic.com/ web sitesini ziyaret edin. 
 
+### VIDYO AI
+Vidyo AI, uzun videolardan kısa videolar elde etmeyi sağlayan yapay zeka aracıdır. Otomatik alt yazı değiştirme, videoyu yeniden boyutlandırma, video kırpma, otomatik video bölümleri ekleme gibi birçok işlemi kolaylıkla yapabilirsiniz. 
+
+Discord: https://discord.com/invite/M8rJ4c2zvZ
+
+Daha fazla bilgi almak için https://vidyo.ai/ web sitesini ziyaret edin. 
+
+
+
