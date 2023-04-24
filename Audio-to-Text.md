@@ -119,8 +119,10 @@ Grain AI, yapay zeka destekli toplantı kaydı elde etmenizi sağlar. Toplantı 
 
 Daha fazla bilgi almak için https://grain.com/ web sitesini ziyaret edebilirsiniz. 
 
+### FATHOM AI
+Fathom AI, yapay zeka teknolojisinden yararlanarak geliştirilmiş ücretsiz toplantı asistanıdır. Fathom AI ile toplantıları kolayca kaydedebilir, toplantı notlarını doküman haline getirip yazıya çevirir ve toplantı notlarını özetler. 7 dil desteği mevcuttur. 
 
-
+Daha fazla bilgi almak için https://fathom.video/ web sitesini ziyaret edebilirsiniz. 
 
 
 
