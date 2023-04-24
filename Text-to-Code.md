@@ -105,6 +105,11 @@ The.com, yapay zeka teknolojisinden yararlanarak ve kod gerektirmeden web site o
 
 Daha fazla bilgi için https://www.the.com/ web sitesini ziyaret edebilirsiniz. 
 
+### CODEX
+Codex, OpenAI tarafından geliştirilmiş metinleri kodlara çevirmeye yarayan doğal dil algılama destekli yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://openai.com/blog/openai-codex web sitesini ziyaret edin. 
+
 
 
 
