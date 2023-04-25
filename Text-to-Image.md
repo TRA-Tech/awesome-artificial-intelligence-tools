@@ -326,6 +326,15 @@ Autodraw, yapay zeka teknolojilerinden yararlanarak çizdiğiniz görseller kar�
 
 Daha fazla bilgi almak için https://www.autodraw.com/ web sitesini ziyaret edin. 
 
+### CLIPDROP
+Clipdrop, metin komutlarıyla görseller oluşturmanızı sağlayan yapay zeka aracıdır. Görsel arka plan kaldırma, görsel içerisinde istenmeyen nesneleri kaldırma, görüntü ışık ayarlamalarını yapma gibi bir çok özelliği içerisinde barındırır. 
+
+API: https://clipdrop.co/apis
+GitHub: https://github.com/initml
+
+Daha fazla bilgi almak için https://clipdrop.co/ web sitesini ziyaret edin. 
+
+
 
 
 
