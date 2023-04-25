@@ -1181,6 +1181,7 @@ Daha fazla bilgi almak için https://gamma.app/ web sitesini ziyaret edin.
 
 ### RATIONALE 
 Rationale, daha iyi kararlar almanızı sağlayan yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/234296715-2562e114-db3e-43e7-9a8e-77f90483f6b8.png)
 
 Daha fazla bilgi almak için https://rationale.jina.ai/ web sitesini ziyaret edin. 
 
@@ -1188,6 +1189,11 @@ Daha fazla bilgi almak için https://rationale.jina.ai/ web sitesini ziyaret edi
 Compose AI, kaliteli içerik üretmenize yardımcı olacak yapay zeka aracıdır. 
 
 Daha fazla bilgi almak için https://www.compose.ai/ web sitesini ziyaret edin. 
+
+### TRIPNOTES 
+Tripnotes, üretken AI kullanan en iyi seyahat rehberi uygulamasıdır. Bu AI aracı, gezginlerin gidecekleri doğru yerleri bulmalarına yardımcı olmak için kişiselleştirilmiş güzergahlar oluşturuyor.  
+
+Daha fazla bilgi almak için https://tripnotes.ai/app web sitesini ziyaret edin. 
 
 
 
