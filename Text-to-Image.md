@@ -335,6 +335,15 @@ Daha fazla bilgi almak için https://www.kittl.com/ web sitesini ziyaret edin.
 
 ![image](https://user-images.githubusercontent.com/123966022/234299277-45dc9629-d8b2-4268-8511-7541f94e6211.png)
 
+### MICROSOFT DESIGNER 
+Microsoft Designer, metin komutlarıyla görseller oluşturmanızı ve görsellerinizi geliştirmenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://designer.microsoft.com/ web sitesini ziyaret edin. 
+
+### LOOKA 
+Looka, logo tasarlamak ve sevdiğiniz bir marka oluşturmak için geliştirilmiş yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://looka.com/ web sitesini ziyaret edin. 
 
 
 
