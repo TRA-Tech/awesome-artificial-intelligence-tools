@@ -1019,6 +1019,7 @@ Daha fazla bilgi almak için https://10web.io/ai-website-builder/ web sitesini z
 
 ### PAPERPAL 
 Paperpal, akademik makalele yazanlar için yapay zeka teknolojileri kullanılan bir araçtır. 
+![image](https://user-images.githubusercontent.com/123966022/234272084-f4a9d46d-196e-4b92-9659-294012020e11.png)
 
 Daha fazla bilgi almak için https://paperpal.com/ web sitesini ziyaret edin. 
 
@@ -1041,6 +1042,7 @@ Daha fazla bilgi almak için https://www.trinka.ai/ web sitesini ziyaret edin.
 
 ### AISEO
 Aiseo, yapay zeka teknolojilerinden yararlarak girilen metin komutları doğrultusunda SEO bakımından optimize edilmiş metinler elde etmenize yarayan yapay zeka araçtır. 
+![image](https://user-images.githubusercontent.com/123966022/234272188-321326cb-7c3f-44a6-a05e-7c9517edfd35.png)
 
 Daha fazla bilgi almak için https://aiseo.ai/ web sitesini ziyaret edin. 
 
@@ -1055,4 +1057,63 @@ Rytr, yapay zeka teknolojilerinden yararlanarak blog yazıları, e-posta, sosyal
 API:https://rytr.me/developers/api
 
 Daha fazla bilgi almak için https://rytr.me/ web sitesini ziyaret edin. 
+
+### CONTENTEDGE
+Contentedge, SEO odaklı blog yazıları yazmak ve benzersiz metin içerikler üretmeyi sağlayan yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/234272237-c1ca9cc1-99a3-4c9f-8800-f18e8cce5dd8.png)
+
+Daha fazla bilgi almak için https://www.contentedge.com/ web sitesini ziyaret edin. 
+
+### COPYSMITH 
+Copysmith, yapay zeka teknolojilerinden yararlanarak E-Ticaret ürün açıklamaları oluşturmayı sağlayan yapay zeka aracıdır. Copysmith ile; ürün kataloglarını kolayca içeri aktarabilir, içerikleri düzenleyebilirsiniz. 
+
+API: https://copysmith.ai/api/
+
+Daha fazla bilgi almak için https://copysmith.ai/ web sitesini ziyaret edin. 
+
+### WARMER AI 
+Warmer AI, dakikalar içerisinde kişisel e-posta oluşturma yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://warmer.ai/ web sitesini ziyaret edin. 
+
+### TWAIN 
+Twain, çevrimiçi e-posta yazma ve düzenleme yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.twain.ai/ web sitesini ziyaret edin. 
+
+### OCTANE AI
+Octane AI, e-ticaret alanında yapay zeka teknolojilerinden yararlanarak müşterilerinizi tanımanızı sağlayan, onlara dair içgörü elde etmenizi sağlayan bir yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/234272328-15929770-6a69-4f3d-89ff-694014296b6c.png)
+
+Daha fazla bilgi almak için https://www.octaneai.com/ web sitesini ziyaret edin. 
+
+### YATTERPLUS 
+Yatterplus, anında yanıt vermek, dil çevirisi yapmak ve matematiksel hesaplar gerçekleştirmek üzere geliştirilmiş Whatsapp ile entegre çalışan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://yatterplus.in/ web sitesini ziyaret edin. 
+
+### TYPEWISE 
+Typewise, CRM ve satış pazarlamacılar için geliştirilmiş e-posta dil bilgisi ve yazım kurallarını düzenlemeye yarayan yapay zeka aracıdır. 
+
+API: https://www.typewise.app/api
+
+Daha fazla bilgi almak için https://www.typewise.app/ web sitesini ziyaret edin. 
+
+### ADCREATIVE
+Adcreative, reklam ve sosyal medya içerikleri oluşturmak için geliştirilmiş yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://tr.adcreative.ai/ web sitesini ziyaret edin. 
+
+### BERTHA AI 
+Bertha AI, web sitesi kopyası oluşturup görseller ve çizimler tasarlayıp, dönüştürme ürün açıklamaları oluşturabileceğiniz yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/234272406-07326bb7-21eb-45a2-b0f1-341e7ce67dc7.png)
+
+Daha fazla bilgi almak için https://bertha.ai/ web sitesini ziyaret edin.
+
+### ARTICLE FORGE 
+Article Forge, yapay zeka teknolojilerinden ve derin öğrenme yönteminden yararlanarak optimize edilmiş SEO blog yazıları ve yüksek kaliteli içerikler üretmenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.articleforge.com/ web sitesini ziyaret edin. 
+ 
+
 
