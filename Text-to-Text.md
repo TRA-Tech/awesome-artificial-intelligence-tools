@@ -1115,5 +1115,34 @@ Article Forge, yapay zeka teknolojilerinden ve derin öğrenme yönteminden yara
 
 Daha fazla bilgi almak için https://www.articleforge.com/ web sitesini ziyaret edin. 
  
+### TASKADE 
+Taskade, CRM ve iş süreçlerinizde hatırlatıcı ve not alma gibi işlerinizi kolaylaştırmaya yarayan yapay zeka aracıdır. Sohbet robotu, yazma asistanı ve iş süreçlerinin akışını düzenlemesi gibi konularda destek vermektedir. 
+
+GitHub: https://github.com/taskade
+
+Daha fazla bilgi almak için https://www.taskade.com/ web sitesini ziyaret edin. 
+
+### NOTION AI
+Notion AI, iş süreçlerinizde, toplantı ve araştırma makalelerinde özet çıkarma, düzenleme ve ayarlama işlemlerini hızlandırmak amacıyla geliştirilmiş yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/234288224-22465074-3c28-4fa2-acea-c2236c2e0ef9.png)
+
+API: https://developers.notion.com/
+
+Daha fazla bilgi almak için https://www.notion.so/product/ai web sitesini ziyaret edin. 
+
+### BARDEEN AI
+Bardeen AI, iş süreç düzenleme, uygulamalarınızda ya da geliştirmelerinizde tetikleyici oluşturmanıza, veri depolama ve kodsuz otomasyonlar oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.bardeen.ai/ web sitenizi ziyaret edin. 
+
+### VONDY 
+Vondy, kişisel iş süreçlerinizin yönetilmesini desteklemek amacıyla geliştirilmiş yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.vondy.com/ web sitesini ziyaret edin. 
+
+
+
+
+
 
 
