@@ -115,6 +115,10 @@ Codewhisperer, Amazon tarafından geliştirilmiş sınırsız kod önerisi ile k
 
 Daha fazla bilgi almak için https://aws.amazon.com/tr/codewhisperer/ web sitesini ziyaret edin. 
 
+### DEEPCODE 
+DeepCode, yapay zeka tabanlı bir kod analiz aracıdır ve yazılım geliştiricilerinin kod kalitesini ve güvenliğini artırmalarına yardımcı olur.
+
+Daha fazla bilgi almak için https://www.deepcode.ai/ web sitesini ziyaret edin. 
 
 
 
