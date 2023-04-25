@@ -1174,6 +1174,20 @@ Babaselo, yemek tarifleri oluşturmanızı sağlayan yapay zeka aracıdır.
 
 Daha fazla bilgi almak için https://www.babaselo.com/feed web sitesini ziyaret edin. 
 
+### GAMMA AI 
+Gamma AI, yapay zekanın gücüyle bir dakikadan kısa sürede özelleştirebileceğiniz sunumlar, belgeler veya web sayfası oluşturmayı sağlayan araçtır. 
+
+Daha fazla bilgi almak için https://gamma.app/ web sitesini ziyaret edin. 
+
+### RATIONALE 
+Rationale, daha iyi kararlar almanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://rationale.jina.ai/ web sitesini ziyaret edin. 
+
+### COMPOSE AI 
+Compose AI, kaliteli içerik üretmenize yardımcı olacak yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.compose.ai/ web sitesini ziyaret edin. 
 
 
 
