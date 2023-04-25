@@ -1195,6 +1195,29 @@ Tripnotes, üretken AI kullanan en iyi seyahat rehberi uygulamasıdır. Bu AI ar
 
 Daha fazla bilgi almak için https://tripnotes.ai/app web sitesini ziyaret edin. 
 
+### TIME TRACKING MONITUP 
+Time Tracking Monitup, zamanınızı yönetmek ve iş süreçlerinizde hızlı kararlar alabilmeniz için geliştirilmiş yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://timetracking.monitup.com/ web sitesini ziyaret edin. 
+
+### EMPLER AI
+Empler AI, ekip çalışmalarınızda iş süreçlerinizi yönetebilmenizde yardımcı olmak amacıyla geliştirilmiş yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.empler.ai/ web sitesini ziyaret edin. 
+
+### KICKRESUME 
+Kickresume, özgeçmiş oluşturmanızı sağlayan yapay zeka aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/234305198-c5a84fd4-2fd0-4226-b2d4-04c628ae25b1.png)
+
+Daha fazla bilgi almak için https://www.kickresume.com/en/ web sitesini ziyaret edin. 
+
+### ROSE AI 
+Rose AI, verileri bulmak, temizlemek, görselleştirmek ve dönüştürmek için geliştirilmiş yapay zeka aracıdır. 
+
+API: https://docs.rose.ai/
+Discord: https://discord.com/invite/GAXTCfkrcM
+
+Daha fazla bilgi almak için https://rose.ai/ web sitesini ziyaret edin. 
 
 
 
