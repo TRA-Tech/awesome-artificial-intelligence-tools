@@ -306,7 +306,28 @@ API: https://bria.ai/api/
 
 Daha fazla bilgi almak için https://bria.ai/ web sitesini ziyaret edin. 
 
- 
+### FLAIR AI 
+Flair AI, görsellerinizi yapay zeka teknolojisinden yararlanarak yeniden düzenlemek ve geliştirmek için kullanabileceğiniz bir araçtır. 
+
+Flair AI'da görsellerinizi geliştirmek için; 
+- .png görselinizi canvasa aktarın. 
+- Ürününüzü çevreleyen alanları geliştirmek istediğiniz şeklini yazın.
+- Düzenleyin ve dışarı aktarın.
+
+Daha fazla bilgi almak için https://flair.ai/ web sitesini ziyaret edin. 
+
+### BOOTH AI
+Booth AI, kaliteli ürün fotoğrafları oluşturabileceğiniz yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.booth.ai/ web sitesini ziyaret edin. 
+
+### AUTODRAW 
+Autodraw, yapay zeka teknolojilerinden yararlanarak çizdiğiniz görseller karşılık denk gelebilecek görsel seçenekleri sunarak tasarım yapmanızı destekleyen bir araçtır. 
+
+Daha fazla bilgi almak için https://www.autodraw.com/ web sitesini ziyaret edin. 
+
+
+
 
 
 
