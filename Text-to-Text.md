@@ -1140,6 +1140,43 @@ Vondy, kişisel iş süreçlerinizin yönetilmesini desteklemek amacıyla geliş
 
 Daha fazla bilgi almak için https://www.vondy.com/ web sitesini ziyaret edin. 
 
+### DOCLIME 
+Doclime, işinizi kolaylaştırmaya odaklanan yapay zeka destekli en iyi PDF aracıdır. PDF'nizi içe aktarın ve belgelerinizden anında yanıtlar alın. 
+
+Daha fazla bilgi almak için https://doclime.com/ web sitesini ziyaret edin. 
+
+### ADCOPY 
+Adcopy, reklamverenler için daha fazla dönüşüm sağlamak için oluşturulmuş ilk ai aracı.
+
+- Kampanyalarınız için sınırsız çıktı alın
+- Anında çalışan reklamları bulun 
+- Yeni bir varyasyon için bir reklamı saniyeler içinde kopyalayıp yapıştırın
+
+Daha fazla bilgi almak için https://adcopy.ai/ web sitesini ziyaret edin. 
+
+### TOP APPS AI 
+Top Apps AI, 100'den fazla yapay zeka uygulamasını barındıran Top Apps AI, üretkenliğinizi yükseltmek en etkili AI araçları dizinlerinden birisi.
+
+Daha fazla bilgi almak için https://topapps.ai/ web sitesini ziyaret edin. 
+
+### AGENT GPT
+AgentGPT, sohbet robotları oluşturmanıza ve işleri otomatikleştirmenize yardımcı olacak yeni bir üretken yapay zekada aracıdır. 
+![image](https://user-images.githubusercontent.com/123966022/234293130-eba56c28-47c6-4223-b7b0-86a38c8b0995.png)
+
+- Sizin için stratejiler planlasın 
+- Bu AI aracıyla web'de gezinin 
+- Verdiğiniz görevleri tamamlasın  
+
+Daha fazla bilgi almak için https://agentgpt.reworkd.ai/ web sitesini ziyaret edin. 
+
+### BABASELO 
+Babaselo, yemek tarifleri oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.babaselo.com/feed web sitesini ziyaret edin. 
+
+
+
+
 
 
 
