@@ -1039,4 +1039,20 @@ API: https://www.trinka.ai/enterprise/grammar-checker-api
 
 Daha fazla bilgi almak için https://www.trinka.ai/ web sitesini ziyaret edin. 
 
+### AISEO
+Aiseo, yapay zeka teknolojilerinden yararlarak girilen metin komutları doğrultusunda SEO bakımından optimize edilmiş metinler elde etmenize yarayan yapay zeka araçtır. 
+
+Daha fazla bilgi almak için https://aiseo.ai/ web sitesini ziyaret edin. 
+
+### QUILLBOT 
+QuillBot, yapay zeka destekli bir paragraf yeniden yazma aracıdır. Bu araç, özgün metninizi alır ve onu farklı bir şekilde yeniden yazarak, özgün metnin anlamını koruyarak daha iyi bir hale getirir. Resmi, samimi, uzun veya kısa gibi birçok seçenekle yazınız üzerinde düzenlemeler yapabilirsiniz. 
+
+Daha fazla bilgi almak için https://quillbot.com/ web sitesini ziyaret edin. 
+
+### RYTR
+Rytr, yapay zeka teknolojilerinden yararlanarak blog yazıları, e-posta, sosyal medya içerikleri oluşmanızı sağlayan yapay zeka aracıdır. 
+
+API:https://rytr.me/developers/api
+
+Daha fazla bilgi almak için https://rytr.me/ web sitesini ziyaret edin. 
 
