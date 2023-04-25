@@ -328,7 +328,12 @@ Autodraw, yapay zeka teknolojilerinden yararlanarak çizdiğiniz görseller kar�
 
 Daha fazla bilgi almak için https://www.autodraw.com/ web sitesini ziyaret edin. 
 
+### KITTL 
+Kittl AI, basit metin istemlerini kullanarak vektör logolar, çarpıcı görüntüler ve küçük resimler oluşturmanızı sağlayan yapay zeka aracıdır. 
 
+Daha fazla bilgi almak için https://www.kittl.com/ web sitesini ziyaret edin. 
+
+![image](https://user-images.githubusercontent.com/123966022/234299277-45dc9629-d8b2-4268-8511-7541f94e6211.png)
 
 
 
