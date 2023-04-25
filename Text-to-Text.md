@@ -1005,4 +1005,38 @@ Sybill.ai, doğal dil işleme teknolojisi ve yapay zeka algoritmaları kullanara
 
 Daha fazla bilgi almak için https://www.sybill.ai/ web sitesini ziyaret edin. 
 
- 
+### AKKIO 
+Akkio, yapay zeka teknolojilerinden yararlanarak veri analizi yapmayı sağlayan yapay zeka aracıdır. 
+
+API: https://docs.akkio.com/akkio-docs/
+
+Daha fazla bilgi almak için https://www.akkio.com/ web sitesini ziyaret edin. 
+
+### 10 WEB
+10WEB, yapay zeka teknolojisinden yararlanarak kolay ve hızlı bir şekilde web sitesi oluşturmayı sağlar. 
+
+Daha fazla bilgi almak için https://10web.io/ai-website-builder/ web sitesini ziyaret edin. 
+
+### PAPERPAL 
+Paperpal, akademik makalele yazanlar için yapay zeka teknolojileri kullanılan bir araçtır. 
+
+Daha fazla bilgi almak için https://paperpal.com/ web sitesini ziyaret edin. 
+
+### CONSENSUS 
+Consensus, yapay zeka teknolojisi kullanarak bir araştırma veya anket yürütmek için kullanabileceğiniz bir hizmettir. 
+
+Daha fazla bilgi almak için https://consensus.app/ web sitesini ziyaret edin. 
+
+### SCHOLARCY
+Scholarcy, yapay zeka teknolojilerinden yararlanarak uzun araştırma metinlerini veya makalelerini kısa özet makalelere çevirmeyi sağlayan araçtır. 
+
+Daha fazla bilgi almak için https://www.scholarcy.com/ web sitesini ziyaret edin. 
+
+### TRINKA
+Trinka, yapay zeka teknolojileri kullanılarak araştırma metinlerinin, makalelerin yazım bilgisi ve dilbilgisi bakımından düzeltilmesini sağlayan araçtır. 
+
+API: https://www.trinka.ai/enterprise/grammar-checker-api
+
+Daha fazla bilgi almak için https://www.trinka.ai/ web sitesini ziyaret edin. 
+
+
