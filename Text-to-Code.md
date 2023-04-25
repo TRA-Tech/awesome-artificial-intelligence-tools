@@ -120,6 +120,14 @@ DeepCode, yapay zeka tabanlı bir kod analiz aracıdır ve yazılım geliştiric
 
 Daha fazla bilgi almak için https://www.deepcode.ai/ web sitesini ziyaret edin. 
 
+### ADREALINE
+Adrealine, kod tabanınızla konuşmanıza izin verir. Statik analiz, vektör arama ve büyük dil modelleri tarafından desteklenmektedir.  
+
+Discord: https://discord.com/invite/NF5VxfVa2U
+GitHub: https://github.com/shobrook/adrenaline/
+
+Daha fazla bilgi almak için https://useadrenaline.com/ web sitesini ziyaret edin. 
+
 
 
 
