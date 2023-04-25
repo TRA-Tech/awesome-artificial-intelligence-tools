@@ -288,6 +288,7 @@ Daha fazla bilgi almak için https://www.chooch.com/ web sitesini ziyaret edin.
 
 ### CHARACTER AI
 Character, dijital karakterler oluşturmak için kullanılan bir yapay zeka aracıdır. Bu araç, insan benzeri dijital karakterlerin hızlı ve kolay bir şekilde oluşturulmasına olanak sağlar.
+![image](https://user-images.githubusercontent.com/123966022/234282294-e13292d6-8732-4f37-b6c4-d33db4d759ff.png)
 
 Daha fazla bilgi almak için https://beta.character.ai/ web sitesini ziyaret edin. 
 
@@ -317,7 +318,8 @@ Flair AI'da görsellerinizi geliştirmek için;
 Daha fazla bilgi almak için https://flair.ai/ web sitesini ziyaret edin. 
 
 ### BOOTH AI
-Booth AI, kaliteli ürün fotoğrafları oluşturabileceğiniz yapay zeka aracıdır. 
+Booth AI, kaliteli ürün fotoğrafları oluşturabileceğiniz yapay zeka aracıdır. Üreteceğiniz görsel fotoğraflarındaki itemleri de değiştirip güncelleyebilirsiniz. 
+![image](https://user-images.githubusercontent.com/123966022/234282443-096aa491-5284-4314-8a75-ce1eab6fd5de.png)
 
 Daha fazla bilgi almak için https://www.booth.ai/ web sitesini ziyaret edin. 
 
@@ -326,13 +328,7 @@ Autodraw, yapay zeka teknolojilerinden yararlanarak çizdiğiniz görseller kar�
 
 Daha fazla bilgi almak için https://www.autodraw.com/ web sitesini ziyaret edin. 
 
-### CLIPDROP
-Clipdrop, metin komutlarıyla görseller oluşturmanızı sağlayan yapay zeka aracıdır. Görsel arka plan kaldırma, görsel içerisinde istenmeyen nesneleri kaldırma, görüntü ışık ayarlamalarını yapma gibi bir çok özelliği içerisinde barındırır. 
 
-API: https://clipdrop.co/apis
-GitHub: https://github.com/initml
-
-Daha fazla bilgi almak için https://clipdrop.co/ web sitesini ziyaret edin. 
 
 
 
