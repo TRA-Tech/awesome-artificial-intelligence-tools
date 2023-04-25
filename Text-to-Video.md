@@ -125,6 +125,11 @@ Discord: https://discord.com/invite/5vshCNWTuw
 
 Daha fazla bilgi almak için https://metaphysic.ai/ web sitesini ziyaret edin. 
 
+### STEVE AI 
+Steve AI, metin komut dosyalarıyla video oluşturmanızı ve videolarınızı ses eklemeleriyle geliştirebilmenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.steve.ai/ web sitesini ziyaret edin. 
+
 
 
 
