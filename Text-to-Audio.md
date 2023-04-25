@@ -83,6 +83,25 @@ Text to Speech, Microsoft Azure tarafından geliştirilmiş müzik ve ses deneyi
 
 Daha fazla bilgi almak için https://azure.microsoft.com/en-us/products/cognitive-services/text-to-speech web sitesini ziyaret edin. 
 
+### BOOMY
+Boomy ile yapay zeka teknolojilerinden yararlanarak şarkılar üretebilir, kullanıma açabilirsiniz. 
+![image](https://user-images.githubusercontent.com/123966022/234284709-1f15389e-e854-4eee-a721-4b93d37134fb.png)
+
+Discord: https://discord.com/invite/DNHQXeJegp
+
+Daha fazla bilgi almak için https://boomy.com/ web sitesini ziyaret edin. 
+
+### AMPER
+Amper; film, podcast ve videolar için özel müzikler üretip geliştirebileceğiniz yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.audoir.com/ampermusic web sitesini ziyaret edin. 
+
+### BRAIN FM 
+Brain Fm, odak ve konsantrasyon arttırıcı müzikler geliştirmenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.brain.fm/ web sitesini ziyaret edin. 
+ 
+
 
 
 
