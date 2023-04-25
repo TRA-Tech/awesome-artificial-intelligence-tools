@@ -127,5 +127,9 @@ API: https://help.hume.ai/basics/about-hume-ai
 
 Daha fazla bilgi almak için https://hume.ai/ web sitesini ziyaret edin. 
 
+### POISED AI 
+Poised AI, topluluk önünde konuşma becerilerinizi geliştirmenize yardımcı olan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.poised.com/ web sitesini ziyaret edin. 
 
 
