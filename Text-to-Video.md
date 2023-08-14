@@ -130,6 +130,11 @@ Steve AI, metin komut dosyalarıyla video oluşturmanızı ve videolarınızı s
 
 Daha fazla bilgi almak için https://www.steve.ai/ web sitesini ziyaret edin. 
 
+### CAPTIONS AI 
+Captions AI, metinleri analiz ederek video ya da sesli dosyalara uygun altyazı ve açıklamalar eklenmesini sağlayan yapay zeka aracıdır. Metinleri sınıflama ve özetleme gibi işlemleri gerçekleştirebilirsiniz. 
+
+Daha fazla bilgi almak için https://www.captions.ai/ web sitesini ziyaret edin. 
+
 
 
 
