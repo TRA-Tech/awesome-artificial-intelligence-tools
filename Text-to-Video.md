@@ -140,7 +140,7 @@ Unscreen, videolar üzerinde çalışmalar yapmaya, video arka planını kolayca
 
 API: https://www.unscreen.com/api
 
-Daha fazla bilgi almak için https://www.unscreen.com/ web sitesini ziyaret edin. 
+Daha fazla bilgi almak için https://vimeo.com/ web sitesini ziyaret edin. 
 
 
 
