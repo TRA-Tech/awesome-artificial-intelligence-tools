@@ -147,4 +147,11 @@ Pictory, metin komut dosyalarıyla videolarınızı düzenlemenizi, kısa videol
 
 Daha fazla bilgi almak için https://pictory.ai/ web sitesini ziyaret edin. 
 
+### DEEP BRAIN AI
+Deep Brain, metin komutlarıyla 5 dakika içerisinde gerçekçi avatarlarla videolar üretmenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.deepbrain.io/ web sitesini ziyaret edin. 
+
+
+
 
