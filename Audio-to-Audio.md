@@ -132,4 +132,7 @@ Poised AI, topluluk önünde konuşma becerilerinizi geliştirmenize yardımcı 
 
 Daha fazla bilgi almak için https://www.poised.com/ web sitesini ziyaret edin. 
 
+### VIMEO 
+Magisto, ses ve video çalışmalarınızı düzenlemenizi sağlayan yapay zeka aracıdır.
 
+Daha fazla bilgi almak için https://www.poised.com/ web sitesini ziyaret edin. 
