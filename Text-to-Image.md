@@ -345,7 +345,10 @@ Looka, logo tasarlamak ve sevdiğiniz bir marka oluşturmak için geliştirilmi�
 
 Daha fazla bilgi almak için https://looka.com/ web sitesini ziyaret edin. 
 
+### CAPCUT 
+Capcut yapay zeka aracılığıyla görseller üzerinde kalite arttırabilir, fotoğraf renkleri üzerinden düzenleme yapabilir, düzeltme aracıyla görseller üzerindeki hataları düzenleyebilirsiniz. Capcut AI, ChatGPT eklentisiyle üretken yapay zeka teknolojisinden yararlanır. 
 
+Daha fazla bilgi almak için https://www.capcut.com/tools/ai-portrait-generator web sitesini ziyaret edin. 
 
 
 
