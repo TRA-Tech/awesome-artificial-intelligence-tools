@@ -142,5 +142,9 @@ API: https://www.unscreen.com/api
 
 Daha fazla bilgi almak için https://vimeo.com/ web sitesini ziyaret edin. 
 
+### PICTORY 
+Pictory, metin komut dosyalarıyla videolarınızı düzenlemenizi, kısa videolar haline getirmenizi ve altyazı eklemenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://pictory.ai/ web sitesini ziyaret edin. 
 
 
