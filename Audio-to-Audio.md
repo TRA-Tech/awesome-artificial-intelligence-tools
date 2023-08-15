@@ -136,3 +136,9 @@ Daha fazla bilgi almak için https://www.poised.com/ web sitesini ziyaret edin.
 Magisto, ses ve video çalışmalarınızı düzenlemenizi sağlayan yapay zeka aracıdır.
 
 Daha fazla bilgi almak için https://www.poised.com/ web sitesini ziyaret edin. 
+
+### ANIMOTO 
+Animoto aracılığıyla ses ya da video dosyalarınızı sürükle bırak tekniğiyle görsel efektler kullanarak renklendirebilirsiniz. Sektör ve video türlerine göre istediğiniz şekilde videolarınızı düzenlemeye yarayan yapay zeka destekli bir araçtır. 
+
+Daha fazla bilgi almak için https://animoto.com/ web sitesini ziyaret edin. 
+
