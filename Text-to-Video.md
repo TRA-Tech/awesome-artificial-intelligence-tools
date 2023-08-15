@@ -135,8 +135,12 @@ Captions AI, metinleri analiz ederek video ya da sesli dosyalara uygun altyazı 
 
 Daha fazla bilgi almak için https://www.captions.ai/ web sitesini ziyaret edin. 
 
+### UNSCREEN 
+Unscreen, videolar üzerinde çalışmalar yapmaya, video arka planını kolayca temizlemeye yarayan bir yapay zeka aracıdır. 
 
+API: https://www.unscreen.com/api
 
+Daha fazla bilgi almak için https://www.unscreen.com/ web sitesini ziyaret edin. 
 
 
 
