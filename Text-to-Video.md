@@ -152,6 +152,27 @@ Deep Brain, metin komutlarıyla 5 dakika içerisinde gerçekçi avatarlarla vide
 
 Daha fazla bilgi almak için https://www.deepbrain.io/ web sitesini ziyaret edin. 
 
+### HEY GEN 
+Hey Gen yapay zeka aracıyla avatarınızı belirleyip metin komutlarınızı girerek video oluşturabilirsiniz. 
 
+API: https://docs.heygen.com/docs
+Discord: https://discord.com/invite/KqDWp35Uvb
 
+Daha fazla bilgi almak için https://www.heygen.com/ web sitesini ziyaret edin. 
+
+### FILMORA 
+Filmora yapay zeka aracı ile videolarınızı düzenleyebilir, hız akışını düzenleyebilir, videodaki gürültüleri engelleyebilirsiniz. 
+
+Daha fazla bilgi almak için https://filmora.wondershare.net/ web sitesini ziyaret edin. 
+
+### FLEX CLIP
+Flex Clıp, şablon ve metin komutlarıyla videolar üretebilir ve videolarınızı düzenleyebilirsiniz. 
+
+Daha fazla bilgi almak için https://www.flexclip.com/create/artificial-intelligence-video.html web sitesini ziyaret edin. 
+
+### RAW SHORTS 
+Raw Shorts, metin komutlarıyla animasyonlu videolar üretmenize olanak tanıyan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.rawshorts.com/ web sitesini ziyaret edin. 
+ 
 
