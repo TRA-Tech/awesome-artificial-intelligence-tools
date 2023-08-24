@@ -350,7 +350,10 @@ Capcut yapay zeka aracılığıyla görseller üzerinde kalite arttırabilir, fo
 
 Daha fazla bilgi almak için https://www.capcut.com/tools/ai-portrait-generator web sitesini ziyaret edin. 
 
+### TOME APP 
+Tome App, metin komutlarıyla görsel çalışmalar yapmanızı sağlayan yapay zeka destekli araçlardan biridir. 
 
+Daha fazla bilgi almak için https://tome.app/ web sitesini ziyaret edin. 
 
 
 
