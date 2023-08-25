@@ -1259,7 +1259,19 @@ Daha fazla bilgi almak için https://wordai.com/ web sitesini ziyaret edin.
 ### CONTENT FORGE 
 Content Forge; web sitesi ve sosyal medya platformları için oluşturulmuş zengin metin çıktıları almanızı sağlayan yapay zeka asistanıdır. 
 
+Daha fazla bilgi almak için https://contentforge.ai/ web sitesini ziyaret edin. 
 
+### HYPOTENUS AI
+Hypotenuse AI ile birkaç anahtar kelime komutlarıyla blog yazıları, zenginleştirilmiş içerikler oluşturabilirsiniz. 
+
+API: https://www.hypotenuse.ai/api
+
+Daha fazla bilgi almak için https://www.hypotenuse.ai/ web sitesini ziyaret edin. 
+
+### SEO AI
+Seo AI, SERP çıktılarına uygun ve analiz edilmiş, optimize edilmiş SEO makaleleri oluşturmanıza yarayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://seo.ai/ web sitesini ziyaret edin. 
 
 
 
