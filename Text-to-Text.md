@@ -1219,6 +1219,11 @@ Discord: https://discord.com/invite/GAXTCfkrcM
 
 Daha fazla bilgi almak için https://rose.ai/ web sitesini ziyaret edin. 
 
+### WORDTUNE
+Wordtune, bir konuyla alakalı düşüncelerinizi, görüşlerinizi detaylı ve yazım bilgisine dikkat ederek detaylı bir metin oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.wordtune.com/ web sitesini ziyaret edin. 
+
 
 
 
