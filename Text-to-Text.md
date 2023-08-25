@@ -1273,6 +1273,16 @@ Seo AI, SERP çıktılarına uygun ve analiz edilmiş, optimize edilmiş SEO mak
 
 Daha fazla bilgi almak için https://seo.ai/ web sitesini ziyaret edin. 
 
+### SCALENUT 
+Scalenut, SEO uyumlu ve optimize edilmiş içerikle oluşturmanıza, anahtar kelime araştırması ve planlaması yapmanıza yardımcı olan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.scalenut.com/ web sitesini ziyaret edin. 
+
+### POE AI QUORA 
+Poe AI, verilerden beslenerek insan benzeri metinler oluşturmayı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://poeai.quora.com/ web sitesini ziyaret edin. 
+
 
 
 
