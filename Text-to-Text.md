@@ -1224,6 +1224,23 @@ Wordtune, bir konuyla alakalı düşüncelerinizi, görüşlerinizi detaylı ve 
 
 Daha fazla bilgi almak için https://www.wordtune.com/ web sitesini ziyaret edin. 
 
+### TEXT METRICS 
+Text Metrics, metinlerinizi optimize edilmiş, tutarlı ve özgün metinlere çevirmenizi sağlayan yapay zeka asistanıdır. Oluşturduğunuz içerikleri ATS entegrasyonlarında ve CMS eklentilerinde yayına almanıza yardımcı olur. 
+
+Daha fazla bilgi almak için https://www.textmetrics.com/ web sitesini ziyaret edebilirsiniz. 
+
+### PROWRITINGAID 
+Prowritingaid, metin girdilerinizi dil bilgisi ve stil kontrollerini sağlayarak profesyonel metinler oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+API: https://prowritingaid.com/en/App/API
+
+Daha fazla bilgi almak için https://prowritingaid.com/ web sitesini ziyaret  edin. 
+
+### INK AI
+Ink, SEO uyumlu, optimize edilmiş ve içerik bakımından güçlü metinler üretmenizi sağlayan yapay zeka aracıdır. Ink, yapay zeka aracıyla ayrıca anahtar kelime araştırmaları yaparak metin içeriğinizi geliştirebilirsiniz.
+
+Daha fazla bilgi almak için https://inkforall.com/ web sitesini ziyaret edin.
+
 
 
 
