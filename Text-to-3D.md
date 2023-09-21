@@ -133,6 +133,21 @@ API: https://captures.lumalabs.ai/luma-api
 
 Daha fazla bilgi almak için https://captures.lumalabs.ai/imagine web sitesini ziyaret edin. 
 
+### SPLINE AI
+Spline AI, 3D animasyonlar ve videolar üretebileceğiniz yapay zeka araçlarından biridir. 3D görsellerinizi metin komutlarıyla değiştirebilir, doku ve hareketlilikler oluşturabilirsiniz. 
+
+Discord: https://discord.com/invite/M9hNDMqvnw
+
+Daha fazla bilgi almak için https://spline.design/ai web sitesini ziyaret edin. 
+
+### UNITY AI 
+Unity AI, metin komutlarıyla 3D video ve anismasyon çıktıları alabileceğiniz yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://unity.com/ai web sitesini ziyaret edin. 
+
+
+
+
 
 
 
