@@ -128,6 +128,23 @@ GitHub: https://github.com/shobrook/adrenaline/
 
 Daha fazla bilgi almak için https://useadrenaline.com/ web sitesini ziyaret edin. 
 
+### ASK CODI
+Ask Codi; kod sohbetleri, kod düzenlemeleri geliştirebileceğiniz yapay zeka aracıdır. Kredi sistemi ile çalışmaktadır. 
+
+Daha fazla bilgi almak için https://www.askcodi.com/ web sitesini ziyaret edin. 
+
+### SAFURAI
+Safurai, kodu değiştirme, optimize etme ve arama işlemlerinde size zaman kazandıran Yapay Zeka Kod Asistanıdır. 
+
+API: https://docs.safurai.com/
+Discord: https://discord.com/invite/JYXue8DD4w 
+
+Daha fazla bilgi almak için https://www.safurai.com/ web sitesini ziyaret edin. 
+
+### FULTTERFLOW 
+FlutterFlow, uygulama gelişttirme, veri tabanı oluşturma süreçlerinizde size zaman kazandıran Yapay Zeka Kod Asistanıdır.
+
+Daha fazla bilgi almak için https://flutterflow.io/ai-gen web sitesini ziyaret edin. 
 
 
 
