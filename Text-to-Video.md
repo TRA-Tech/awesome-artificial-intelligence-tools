@@ -174,5 +174,13 @@ Daha fazla bilgi almak için https://www.flexclip.com/create/artificial-intellig
 Raw Shorts, metin komutlarıyla animasyonlu videolar üretmenize olanak tanıyan yapay zeka aracıdır. 
 
 Daha fazla bilgi almak için https://www.rawshorts.com/ web sitesini ziyaret edin. 
- 
+
+### WONDER DYNAMICS 
+Wonder Dynamics, CG karakterleriyle videolarda montaj ve animasyon yaratmayı sağlayan yapay zeka destekli araçtır. 
+
+Discord: https://discord.com/invite/ncx6YC5Eus
+
+Daha fazla bilgi almak için  https://wonderdynamics.com/ web sitesini ziyaret edin. 
+
+
 
