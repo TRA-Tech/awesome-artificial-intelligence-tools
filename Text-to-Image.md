@@ -360,6 +360,15 @@ Segment Anything, Meta AI tarafından geliştirilen bir görüntüdeki objeleri 
 
 Daha fazla bilgi almak için https://segment-anything.com/ web sitesini ziyaret edin. 
 
+### CARIYON V2 
+Cariyon V2, metin komutlarıyla sanat, çizim, fotoğraf gibi görseller elde edebileceğiniz yapay zeka araçlarından biridir. 
+
+Discord: https://discord.com/invite/RUt9AAhUfJ
+
+Daha fazla bilgi almak için https://www.craiyon.com/ web sitesini ziyaret edin. 
+
+
+
 
 
 
