@@ -142,3 +142,14 @@ Animoto aracılığıyla ses ya da video dosyalarınızı sürükle bırak tekni
 
 Daha fazla bilgi almak için https://animoto.com/ web sitesini ziyaret edin. 
 
+### KOE RECAST
+Koe Recast, sesleri yapay zeka aracıyla yeniden optimize etmenizi sağlayan araçlardan biridir. 
+
+Discord: https://discord.com/invite/y6UtDUPAJv
+
+Daha fazla bilgi almak için https://koe.ai/ web sitesini ziyaret edin. 
+
+
+
+
+
