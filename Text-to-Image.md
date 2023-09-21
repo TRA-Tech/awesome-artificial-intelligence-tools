@@ -355,6 +355,11 @@ Tome App, metin komutlarıyla görsel çalışmalar yapmanızı sağlayan yapay 
 
 Daha fazla bilgi almak için https://tome.app/ web sitesini ziyaret edin. 
 
+### SEGMENT ANYTHING 
+Segment Anything, Meta AI tarafından geliştirilen bir görüntüdeki objeleri segmentlere ayırıp kesebileceğiniz bir yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://segment-anything.com/ web sitesini ziyaret edin. 
+
 
 
 
