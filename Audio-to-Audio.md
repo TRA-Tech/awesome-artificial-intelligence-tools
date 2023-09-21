@@ -149,6 +149,13 @@ Discord: https://discord.com/invite/y6UtDUPAJv
 
 Daha fazla bilgi almak için https://koe.ai/ web sitesini ziyaret edin. 
 
+### SOUNDRAW 
+Soundraw, müzik oluşturmanıza, ritimler geliştirmenize yarayan yapay zeka araçlarından biridir. 
+
+API: https://api-page.soundraw.io/
+
+Daha fazla bilgi almak için https://soundraw.io/ web sitesini ziyaret edin. 
+
 
 
 
