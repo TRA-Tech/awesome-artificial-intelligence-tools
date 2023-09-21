@@ -1283,6 +1283,11 @@ Poe AI, verilerden beslenerek insan benzeri metinler oluşturmayı sağlayan yap
 
 Daha fazla bilgi almak için https://poeai.quora.com/ web sitesini ziyaret edin. 
 
+### HUMATA AI 
+Humata AI, uzun makalelerin özetlerini oluşturabileceğiniz, anlık sorularınıza yanıt bulabileceğiniz, hızlı makaleler oluşturabileceğiniz yapay zeka aracıdır.
+
+Daha fazla bilgi almak için https://www.humata.ai/ web sitesini ziyaret edin. 
+
 
 
 
