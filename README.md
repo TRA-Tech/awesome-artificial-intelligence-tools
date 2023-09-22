@@ -294,6 +294,11 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [SCALENUT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#scalenut)
   * [POE AI QUORA](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#poe-ai-quora)
   * [HUMATA AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#humata-ai)
+  * [CONTENDA](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#contenda)
+  * [SMARTWRITER AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#smartwriter-ai)
+  * [DUNGEON AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#dungeon-ai)
+  * [OTHERSIDE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#otherside-ai)
+  * [LEX](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#lex)
 
 ### Metinleri Yapay Zeka Araçları Sayesinde Robot Animasyonlarına Çevirin
 > Text to Motion
