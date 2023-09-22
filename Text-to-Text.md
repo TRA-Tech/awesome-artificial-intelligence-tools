@@ -1301,6 +1301,31 @@ Discord: https://discord.com/invite/jjzRgxZ63h
 
 Daha fazla bilgi almak için https://contenda.co/ web sitesini ziyaret edin. 
 
+### SMARTWRITER AI 
+Smartwriter, kişiselleştirilmiş e-posta oluşturmanızı sağlayan yapay zeka araçlarından biridir. 
+
+Daha fazla bilgi almak için https://www.smartwriter.ai/ web sitesini ziyaret edin. 
+
+### DUNGEON AI 
+Dungeon, metin komutlarıyla hikayeleştirilmiş oyunlar oynamanızı sağlayan yapay zeka aracıdır. Aylık kredi sistemiyle oynanmaktadır, çevrimiçi ücretsiz bir şekilde oynayabilir ya da yapay zeka aracını indirebilirsiniz. 
+
+Daha fazla bilgi almak için https://aidungeon.com/ web sitesini ziyaret edin. 
+
+### OTHERSIDE AI 
+Otherside, günlük mesajlar, araştırmalar, etkileyici pazarlama metinleri üretebileceğiniz yapay zeka aracıdır. İçeriklerinizi özetleyebilir, yeniden yazabilir, düzenleyebilirsiniz. 
+
+Discord: https://discord.com/invite/2hXjDrgTcx
+
+Daha fazla bilgi almak için https://www.hyperwriteai.com/ web sitesini ziyaret edin. 
+
+### LEX 
+Lex, içerik oluşturucu ve düzenleyici yapay zeka asistanıdır. 
+
+Daha fazla bilgi almak için https://lex.page/ web sitesini ziyaret edin. 
+
+
+
+
 
 
 
