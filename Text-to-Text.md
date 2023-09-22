@@ -1236,6 +1236,8 @@ API: https://prowritingaid.com/en/App/API
 
 Daha fazla bilgi almak için https://prowritingaid.com/ web sitesini ziyaret  edin. 
 
+![image](https://marketing.prowritingaid.com/webeditornewsidebar.png)
+
 ### INK AI
 Ink, SEO uyumlu, optimize edilmiş ve içerik bakımından güçlü metinler üretmenizi sağlayan yapay zeka aracıdır. Ink, yapay zeka aracıyla ayrıca anahtar kelime araştırmaları yaparak metin içeriğinizi geliştirebilirsiniz.
 
@@ -1261,6 +1263,8 @@ Content Forge; web sitesi ve sosyal medya platformları için oluşturulmuş zen
 
 Daha fazla bilgi almak için https://contentforge.ai/ web sitesini ziyaret edin. 
 
+![image](https://contentforge.ai/images/og/contentforge.jpg?62a0ea62ca464)
+
 ### HYPOTENUS AI
 Hypotenuse AI ile birkaç anahtar kelime komutlarıyla blog yazıları, zenginleştirilmiş içerikler oluşturabilirsiniz. 
 
@@ -1283,10 +1287,19 @@ Poe AI, verilerden beslenerek insan benzeri metinler oluşturmayı sağlayan yap
 
 Daha fazla bilgi almak için https://poeai.quora.com/ web sitesini ziyaret edin. 
 
+![image](https://techcrunch.com/wp-content/uploads/2023/02/poe.jpg)
+
 ### HUMATA AI 
 Humata AI, uzun makalelerin özetlerini oluşturabileceğiniz, anlık sorularınıza yanıt bulabileceğiniz, hızlı makaleler oluşturabileceğiniz yapay zeka aracıdır.
 
 Daha fazla bilgi almak için https://www.humata.ai/ web sitesini ziyaret edin. 
+
+### CONTENDA 
+Contenda; podcast, video, blog, makale gibi dosyalarınızı özet halinde ilgi çekici içeriklere dönüştürmenizi sağlayan yapay zeka araçlarından biridir. 
+
+Discord: https://discord.com/invite/jjzRgxZ63h
+
+Daha fazla bilgi almak için https://contenda.co/ web sitesini ziyaret edin. 
 
 
 
