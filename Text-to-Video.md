@@ -182,5 +182,18 @@ Discord: https://discord.com/invite/ncx6YC5Eus
 
 Daha fazla bilgi almak için  https://wonderdynamics.com/ web sitesini ziyaret edin. 
 
+### TAVUS 
+Tavus; bir video girdisi ile birçok video ve kişiselleştirilebilir video ve içerikler elde edebilmenizi sağlayan yapay zeka asistanıdır. 
+
+Daha fazla bilgi almak için https://www.tavus.io/ web sitesini ziyaret edin. 
+
+### HOUR ONE 
+Hour One, metin komutlarıyla dakikalar içerisinde videolar oluşturmanızı sağlayan yapay zeka aracıdır. Elde etmek istediğiniz videolarda AI asistanları kullanabilir, çalışmalarınızı tek bir tık ile düzenleyebilirsiniz. 
+
+Discord: https://discord.com/invite/hourone
+
+Daha fazla bilgi almak için https://hourone.ai/ web sitesini ziyaret edin. 
+
+
 
 
