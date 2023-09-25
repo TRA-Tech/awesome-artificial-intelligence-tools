@@ -1323,6 +1323,10 @@ Lex, içerik oluşturucu ve düzenleyici yapay zeka asistanıdır.
 
 Daha fazla bilgi almak için https://lex.page/ web sitesini ziyaret edin. 
 
+### MOONBEAM 
+Moonbeam, uzun ve biçimli içerikler yazmanıza yardımcı olan Yapay Zeka Asistanıdır. 
+
+Daha fazla bilgi almak için https://www.gomoonbeam.com/ web sitesini ziyaret edin. 
 
 
 
