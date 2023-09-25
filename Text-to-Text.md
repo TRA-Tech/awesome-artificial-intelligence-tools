@@ -1328,8 +1328,17 @@ Moonbeam, uzun ve biçimli içerikler yazmanıza yardımcı olan Yapay Zeka Asis
 
 Daha fazla bilgi almak için https://www.gomoonbeam.com/ web sitesini ziyaret edin. 
 
+### CLICKABLE.SO 
+Clickable, dakikalar içerisinde reklam oluşturmanızı sağlayan yapay zeka aracıdır. 
 
+Daha fazla bilgi almak için https://www.clickable.so/ web sitesini ziyaret edin. 
 
+### LETTERDROP 
+Letterdrop, optimize edilmiş ve SEO uyumlu makaleler üretmenizi sağlayan SEO asistanıdır. 
+
+API: https://api.letterdrop.com/ 
+
+Daha fazla bilgi almak için https://letterdrop.com/ web sitesini ziyaret edin. 
 
 
 
