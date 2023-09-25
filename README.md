@@ -310,6 +310,8 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [DUNGEON AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#dungeon-ai)
   * [OTHERSIDE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#otherside-ai)
   * [LEX](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#lex)
+  * [MOONBEAM](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/edit/main/Text-to-Text.md#moonbeam)
+  * [CLICKABLE.SO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/edit/main/Text-to-Text.md#clickableso)
 
 ### Metinleri Yapay Zeka Araçları Sayesinde Robot Animasyonlarına Çevirin
 > Text to Motion
