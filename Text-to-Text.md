@@ -1340,5 +1340,29 @@ API: https://api.letterdrop.com/
 
 Daha fazla bilgi almak için https://letterdrop.com/ web sitesini ziyaret edin. 
 
+### GLEAN 
+Glean; muhasebe çalışmalarınızı - yatırım giderleri, fatura vs- bir panel üzerinden yapay zeka yardımıyla yürütmenizi sağlayan araçtır. 
+
+Daha fazla bilgi almak için https://www.glean.ai/ web sitesini ziyaret edin. 
+
+### MEM 
+Mem, notlarınızla içerikler üretebileceğiniz yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://get.mem.ai/ web sitesini ziyaret edin. 
+
+### SUBTXT 
+Subtxt, hikaye oluşturucu bir yapay zeka asistanıdır. 
+
+Daha fazla bilgi almak için https://subtxt.app/ web sitesini ziyaret edin. 
+
+### LAIKA 
+Laika, yaratıcı fotoğraflar oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://laika-ai.com/home/index.html web sitesini ziyaret edin. 
+
+### NOVEL AI 
+Novel AI, hikaye oluşturmanızı sağlayan LLM destekli yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://novelai.net/ web sitesini ziyaret edin. 
 
 
