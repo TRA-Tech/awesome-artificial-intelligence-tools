@@ -139,6 +139,12 @@ Whisper Memos; karmaşık ses kayıtlarınızı düzenleyip size mail olarak ile
 
 Daha fazla bilgi almak için https://whispermemos.com/ web sitesini ziyaret edin. 
 
+### STENO AI 
+Steno AI; ses ve video dosyalarından öngörüler elde etmenizi sağlayan ve bu öngörüleri transkript haline getirmenize yarayan yapay zeka araçlarından biridir. 
+
+Discord: https://discord.com/invite/j3uEfwNrFu
+
+Daha fazla bilgi almak için https://steno.ai/ web sitesini ziyaret edin. 
 
 
 
