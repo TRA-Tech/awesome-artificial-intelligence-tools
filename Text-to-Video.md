@@ -199,6 +199,12 @@ Supercreator AI aracılığıyla videolar oluşturabilir, düzenleyebilir, diled
 
 Daha fazla bilgi almak için https://www.supercreator.ai/ web sitesini ziyaret edin. 
 
+### WINDSOR 
+Windsor.io, kullanıcılara kişiselleştirilmiş videolar oluşturmanızı sağlayan yapay zeka aracıdır. Marka bağlılığını ve bilinirliliğini, geri dönüşümü arttırmak için yapay zeka destekli videolar oluşturabilirsiniz. 
+
+Daha fazla bilgi almak için https://www.windsor.io/ web sitesini ziyaret edin. 
+
+
 
 
 
