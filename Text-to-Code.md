@@ -146,5 +146,29 @@ FlutterFlow, uygulama gelişttirme, veri tabanı oluşturma süreçlerinizde siz
 
 Daha fazla bilgi almak için https://flutterflow.io/ai-gen web sitesini ziyaret edin. 
 
+### MINTLIFY 
+Mintlify, kod tabanlı çalışmalarını dokümente haline getirmenizi sağlayan yapay zeka aracıdır. 
+
+GitHub: https://github.com/mintlify
+API: https://mintlify.com/docs/quickstart
+
+Daha fazla bilgi almak için https://mintlify.com/ web sitesini ziyaret edin. 
+
+### STENOGRAPHY 
+Stenography, kod tabanlı çalışmalarınızı otomatik dokümantasyon işlemlerini tamamlayan yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/FgMxkfVwxk
+
+Daha fazla bilgi almak için https://stenography.dev/ web sitesini ziyaret edin. 
+
+### DEBUILD 
+Debuild, web sitenizi saniyeler içerisinde kodlamanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://debuild.app/ web sitesini ziyaret edin. 
+
+
+
+
+
 
 
