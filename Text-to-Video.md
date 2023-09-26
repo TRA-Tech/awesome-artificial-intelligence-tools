@@ -209,5 +209,15 @@ Lumen5; metin komutlarıyla etkili video içerikler üreteceğiniz yapay zeka ar
 
 Daha fazla bilgi almak için https://lumen5.com/ web sitesini ziyaret edin. 
 
+### ROSEBUD AI 
+Rosebud, metin komutlarıyla oyun yaratmanızı ve oynayabilmenizi sağlayan yapay zeka araçlarından biridir. Oyunları paylaşabilir, koda dönüştürebilirsiniz. 
+
+Discord: https://discord.com/invite/rosebud-ai 
+
+Daha fazla bilgi almak için https://www.rosebud.ai/ web sitesini ziyaret edin. 
+
+
+
+
 
 
