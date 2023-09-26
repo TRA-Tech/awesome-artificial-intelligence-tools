@@ -367,6 +367,10 @@ Discord: https://discord.com/invite/RUt9AAhUfJ
 
 Daha fazla bilgi almak için https://www.craiyon.com/ web sitesini ziyaret edin. 
 
+### LEXICA 
+Lexica, metin komutları aracılığıyla yaratıcı görseller oluşturabilir ya da oluşturulmuş görselleri kullanabilirsiniz. Oluşturulmuş görselleri düzenleyip çalışmalarınızda kullanmanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://lexica.art/ web sitesini ziyaret edin. 
 
 
 
