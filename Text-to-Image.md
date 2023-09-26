@@ -405,6 +405,18 @@ Discord: https://discord.com/invite/GT9bPgxyFP
 
 Daha fazla bilgi almak için https://www.mage.space/ web sitesini ziyaret edin. 
 
+### KREA 
+Krea, metin komutlarıyla görsel çıktılar elde edip yapay zeka aracını eğiterek tuval üzerinde çalışmaları düzenleyebileceğiniz yapay zeka aracıdır. Grafik tasarım, ürün fotoğrafçılığı, mimari gibi alanlarda kullanıma uygun bir araçtır. 
+
+Discord: https://discord.com/invite/pPyJx5nVGT
+
+Daha fazla bilgi almak için https://www.krea.ai/ web sitesini ziyaret edin. 
+
+### OPEN ART 
+Open Art, metin komutlarıyla görsel çıktılar elde edip bu çıktılar üzerinde doku, renk, duruş, açı gibi değişiklikleri yapabileceğiniz yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://openart.ai/ web sitesini ziyaret edin. 
+
 
 
 
