@@ -1413,5 +1413,11 @@ Reach, müşterilerinize kısa hatırlatıcı ve kişiselleştirilmiş e-postala
 
 Daha fazla bilgi almak için https://getreach.ai/ web sitesini ziyaret edin. 
 
+### KEYS 
+Keys; ilişkiler, otomotiv ve emlak gibi sektörlerde akıcı bir iletişim kurmanızı sağlayan yapay zeka destekli chatbot aracıdır. 
+
+Daha fazla bilgi almak için https://www.thekeys.ai/ web sitesini ziyaret edin. 
+
+
 
 
