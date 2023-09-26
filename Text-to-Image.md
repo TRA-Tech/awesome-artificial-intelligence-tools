@@ -377,6 +377,11 @@ Playground, metin komutlarıyla görsel çalışmalar elde edebileceğiniz ve g�
 
 Daha fazla bilgi almak için https://playgroundai.com/ web sitesini ziyaret edin. 
 
+### DIAGRAM 
+Diagram; SVG görseller oluşturabileceğiniz yaratıcı tasarımlar elde edebileceğiniz yapay zeka araçlarından biridir. 
 
+Discord: https://discord.com/channels/880545718102810624 
+
+Daha fazla bilgi almak için https://diagram.com/ web sitesini ziyaret edin. 
 
 
