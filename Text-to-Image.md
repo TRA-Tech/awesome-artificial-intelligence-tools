@@ -417,6 +417,18 @@ Open Art, metin komutlarıyla görsel çıktılar elde edip bu çıktılar üzer
 
 Daha fazla bilgi almak için https://openart.ai/ web sitesini ziyaret edin. 
 
+### NYX GALLERY 
+Nyx Gallery, yapay zeka ile oluşturulmuş görsellere erişerek bu görseller üzerinde düzenlemenizi sağlayan bir yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://nyx.gallery/ web sitesini ziyaret edin. 
+
+### ARTBREEDER 
+Artbreeder, metin komutlarıyla görseller, sanat eserleri ve karakterler oluşturmanızı sağlayan yapay zeka aracıdır. Görselleri kolajlayabilir, birleştirebilir, renk değişiklikleri yapabilirsiniz. 
+
+Discord: https://discord.com/invite/WK5RhJB
+
+Daha fazla bilgi almak için https://www.artbreeder.com/ web sitesini ziyaret edin. 
+
 
 
 
