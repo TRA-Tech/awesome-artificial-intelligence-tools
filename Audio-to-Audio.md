@@ -163,6 +163,13 @@ Discord: https://discord.com/invite/nkaBaspF4Y
 
 Daha fazla bilgi almak için https://soundful.com/ web sitesini ziyaret edin. 
 
+### DUBVERSE 
+Dubverse; ses ve video dosyalarınıza dublaj ve altyazı eklemenize yardımcı olan yapay zeka aracıdır. +20 dil desteği mevcuttur, Türkçe de bu diller arasında yer almaktadır. 
+
+API: https://dubverseai.notion.site/dubverseai/Dubverse-TTS-API-1abef4ffef79488eb482ff8160a56e1f 
+
+Daha fazla bilgi almak için https://dubverse.ai/ web sitesini ziyaret edin. 
+
 
 
 
