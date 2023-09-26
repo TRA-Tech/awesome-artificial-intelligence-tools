@@ -1394,6 +1394,12 @@ API: https://nanonets.com/ocr-api
 
 Daha fazla bilgi almak için https://nanonets.com/ web sitesini ziyaret edin. 
 
+### JENNI 
+Jenni, içerik araştırması yapıp makalelerinizi oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/fZd7nWUKu2
+
+Daha fazla bilgi almak için https://jenni.ai/ web sitesini ziyaret edin. 
 
 
 
