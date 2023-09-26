@@ -166,6 +166,19 @@ Debuild, web sitenizi saniyeler içerisinde kodlamanızı sağlayan yapay zeka a
 
 Daha fazla bilgi almak için https://debuild.app/ web sitesini ziyaret edin. 
 
+### MUTABLE AI 
+Mutable AI, kod çalışmalarınızda otomatik doldurma, kalite kontrolü, hızlı geliştirme ve test oluşturma süreçlerini sağlayan yapay zeka aracıdır. 
+
+GitHub: https://github.com/mutableai/
+Discord: https://discord.com/invite/zAwadbmuVk
+
+Daha fazla bilgi almak için https://mutable.ai/ web sitesini ziyaret edin. 
+
+### AI2SQL 
+AI2sql, karmaşık SQL sorgularını hatasız ve verimli bir şekilde oluşturabileceğiniz yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.ai2sql.io/ web sitesini ziyaret edin. 
+
 
 
 
