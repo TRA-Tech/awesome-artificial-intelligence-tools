@@ -1387,6 +1387,13 @@ Slides AI, metin komutlarıyla yaratıcı sunumlar elde etmenizi sağlayan yapay
 
 Daha fazla bilgi almak için https://www.slidesai.io/tr web sitesini ziyaret edin. 
 
+### NANONETS 
+Nanonets aracılığıyla iş süreçlerinizi optimize edebilir, belgelerden gerekli ve değerli bilgileri ayırt edip transkript haline getirebilirsiniz. 
+
+API: https://nanonets.com/ocr-api
+
+Daha fazla bilgi almak için https://nanonets.com/ web sitesini ziyaret edin. 
+
 
 
 
