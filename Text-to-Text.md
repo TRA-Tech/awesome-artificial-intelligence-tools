@@ -1372,5 +1372,10 @@ API: https://windsor.ai/api-fields/
 
 Daha fazla bilgi almak için https://windsor.ai/ web sitesini ziyaret edin. 
 
+### BEARLY 
+Bearly; detaylı özetler çıkarmanızı, görsel çalışmalar üretmenizi, dil bilgisi uyumlu içerikler oluşturmanızı sağlayan yapay zeka araçlarından biridir. 
+
+Daha fazla bilgi almak için https://bearly.ai/ web sitesini ziyaret edin. 
+
 
 
