@@ -1401,6 +1401,17 @@ Discord: https://discord.com/invite/fZd7nWUKu2
 
 Daha fazla bilgi almak için https://jenni.ai/ web sitesini ziyaret edin. 
 
+### ANDI 
+Andi, yeni nesil yardımcı yapay zeka destekli chatbot aracıdır. 
+
+Discord: https://discord.com/invite/andi
+
+Daha fazla bilgi almak için https://andisearch.com/ web sitesini ziyaret edin. 
+
+### REACH 
+Reach, müşterilerinize kısa hatırlatıcı ve kişiselleştirilmiş e-postalar göndererek sosyal medya pazarlamasında otomatik geri dönüşümler elde etmenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://getreach.ai/ web sitesini ziyaret edin. 
 
 
 
