@@ -170,6 +170,21 @@ API: https://dubverseai.notion.site/dubverseai/Dubverse-TTS-API-1abef4ffef79488e
 
 Daha fazla bilgi almak için https://dubverse.ai/ web sitesini ziyaret edin. 
 
+### COQUI
+Coqui, seslerinizi klonlayabildiğiniz ve ses kontrolleri yapabildiğiniz yapay zeka aracı.
+
+Discord: https://discord.com/invite/CzxHHp8mtZ
+GitHub: https://github.com/coqui-ai
+
+Daha fazla bilgi almak için https://coqui.ai/ web sitesini ziyaret edin. 
+
+### LISTNR 
+Listnr, saniyeler içerisinde ses ve video dosyaları oluşturmanızı sağlayan yapay zeka aracıdır. 142+ farklı ve fazla dil ve ses seçenekleri mevcuttur. 
+
+API: https://listnr.ai/text-to-speech-api
+
+Daha fazla bilgi almak için https://listnr.ai/ web sitesini ziyaret edin. 
+
 
 
 
