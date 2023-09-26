@@ -216,7 +216,10 @@ Discord: https://discord.com/invite/rosebud-ai
 
 Daha fazla bilgi almak için https://www.rosebud.ai/ web sitesini ziyaret edin. 
 
+### OPUS 
+Opus, metin komutlarıyla video çıktılar elde edilmesini sağlayan yapay zeka aracıdır. 
 
+Daha fazla bilgi almak için https://opus.ai/ web sitesini ziyaret edin. 
 
 
 
