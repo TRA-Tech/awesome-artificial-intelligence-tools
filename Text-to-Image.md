@@ -355,6 +355,8 @@ Tome App, metin komutlarıyla görsel çalışmalar yapmanızı sağlayan yapay 
 
 Daha fazla bilgi almak için https://tome.app/ web sitesini ziyaret edin. 
 
+![image](https://a.fsdn.com/con/app/proj/tome.s/screenshots/Screen%20Shot%202023-01-06%20at%2011.06.21%20AM.png/1000/auto/1)
+
 ### SEGMENT ANYTHING 
 Segment Anything, Meta AI tarafından geliştirilen bir görüntüdeki objeleri segmentlere ayırıp kesebileceğiniz bir yapay zeka aracıdır. 
 
@@ -376,6 +378,8 @@ Daha fazla bilgi almak için https://lexica.art/ web sitesini ziyaret edin.
 Playground, metin komutlarıyla görsel çalışmalar elde edebileceğiniz ve görselleri düzenleyebileceğiniz yapay zeka araçlarından biridir. 
 
 Daha fazla bilgi almak için https://playgroundai.com/ web sitesini ziyaret edin. 
+
+![image](https://aitoptools.com/wp-content/uploads/2023/02/fc8c34224a0f5364939cf2ab66fe51f065a37b10-1680x876-1.png)
 
 ### DIAGRAM 
 Diagram; SVG görseller oluşturabileceğiniz yaratıcı tasarımlar elde edebileceğiniz yapay zeka araçlarından biridir. 
@@ -404,6 +408,8 @@ Mage.space, metin komutlarıyla görsel çıktıları elde etmenizi sağlayan ya
 Discord: https://discord.com/invite/GT9bPgxyFP
 
 Daha fazla bilgi almak için https://www.mage.space/ web sitesini ziyaret edin. 
+
+![image](https://uploads-ssl.webflow.com/63a3450e7d71b8e0c27ad3b6/64693a870dcb19f92b4857fd_magespace.webp)
 
 ### KREA 
 Krea, metin komutlarıyla görsel çıktılar elde edip yapay zeka aracını eğiterek tuval üzerinde çalışmaları düzenleyebileceğiniz yapay zeka aracıdır. Grafik tasarım, ürün fotoğrafçılığı, mimari gibi alanlarda kullanıma uygun bir araçtır. 
