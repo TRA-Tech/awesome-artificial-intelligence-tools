@@ -204,7 +204,10 @@ Windsor.io, kullanıcılara kişiselleştirilmiş videolar oluşturmanızı sağ
 
 Daha fazla bilgi almak için https://www.windsor.io/ web sitesini ziyaret edin. 
 
+### LUMEN5 
+Lumen5; metin komutlarıyla etkili video içerikler üreteceğiniz yapay zeka aracıdır. 
 
+Daha fazla bilgi almak için https://lumen5.com/ web sitesini ziyaret edin. 
 
 
 
