@@ -1377,5 +1377,12 @@ Bearly; detaylı özetler çıkarmanızı, görsel çalışmalar üretmenizi, di
 
 Daha fazla bilgi almak için https://bearly.ai/ web sitesini ziyaret edin. 
 
+### UIZARD 
+Uizard; dakikalar içerisinde web sitesi oluşturmanızı sağlayan yapay zeka araçlarından biridir. UI/UX, Mobil ve Website template'lerine kolayca ulaşabilirsiniz. 
+
+Daha fazla bilgi almak için https://uizard.io/ web sitesini ziyaret edin. 
+
+
+
 
 
