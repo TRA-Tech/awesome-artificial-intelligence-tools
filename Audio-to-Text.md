@@ -134,6 +134,11 @@ Sembly AI, yapay zeka destekli toplantı asistanı aracıdır. Sembly toplantıd
 
 Daha fazla bilgi için https://www.sembly.ai/ web sitesini ziyaret edebilirsiniz. 
 
+### WHISPER MEMOS 
+Whisper Memos; karmaşık ses kayıtlarınızı düzenleyip size mail olarak iletilmesini sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://whispermemos.com/ web sitesini ziyaret edin. 
+
 
 
 
