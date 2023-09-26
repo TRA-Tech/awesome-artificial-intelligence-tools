@@ -194,6 +194,11 @@ Discord: https://discord.com/invite/hourone
 
 Daha fazla bilgi almak için https://hourone.ai/ web sitesini ziyaret edin. 
 
+### SUPERCREATOR AI
+Supercreator AI aracılığıyla videolar oluşturabilir, düzenleyebilir, dilediğiniz platformlarda yayına alabilirsiniz. Filtreler ekleyip efektlerle video çalışmalarınızı şekillendirebilirsiniz. 
+
+Daha fazla bilgi almak için https://www.supercreator.ai/ web sitesini ziyaret edin. 
+
 
 
 
