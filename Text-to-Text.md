@@ -558,6 +558,9 @@ Atomic AI, RNA ilaç keşfi yapan bir yapay zeka tabanlı analiz aracıdır. Dah
 
 Daha fazla bilgi almak için https://atomic.ai/ web sitesini ziyaret edin. 
 
+![image](https://www.theee.ai/wp-content/uploads/2023/02/download-2-1.png)
+
+
 ### GENERATE BIOMEDICINES
 Generate Biomedicines; makine öğrenimi, biyoloji mühendisliği ve tıbbın kesiştiği noktada var olan ve çığır açan ilaçlar yaratmak için Üretken Biyolojiye öncülük eden yeni bir tür terapötik şirkettir.
 
@@ -582,6 +585,9 @@ Daha fazla bilgi almak için https://www.appengine.ai/company/mdclone web sitesi
 BigHat Biosciences, yapay zeka tabanlı bir protein mühendisliği platformu sağlayıcısıdır. Şirket, yapay zeka teknolojilerini kullanarak proteinlerin üretimini optimize eder ve biyolojik problemleri çözmek için bu proteinlerin kullanımını sağlar.
 
 Daha fazla bilgi almak için https://www.bighatbio.com/ web sitesini ziyaret edin. 
+
+![image](https://mms.businesswire.com/media/20220720005177/en/1518484/5/Flat-Color-Vertical-Logo-Horizontal.jpg)
+
 
 ### PAIGE 
 Paige, yapay zeka tabanlı bir tıbbi teşhis platformu sağlayıcısıdır. Yapay zeka ve makine öğrenimi teknolojilerini kullanarak, kanser ve diğer hastalıkların teşhisinde önemli bir rol oynamaktadır. Paige, özellikle kanser tespiti ve teşhisi konusunda uzmanlaşmış bir tıbbi teşhis platformu sağlayıcısıdır. Yapay zeka teknolojilerini kullanarak, tıbbi görüntülerin analizi ve moleküler verilerin değerlendirilmesi gibi görevleri otomatikleştirir ve daha hızlı ve doğru sonuçlar elde edilmesine yardımcı olur.
@@ -1318,6 +1324,8 @@ Discord: https://discord.com/invite/2hXjDrgTcx
 
 Daha fazla bilgi almak için https://www.hyperwriteai.com/ web sitesini ziyaret edin. 
 
+![image](https://res.cloudinary.com/apideck/image/upload/v1605257061/catalog/othersideai/homepage.png)
+
 ### LEX 
 Lex, içerik oluşturucu ve düzenleyici yapay zeka asistanıdır. 
 
@@ -1344,6 +1352,8 @@ Daha fazla bilgi almak için https://letterdrop.com/ web sitesini ziyaret edin.
 Glean; muhasebe çalışmalarınızı - yatırım giderleri, fatura vs- bir panel üzerinden yapay zeka yardımıyla yürütmenizi sağlayan araçtır. 
 
 Daha fazla bilgi almak için https://www.glean.ai/ web sitesini ziyaret edin. 
+
+![image](https://uploads-ssl.webflow.com/6204d0de7d994c00ea687da6/63850f3bb5de5119508683aa_HomepageHero.png)
 
 ### MEM 
 Mem, notlarınızla içerikler üretebileceğiniz yapay zeka aracıdır. 
@@ -1372,6 +1382,8 @@ API: https://windsor.ai/api-fields/
 
 Daha fazla bilgi almak için https://windsor.ai/ web sitesini ziyaret edin. 
 
+![image](https://res.cloudinary.com/windsorio/image/upload/v1657140043/meta_bnamlk.png)
+
 ### BEARLY 
 Bearly; detaylı özetler çıkarmanızı, görsel çalışmalar üretmenizi, dil bilgisi uyumlu içerikler oluşturmanızı sağlayan yapay zeka araçlarından biridir. 
 
@@ -1393,6 +1405,8 @@ Nanonets aracılığıyla iş süreçlerinizi optimize edebilir, belgelerden ger
 API: https://nanonets.com/ocr-api
 
 Daha fazla bilgi almak için https://nanonets.com/ web sitesini ziyaret edin. 
+
+![image](https://nanonets.com/media/ocr-hero-image.svg)
 
 ### JENNI 
 Jenni, içerik araştırması yapıp makalelerinizi oluşturmanızı sağlayan yapay zeka aracıdır. 
