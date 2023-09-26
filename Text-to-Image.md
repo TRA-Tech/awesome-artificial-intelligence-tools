@@ -398,6 +398,13 @@ Discord: https://discord.com/invite/wEqSpGYGnS
 
 Daha fazla bilgi almak için https://www.alpacaml.com/ web sitesini ziyaret edin. 
 
+### MAGE SPACE 
+Mage.space, metin komutlarıyla görsel çıktıları elde etmenizi sağlayan yapay zeka aracıdır. Görselleri temizleyerek düzenleyebilir, canlandır özelliğiyle gif ve video haline getirebilirsiniz. 
+
+Discord: https://discord.com/invite/GT9bPgxyFP
+
+Daha fazla bilgi almak için https://www.mage.space/ web sitesini ziyaret edin. 
+
 
 
 
