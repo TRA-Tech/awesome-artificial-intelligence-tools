@@ -367,6 +367,14 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [CODEWHISPERER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#codewhisperer)
   * [DEEPCODE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#deepcode)
   * [ADREALINE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#adrealine)
+  * [ASK CODI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#ask-codi)
+  * [SAFURAI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#safurai)
+  * [FULTTERFLOW](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#fultterflow)
+  * [MINTLIFY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#mintlify)
+  * [STENOGRAPHY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#stenography)
+  * [DEBUILD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#debuild)
+  * [MUTABLE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#mutable-ai)
+  * [AI2SQL](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#ai2sql)
  
 
 ### Metinleri 3D Boyutlandırabileceğiniz Yapay Zeka Araçları
