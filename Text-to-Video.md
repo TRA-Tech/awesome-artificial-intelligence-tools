@@ -152,6 +152,8 @@ Deep Brain, metin komutlarıyla 5 dakika içerisinde gerçekçi avatarlarla vide
 
 Daha fazla bilgi almak için https://www.deepbrain.io/ web sitesini ziyaret edin. 
 
+![image](https://www.cxtoday.com/wp-content/uploads/2021/08/Virtual-Human-Startup-Deepbrain-AI-Raises-44M.jpg)
+
 ### HEY GEN 
 Hey Gen yapay zeka aracıyla avatarınızı belirleyip metin komutlarınızı girerek video oluşturabilirsiniz. 
 
@@ -174,6 +176,8 @@ Daha fazla bilgi almak için https://www.flexclip.com/create/artificial-intellig
 Raw Shorts, metin komutlarıyla animasyonlu videolar üretmenize olanak tanıyan yapay zeka aracıdır. 
 
 Daha fazla bilgi almak için https://www.rawshorts.com/ web sitesini ziyaret edin. 
+
+![image](https://topai.tools/assets/img/tools/raw-shorts.webp)
 
 ### WONDER DYNAMICS 
 Wonder Dynamics, CG karakterleriyle videolarda montaj ve animasyon yaratmayı sağlayan yapay zeka destekli araçtır. 
@@ -199,6 +203,8 @@ Supercreator AI aracılığıyla videolar oluşturabilir, düzenleyebilir, diled
 
 Daha fazla bilgi almak için https://www.supercreator.ai/ web sitesini ziyaret edin. 
 
+![image](https://voicebot.ai/wp-content/uploads/2022/04/hour-one.png)
+
 ### WINDSOR 
 Windsor.io, kullanıcılara kişiselleştirilmiş videolar oluşturmanızı sağlayan yapay zeka aracıdır. Marka bağlılığını ve bilinirliliğini, geri dönüşümü arttırmak için yapay zeka destekli videolar oluşturabilirsiniz. 
 
@@ -215,6 +221,8 @@ Rosebud, metin komutlarıyla oyun yaratmanızı ve oynayabilmenizi sağlayan yap
 Discord: https://discord.com/invite/rosebud-ai 
 
 Daha fazla bilgi almak için https://www.rosebud.ai/ web sitesini ziyaret edin. 
+
+![image](https://pbs.twimg.com/media/EKP1tnFUwAEDRhs.jpg:large)
 
 ### OPUS 
 Opus, metin komutlarıyla video çıktılar elde edilmesini sağlayan yapay zeka aracıdır. 
