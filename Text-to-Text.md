@@ -1382,6 +1382,11 @@ Uizard; dakikalar içerisinde web sitesi oluşturmanızı sağlayan yapay zeka a
 
 Daha fazla bilgi almak için https://uizard.io/ web sitesini ziyaret edin. 
 
+### SLIDES AI 
+Slides AI, metin komutlarıyla yaratıcı sunumlar elde etmenizi sağlayan yapay zeka araçlarından biridir. 
+
+Daha fazla bilgi almak için https://www.slidesai.io/tr web sitesini ziyaret edin. 
+
 
 
 
