@@ -372,6 +372,10 @@ Lexica, metin komutları aracılığıyla yaratıcı görseller oluşturabilir y
 
 Daha fazla bilgi almak için https://lexica.art/ web sitesini ziyaret edin. 
 
+### PLAYGROUND 
+Playground, metin komutlarıyla görsel çalışmalar elde edebileceğiniz ve görselleri düzenleyebileceğiniz yapay zeka araçlarından biridir. 
+
+Daha fazla bilgi almak için https://playgroundai.com/ web sitesini ziyaret edin. 
 
 
 
