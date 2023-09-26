@@ -1365,4 +1365,12 @@ Novel AI, hikaye oluşturmanızı sağlayan LLM destekli yapay zeka aracıdır.
 
 Daha fazla bilgi almak için https://novelai.net/ web sitesini ziyaret edin. 
 
+### WINDSOR AI
+Windsor, pazarlama çalışmalarınızı yürütebileceğiniz, içeriklerinizi optimize edebileceğiniz yapay zeka aracıdır. Google Analytics, Hubspot ve Google Ads gibi araçların bağlantısını kolayca sağlayabilirsiniz. 
+
+API: https://windsor.ai/api-fields/
+
+Daha fazla bilgi almak için https://windsor.ai/ web sitesini ziyaret edin. 
+
+
 
