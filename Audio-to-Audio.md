@@ -156,6 +156,13 @@ API: https://api-page.soundraw.io/
 
 Daha fazla bilgi almak için https://soundraw.io/ web sitesini ziyaret edin. 
 
+### SOUNDFUL 
+Soundful; video, müzik, podcast çalışmalarınızda arka plan seslerini düzenleyici yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/nkaBaspF4Y
+
+Daha fazla bilgi almak için https://soundful.com/ web sitesini ziyaret edin. 
+
 
 
 
