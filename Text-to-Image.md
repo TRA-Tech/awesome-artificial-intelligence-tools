@@ -391,6 +391,12 @@ API: https://platform.stability.ai/?_gl=1*n47xdj*_ga*MzY2NDExNzQ5LjE2OTUzODc3MDY
 
 Daha fazla bilgi almak için https://stability.ai/ web sitesini ziyaret edin. 
 
+### ALPACA 
+Alpaca, metin komutlarıyla eskiz çalışmaları elde edebileceğiniz yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/wEqSpGYGnS
+
+Daha fazla bilgi almak için https://www.alpacaml.com/ web sitesini ziyaret edin. 
 
 
 
