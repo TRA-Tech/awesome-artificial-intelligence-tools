@@ -375,7 +375,6 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [DEBUILD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#debuild)
   * [MUTABLE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#mutable-ai)
   * [AI2SQL](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#ai2sql)
- 
 
 ### Metinleri 3D Boyutlandırabileceğiniz Yapay Zeka Araçları
 > Text to 3D
@@ -396,6 +395,8 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [POINT E](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#point-e)
   * [MAGIC3D](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#magic3d)
   * [IMAGINE 3D](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#imagine-3d)
+  * [SPLINE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#spline-ai)
+  * [UNITY AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-3D.md#unity-ai)
 
 ### Görüntüleri Metne Çevirebileceğiniz Yapay Zeka Araçları
 > Image to Text
@@ -427,6 +428,14 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [MAGNIFI AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#magnifi-ai)
   * [HUME](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#hume)
   * [POISED AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#poised-ai)
+  * [VIMEO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#vimeo)
+  * [ANIMOTO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#animoto)
+  * [KOE RECAST](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#koe-recast)
+  * [SOUNDRAW](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#soundraw)
+  * [SOUNDFUL](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#soundful)
+  * [DUBVERSE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#dubverse)
+  * [COQUI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#coqui)
+  * [LISTNR](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#listnr)
   
   
 ### Sesleri Yazıya Çevirebileceğiniz Yapay Zeka Araçları
@@ -453,6 +462,10 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [FATHOM AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#fathom-ai)
   * [CLEARWORD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#clearword)
   * [SEMBLY AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#sembly-ai)
+  * [WHISPER MEMOS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#whisper-memos)
+  * [STENO AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#steno-ai)
+
+    
   
   
 
