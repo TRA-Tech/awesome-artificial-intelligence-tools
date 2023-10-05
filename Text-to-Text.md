@@ -1467,4 +1467,27 @@ Wix, yapay zeka ile web sitesi, içerik, tanıtım videoları ve kod asistanı y
 
 Daha fazla bilgi almak için https://www.wix.com/studio/ai web sitesini ziyaret edin. 
 
+### SEONA 
+Seona, yapay zeka aracılığıyla SEO bakımından optimize edilmiş uyumlu içerikler ve çalışmalar yürütmenizi sağlayan araçlardan biridir. 
+
+Daha fazla bilgi almak için https://seona.usestyle.ai/ web sitesini ziyaret edin. 
+
+### SERPSTAT 
+Serpstat, yapay zeka destekli içerik analiz aracıdır. Birkaç tıklama ile SEO uyumlu içerikler oluşturmanızı ve oluşturduğunuz içerikleri analiz etmenizi sağlayan bir araçtır. 
+
+API: https://serpstat.com/api-serpstat/
+
+Daha fazla bilgi almak için https://serpstat.com/page/content-analysis/ web sitesini ziyaret edin. 
+
+### WORDLIFT 
+Wordlift, web sitesinizin SEO çalışmalarınızı otomatikleştirmenizi ve organik ziyaretçi kitlenizi arttırmayı hedefleyen araçtır. 
+
+GitHub: https://github.com/insideout10/wordlift-plugin
+
+Daha fazla bilgi almak için https://wordlift.io/ web sitesini ziyaret edin. 
+
+### ALLI AI
+Alli AI, ölçeklendirilebilir SEO çalışmaları yapmanızı sağlayan yapay zeka aracıdır. 
+
+
 
