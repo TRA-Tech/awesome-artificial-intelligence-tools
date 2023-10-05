@@ -435,6 +435,14 @@ Discord: https://discord.com/invite/WK5RhJB
 
 Daha fazla bilgi almak için https://www.artbreeder.com/ web sitesini ziyaret edin. 
 
+### LEAP AI
+Leap AI, metin komutlarıyla görsel çıktılar oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/NCAKTUayPK
+GitHub: https://github.com/leap-ai/ 
+
+Daha fazla bilgi almak için https://tryleap.ai/ web sitesini ziyaret edin. 
+
 
 
 
