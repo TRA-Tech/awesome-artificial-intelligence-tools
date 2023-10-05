@@ -356,6 +356,17 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [DIVI AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#divi-ai)
   * [HOSTINGER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#hostinger)
   * [WIX AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#wix-ai)
+  * [SEONA](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#seona)
+  * [SERPSTAT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#serpstat)
+  * [WORDLIFT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#wordlift)
+  * [ALLI AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#alli-ai)
+  * [DROXY AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#droxy-ai)
+  * [CHATBASE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#chatbase)
+  * [CHATSIMPLE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#chatsimple)
+  * [CHATFUEL](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#chatfuel)
+  * [DECKTOPUS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#decktopus)
+  * [UIPATH](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#uipath)
+  * [BLUE PRISM](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#blue-prism) 
 
 ### Metinleri Yapay Zeka Araçları Sayesinde Robot Animasyonlarına Çevirin
 > Text to Motion
