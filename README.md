@@ -446,6 +446,13 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [DUBVERSE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#dubverse)
   * [COQUI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#coqui)
   * [LISTNR](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#listnr)
+  * [KLAP](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#klap)
+  * [EIGHTIFY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#eightify)
+  * [TLDV](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#tldv)
+  * [OTTER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#otter)
+  * [NOTY AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#noty-ai)
+  * [FIREFLIES](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#fireflies)
+  * [AIRGRAM](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Audio.md#airgram)
   
   
 ### Sesleri Yazıya Çevirebileceğiniz Yapay Zeka Araçları
