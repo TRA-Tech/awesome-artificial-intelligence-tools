@@ -1432,6 +1432,11 @@ Keys; ilişkiler, otomotiv ve emlak gibi sektörlerde akıcı bir iletişim kurm
 
 Daha fazla bilgi almak için https://www.thekeys.ai/ web sitesini ziyaret edin. 
 
+### CLEARSCOPE 
+Clearscope, SEO bakımından optimize edilmiş metinler elde etmenizi sağlayan yapay zeka aracıdır. Oluşturulan anahtar kelime uyumlu içeriklerle daha fazla trafik elde etmenizi hedflemektedir. 
+
+Daha fazla bilgi almak için https://www.clearscope.io/ web sitesini ziyaret edin. 
+
 
 
 
