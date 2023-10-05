@@ -455,6 +455,12 @@ API: https://status.clarifai.com/
 
 Daha fazla bilgi almak için https://www.clarifai.com/ web sitesini ziyaret edin. 
 
+### DESIGNS AI 
+Designs AI, dakikalar içerisinde logo, video, banner ve maketler oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://designs.ai/ web sitesini ziyaret edin. 
+
+
 
 
 
