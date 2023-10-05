@@ -101,6 +101,27 @@ Brain Fm, odak ve konsantrasyon arttırıcı müzikler geliştirmenizi sağlayan
 
 Daha fazla bilgi almak için https://www.brain.fm/ web sitesini ziyaret edin. 
  
+### ELEVENLABS 
+Elevenlabs, metin okuma ve ses klonlama özellikleri bulunan yapay zeka aracıdır. +28 dili desteklemektedir. 
+
+Discord: https://discord.com/invite/elevenlabs
+GitHub: https://github.com/elevenlabs
+API: https://docs.elevenlabs.io/api-reference/quick-start/introduction
+
+Daha fazla bilgi almak için https://elevenlabs.io/ web sitesini ziyaret edin. 
+
+### LYREBIRD 
+Lyrebird, metin komutlarıyla ses dosyası elde etmenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.descript.com/lyrebird web sitesini ziyaret edin. 
+
+### AUPHONIC 
+Auphonic, dengeli ve kreatif ses dosyaları oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+API: https://auphonic.com/help/api/
+
+Daha fazla bilgi almak için https://auphonic.com/ web sitesini ziyaret edin. 
+
 
 
 
