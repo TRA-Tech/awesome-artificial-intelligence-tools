@@ -130,6 +130,9 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [BOOMY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#boomy)
   * [AMPER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#amper)
   * [BRAIN FM](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#brain-fm)
+  * [ELEVENLABS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#elevenlabs)
+  * [LYREBIRD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#lyrebird)
+  * [AUPHONIC](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Audio.md#auphonic)
   
 ### Metinleri Yapay Zeka Destekli Araçlar Sayesinde Optimize Edilmiş Metinlere Çevirin 
 > Text to Text
