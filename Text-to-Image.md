@@ -460,6 +460,31 @@ Designs AI, dakikalar içerisinde logo, video, banner ve maketler oluşturmanız
 
 Daha fazla bilgi almak için https://designs.ai/ web sitesini ziyaret edin. 
 
+### DESIGNIFY 
+Designify, basit görselleri yaratıcı çıktılara dönüştürmeyi sağlayan yapay zeka aracıdır. 
+
+API: https://www.designify.com/api-docs
+
+Daha fazla bilgi almak için https://www.designify.com/ web sitesini ziyaret edin. 
+
+### SNAPPA 
+Snappa, çevrimiçi grafikler oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://snappa.com/ web sitesini ziyaret edin. 
+
+### LOGO AI 
+Logo AI, dakikalar içerisinde logo tasarlamanızı sağlayan yapay zeka aracıdır. 
+
+API: https://www.logoai.com/logo-api
+
+Daha fazla bilgi almak için https://www.logoai.com/logo-maker web sitesini ziyaret edin. 
+
+### BRANDMARK 
+Brandmark, kreatif logolar oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://brandmark.io/ web sitesini ziyaret edin. 
+
+
 
 
 
