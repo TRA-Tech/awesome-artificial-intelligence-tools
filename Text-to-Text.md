@@ -1489,5 +1489,42 @@ Daha fazla bilgi almak için https://wordlift.io/ web sitesini ziyaret edin.
 ### ALLI AI
 Alli AI, ölçeklendirilebilir SEO çalışmaları yapmanızı sağlayan yapay zeka aracıdır. 
 
+### DROXY AI 
+Droxy, içerik girişleriyle chatbot oluşturabilir ve daha sonrasında web sitenize entegre edebilirsiniz. 
+
+Daha fazla bilgi almak için https://www.droxy.ai/ web sitesini ziyaret edin. 
+
+### CHATBASE 
+Chatbase, verileriniz için özelleştirilebilir chatbot asistanıdır. Asistanınızı markanızla özdeşleştirebilir, görünüş özelleştirmesi yapabilirsiniz. 
+
+Daha fazla bilgi almak için https://www.chatbase.co/ web sitesini ziyaret edin. 
+
+### CHATSIMPLE 
+Chatsimple, web sitenizle uyumlu chatbot asistanıdır. 175+ dili desteklemektedir. 
+
+Discord: https://discord.com/invite/Z62KteuejH
+
+Daha fazla bilgi almak için https://www.chatsimple.ai/ web sitesini ziyaret edin. 
+
+### CHATFUEL 
+Chatfuel, dakikalar içerisinde oluşturabileceğiniz ürün önerileri, SSS ve ilk iletişim otomasyon aracıdır. 
+
+Daha fazla bilgi almak için https://chatfuel.com/lite web sitesini ziyaret edin. 
+
+### DECKTOPUS 
+Decktopus, metin komutuyla dakikalar içerisinde sunum oluşturmanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.decktopus.com/ web sitesini ziyaret edin. 
+
+### UIPATH 
+UIPath, iş akışınızı otomatikleştirmenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.uipath.com/ web sitesini ziyaret edin. 
+
+### BLUE PRISM
+Blue Prism, çalışma şeklinizi ve iş akışınızı otomatikleştirmenizi sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.blueprism.com/ web sitesini ziyaret edin. 
+
 
 
