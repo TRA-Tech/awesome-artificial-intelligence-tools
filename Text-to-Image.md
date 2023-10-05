@@ -443,6 +443,18 @@ GitHub: https://github.com/leap-ai/
 
 Daha fazla bilgi almak için https://tryleap.ai/ web sitesini ziyaret edin. 
 
+### GENCRAFT 
+Gencraft, basit bir çizim yükleyip daha sonrasında çizim üzerinde metin komutlarıyla geliştirmeler yapıp görsel kaliteli çıktılar almanızı sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://gencraft.com/ web sitesini ziyaret edin. 
+
+### CLARIF AI
+Clarif AI, görsel anlama segmentasyonu ve görsel sınıflandırmalar yapmanızı sağlayan yapay zeka aracıdır. 
+
+API: https://status.clarifai.com/
+
+Daha fazla bilgi almak için https://www.clarifai.com/ web sitesini ziyaret edin. 
+
 
 
 
