@@ -352,6 +352,10 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [CLEARSCOPE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#clearscope)
   * [ZAPIER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#zapier)
   * [SURFERSEO](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#surferseo)
+  * [FRAMER AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#framer-ai)
+  * [DIVI AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#divi-ai)
+  * [HOSTINGER](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#hostinger)
+  * [WIX AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Text.md#wix-ai)
 
 ### Metinleri Yapay Zeka Araçları Sayesinde Robot Animasyonlarına Çevirin
 > Text to Motion
