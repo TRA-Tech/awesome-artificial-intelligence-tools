@@ -185,6 +185,45 @@ API: https://listnr.ai/text-to-speech-api
 
 Daha fazla bilgi almak için https://listnr.ai/ web sitesini ziyaret edin. 
 
+### KLAP 
+Klap, popüler YouTube videolarından reels, shorts, TikTok video oluşturmayı sağlayan yapay zeka aracıdır. 
+
+Discord: https://discord.com/invite/KcAcHdrSQU
+
+Daha fazla bilgi almak için https://klap.app/ web sitesini ziyaret edin. 
+
+### EIGHTIFY 
+Eightify, uzun videolardan kısa notlar çıkarılmasını sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://eightify.app/ web sitesini ziyaret edin. 
+
+### TLDV
+Tldv, Zoom ve Google Meet üzerinden yapılan toplantıların notlarını otomatik kaydeden yapay zeka aracıdır. +30 dil desteği sağlamaktadır. 
+
+Daha fazla bilgi almak için https://tldv.io/ web sitesini ziyaret edin. 
+
+### OTTER 
+Otter, toplantılarda iş arkadaşlarınızla özel olarak konuşmanızı sağlayan yapay zeka aracıdır. Toplantı notlarını özetleyebilir ya da detaylı bir şekilde otomatik olarak alabilirsiniz.  
+
+Daha fazla bilgi almak için https://otter.ai/ web sitesini ziyaret edin. 
+
+### NOTY AI 
+Noty AI, toplantılarınızı takip eden, toplantı notlarınızı otomatik bir şekilde alan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://noty.ai/ web sitesini ziyaret edin. 
+
+### FIREFLIES 
+Fireflies, toplantı notlarınızı otomatikleştirmenizi sağlayan yapay zeka aracıdır. 
+
+API: https://fireflies.ai/api
+
+Daha fazla bilgi almak için https://fireflies.ai/ web sitesini ziyaret edin. 
+
+### AIRGRAM 
+Airgram, toplantılaqrı kaydetmeye, toplantı notlarını otomatikleştirmeyi sağlayan yapay zeka araçlarından biridir.
+
+Daha fazla bilgi almak için https://www.airgram.io/ web sitesini ziyaret edin. 
+
 
 
 
