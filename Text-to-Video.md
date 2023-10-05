@@ -229,6 +229,11 @@ Opus, metin komutlarıyla video çıktılar elde edilmesini sağlayan yapay zeka
 
 Daha fazla bilgi almak için https://opus.ai/ web sitesini ziyaret edin. 
 
+### VIDIQ 
+Vidiq, YouTube video içerikleri üretmenizi sağlayan yapay zeka destekli içerik fikirleri oluşturucu araçtır. 
+
+Daha fazla bilgi almak için https://vidiq.com/tr/ web sitesini ziyaret edin. 
+
 
 
 
