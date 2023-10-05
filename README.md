@@ -68,6 +68,11 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [LEAP AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#leap-ai)
 - [GENCRAFT](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#gencraft)
 - [CLARIF AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#clarif-ai)
+- [DESIGNS AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#designs-ai)
+- [DESIGNIFY](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#designify)
+- [SNAPPA](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#snappa)
+- [LOGO AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#logo-ai)
+- [BRANDMARK](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#brandmark)
 
 ### Metinleri Videoya Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Video
@@ -105,6 +110,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [LUMEN5](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#lumen5)
 - [ROSEBUD AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#rosebud-ai)
 - [OPUS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#opus)
+- [VIDIQ](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#vidiq)
  
 ### Metinleri Seslere Çevirebileceğiniz Yapay Zeka Araçları
 > Text to Audio
