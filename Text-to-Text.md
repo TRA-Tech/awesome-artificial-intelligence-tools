@@ -1447,3 +1447,24 @@ Surferseo, organik ziyaretçi oranınızı arttırmanızı sağlayan SEO uyumlu 
 
 Daha fazla bilgi almak için https://surferseo.com/ web sitesini ziyaret edin. 
 
+### FRAMER AI
+Framer AI, saniyeler içerisinde yapay zeka yardımıyla web sitenizi oluşturmanızı sağlayan araçlardan biridir. 
+
+Daha fazla bilgi almak için https://www.framer.com/ai web sitesini ziyaret edin. 
+
+### DIVI AI 
+Divi AI, web siteniz için gerekli görsel ve içerikleri yapay zeka aracılığıyla oluşturmayı sağlayan bir araçtır. 
+
+Daha fazla bilgi almak için https://www.elegantthemes.com/ai/ web sitesini ziyaret edin. 
+
+### HOSTINGER 
+Hostinger, yapay zeka ile dakikalar içerisinde web sitenizi oluşturmanızı ve web siteniz için gerekli içerikleri oluşturmanızı sağlayan araçtır. 
+
+Daha fazla bilgi almak için https://www.hostinger.com/ai-website-builder web sitesini ziyaret edin. 
+
+### WIX AI 
+Wix, yapay zeka ile web sitesi, içerik, tanıtım videoları ve kod asistanı yardımıyla hızlı gönderimler yapmanız gibi birçok çalışmayı oluşturmanızı sağlayan araçtır. 
+
+Daha fazla bilgi almak için https://www.wix.com/studio/ai web sitesini ziyaret edin. 
+
+
