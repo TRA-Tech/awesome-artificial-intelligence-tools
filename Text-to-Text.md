@@ -1548,6 +1548,10 @@ Namecheap, anahtar kelimeler tanımlamalar yaparak işletmenize uygun ismi bulma
 
 Daha fazla bilgi almak için https://www.namecheap.com/visual/business-name-generator/ web sitesini ziyaret edin. 
 
+### TRYPENCIL 
+Trypencil, reklam çalışmalarınızı oluşturmanızı sağlayan yapay zeka araçlarından birisidir. 
+
+Daha fazla bilgi almak için https://www.trypencil.com/ web sitesini ziyaret edin. 
 
 
 
