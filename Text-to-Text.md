@@ -1553,5 +1553,8 @@ Trypencil, reklam çalışmalarınızı oluşturmanızı sağlayan yapay zeka ar
 
 Daha fazla bilgi almak için https://www.trypencil.com/ web sitesini ziyaret edin. 
 
+### MAILCHIMP 
+Mailchimp, üretken yapay zekadan yararlanarak e-posta pazarlama süreçlerinizi, mail oluşturma süreçlerinizi hızlandıran ve otomatikleştiren yapay zeka aracıdır. 
 
+Daha fazla bilgi almak için https://mailchimp.com/newsroom/announcing-email-content-generator/ web sitesini ziyaret edin. 
 
