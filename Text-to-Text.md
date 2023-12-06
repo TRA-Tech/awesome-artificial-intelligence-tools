@@ -1526,5 +1526,28 @@ Blue Prism, çalışma şeklinizi ve iş akışınızı otomatikleştirmenizi sa
 
 Daha fazla bilgi almak için https://www.blueprism.com/ web sitesini ziyaret edin. 
 
+### BLOGSEO 
+BlogSEO, anahtar kelime analizi yapacağınızı, SEO uyumlu içerikler oluşturacağınız yapay zeka araçlarından biridir. Makalenizi düzenleyebilir, şablon çalışmaları yapabilir aynı zamanda makalenize dahili bağlantı eklemeleri tanımlayabilirsiniz. 
+
+Daha fazla bilgi almak için https://www.blogseo.ai/ web sitesini ziyaret edin. 
+
+### WORLDLIFT 
+Worldlift, trafik ağınızı arttırabileceğiniz yapay zeka destekli SEO aracıdır. 
+
+GitHub: https://github.com/insideout10/wordlift-plugin
+
+Daha fazla bilgi almak için https://wordlift.io/ web sitesini ziyaret edin. 
+
+### ALLI AI 
+Alli AI, SEO çalışmalarınızı ölçeklendirebileceğiniz, optimize içerikler oluşturup otomatikleştirebileceğiniz yapay zeka araçlarından biridir. 
+
+Daha fazla bilgi almak için https://www.alliai.com/ web sitesini ziyaret edin. 
+
+### NAMECHEAP 
+Namecheap, anahtar kelimeler tanımlamalar yaparak işletmenize uygun ismi bulmanıza yardımcı olan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.namecheap.com/visual/business-name-generator/ web sitesini ziyaret edin. 
+
+
 
 
