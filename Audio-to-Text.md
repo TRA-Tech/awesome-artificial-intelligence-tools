@@ -146,6 +146,13 @@ Discord: https://discord.com/invite/j3uEfwNrFu
 
 Daha fazla bilgi almak için https://steno.ai/ web sitesini ziyaret edin. 
 
+### SONIX AI 
+Sonix, sesleri otomatik transkripsiyona çevirebileceğiniz, otomatik çeviriler yapabileceğiniz ve video/görsel çalışmalarınıza otomatik altyazılar ekleyebileceğiniz yapay zeka aracıdır. 40+ dil desteği mevcuttur. 
+
+API: https://sonix.ai/api
+
+Daha fazla bilgi almak için https://sonix.ai/web sitesini ziyaret edin. 
+
 
 
 
