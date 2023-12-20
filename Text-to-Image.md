@@ -491,6 +491,14 @@ Discord: https://discord.com/invite/recraft
 
 Daha fazla bilgi almak için https://www.recraft.ai/ web sitesini ziyaret edin. 
 
+### HOTPOT 
+Hotpot, metin komutlarıyla ilginç ve çarpıcı görseller oluşturmanızı sağlayan yapay zeka araçlarından biridir. 
+
+API: https://hotpot.ai/docs/api?s=footer
+
+Daha fazla bilgi almak için https://hotpot.ai/ web sitesini ziyaretin edin. 
+
+
 
 
 
