@@ -484,6 +484,12 @@ Brandmark, kreatif logolar oluşturmanızı sağlayan yapay zeka aracıdır.
 
 Daha fazla bilgi almak için https://brandmark.io/ web sitesini ziyaret edin. 
 
+### RECRAFT AI 
+Recraft AI, metin komutlarıyla görsel çalışmalar elde edebileceğiniz yapay zeka aracıdır. Recraft ile 3D animasyonlar, vektörel çalışmalar ve daha fazlasını elde edebilirsiniz. 
+
+Discord: https://discord.com/invite/recraft
+
+Daha fazla bilgi almak için https://www.recraft.ai/ web sitesini ziyaret edin. 
 
 
 
