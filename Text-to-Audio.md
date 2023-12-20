@@ -122,6 +122,11 @@ API: https://auphonic.com/help/api/
 
 Daha fazla bilgi almak için https://auphonic.com/ web sitesini ziyaret edin. 
 
+### DEEPBEAT
+Deepbeat, rap sözleri ve müzikleri oluşturabileceğiniz yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://deepbeat.org/ web sitesini ziyaret edin. 
+
 
 
 
