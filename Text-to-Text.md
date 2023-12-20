@@ -1563,6 +1563,31 @@ Writey AI, yapay zeka destekli detaylı araştırmalar yapabileceğiniz ve içer
 
 Daha fazla bilgi almak için https://writey.ai/ web sitesini ziyaret edin. 
 
+### PENCIL 
+Pencil, işletmelerin reklam varyasyonlarını 10 kat daha hızlı oluşturmasına yardımcı olan yapay zeka destekli reklam oluşturma platformudr. 
+
+Daha fazla bilgi almak için https://www.trypencil.com/ web sitesini ziyaret edin. 
+
+### SPELLAR AI 
+Spellar AI, kişiselleştirilmiş geri bildirim, özel alıştırma oturumları, gerçek zamanlı sohbet yardımı ve kolay takvim entegrasyonu ile toplantılarınızı geliştirmenizi sağlayan yapay zeka araçlarından biridir. 
+
+Daha fazla bilgi almak için https://spellar.ai/ web sitesini ziyaret edin. 
+
+### NOLAN AI 
+Nolan AI, senaryo yazma süreçlerinizi hızlandırmanızı sağlayan yapay zeka destekli senaryo yazma asistanıdır. 
+
+Daha fazla bilgi almak için https://www.nolanai.app/ web sitesini ziyaret edin. 
+
+### EVERCOPY 
+Evercopy, işletmelerin dijital pazarlama süreçlerini oluşturmalarını ve yürütmelerini sağlayan yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://www.evercopy.ai/ web sitesini ziyaret edin. 
+
+
+
+
+
+
 
 
 
