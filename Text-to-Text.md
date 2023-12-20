@@ -1558,3 +1558,11 @@ Mailchimp, üretken yapay zekadan yararlanarak e-posta pazarlama süreçlerinizi
 
 Daha fazla bilgi almak için https://mailchimp.com/newsroom/announcing-email-content-generator/ web sitesini ziyaret edin. 
 
+### WRITEY AI 
+Writey AI, yapay zeka destekli detaylı araştırmalar yapabileceğiniz ve içerikler oluşturabileceğiniz yapay zeka aracıdır. 
+
+Daha fazla bilgi almak için https://writey.ai/ web sitesini ziyaret edin. 
+
+
+
+
