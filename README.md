@@ -508,10 +508,12 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [WHISPER MEMOS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#whisper-memos)
   * [STENO AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#steno-ai)
   * [SONIX AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Audio-to-Text.md#sonix-ai)
-    
-  
-  
 
+
+### Artificial Intelligence Tools to simplify Bulk Phone Calls
+> PhoneCall agent
+  * [AICaller.io](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/aicaller/phoneCall-solutions.md#aicallerio)
+  
   
 
 
