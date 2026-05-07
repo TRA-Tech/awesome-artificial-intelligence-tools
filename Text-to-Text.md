@@ -1591,3 +1591,8 @@ Daha fazla bilgi almak için https://www.evercopy.ai/ web sitesini ziyaret edin.
 
 
 
+
+### AI HOTLIST
+AI Hotlist, Çinli kullanıcılar için AI araçları, modelleri, agent projeleri ve AI haberlerini tek yerde takip etmeye yarayan güncel bir dizindir. Liste 6 saatte bir yenilenir; özellikle ChatGPT, Claude, Gemini, DeepSeek, Qwen gibi model ekosistemleri ve yeni AI araçlarını keşfetmek isteyen kullanıcılar için uygundur.
+
+Daha fazla bilgi almak için https://aihot.bt199.com/ web sitesini ziyaret edebilirsiniz.
