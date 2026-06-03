@@ -180,8 +180,7 @@ AI2sql, karmaşık SQL sorgularını hatasız ve verimli bir şekilde oluşturab
 Daha fazla bilgi almak için https://www.ai2sql.io/ web sitesini ziyaret edin. 
 
 
+### AI FOR DATABASE
+AI for Database, veritabanlarınızla doğal dilde konuşmanızı sağlayan yapay zeka aracıdır. SQL bilgisine gerek kalmadan herhangi bir veritabanına bağlanabilir, anlık içgörüler elde edebilir, otomatik güncellenen akıllı panolar oluşturabilir ve veritabanı değişikliklerine göre otomatik iş akışları başlatabilirsiniz.
 
-
-
-
-
+Daha fazla bilgi almak için https://aifordatabase.com/ web sitesini ziyaret edin.
