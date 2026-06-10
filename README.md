@@ -31,6 +31,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [REFACE](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#reface)
 - [VIZCOM](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#vizcom)
 - [PHOTOROOM](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#photoroom)
+- [IGLY AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#igly-ai)
 - [FACET](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#facet)
 - [VIZARD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#vizard)
 - [BEAUTIFUL AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Image.md#beautiful-ai)
@@ -513,7 +514,6 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   
 
   
-
 
 
 
