@@ -220,6 +220,11 @@ API: https://www.photoroom.com/api
 
 Daha fazla bilgi almak için https://www.photoroom.com/ web sitesini ziyaret edin. 
 
+### IGLY AI
+igly.ai, arka plan kaldırma, nesne silme ve inpainting, görsel yükseltme, generative fill ve ürün fotoğrafı düzenleme gibi işlemler için kullanılan tarayıcı tabanlı bir yapay zeka görsel düzenleme aracıdır.
+
+Daha fazla bilgi almak için https://igly.ai/ web sitesini ziyaret edin.
+
 ### FACET 
 Facet AI, görüntü düzenleyici yapay zeka aracıdır. Görselleri kolaylıkla düzenlemeyi sağlar ve zamandan tasarruf ettirir. 
 
@@ -497,7 +502,6 @@ Hotpot, metin komutlarıyla ilginç ve çarpıcı görseller oluşturmanızı sa
 API: https://hotpot.ai/docs/api?s=footer
 
 Daha fazla bilgi almak için https://hotpot.ai/ web sitesini ziyaretin edin. 
-
 
 
 
