@@ -215,6 +215,11 @@ Lumen5; metin komutlarıyla etkili video içerikler üreteceğiniz yapay zeka ar
 
 Daha fazla bilgi almak için https://lumen5.com/ web sitesini ziyaret edin. 
 
+### VIDEOS SOCIAL
+**videos.social**, blog yazılarından, PDF’lerden ve istemlerden düzenlenebilir yüzsüz videolar üreten bir yapay zeka aracıdır.
+
+Daha fazla bilgi almak için https://videos.social/?utm_source=tra-tech-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d web sitesini ziyaret edin. 
+
 ### ROSEBUD AI 
 Rosebud, metin komutlarıyla oyun yaratmanızı ve oynayabilmenizi sağlayan yapay zeka araçlarından biridir. Oyunları paylaşabilir, koda dönüştürebilirsiniz. 
 
