@@ -108,6 +108,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
 - [SUPERCREATOR AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#supercreator-ai)
 - [WINDSOR](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#windsor)
 - [LUMEN5](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#lumen5)
+- [VIDEOS SOCIAL](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#videos-social)
 - [ROSEBUD AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#rosebud-ai)
 - [OPUS](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#opus)
 - [VIDIQ](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Video.md#vidiq)
