@@ -411,6 +411,7 @@ Son yıllarda yükselişte olan ve gelecekte muhtemelen hemen hemen her alanda k
   * [DEBUILD](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#debuild)
   * [MUTABLE AI](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#mutable-ai)
   * [AI2SQL](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#ai2sql)
+  * [agent-qa](https://github.com/TRA-Tech/awesome-artificial-intelligence-tools/blob/main/Text-to-Code.md#agent-qa)
 
 ### Metinleri 3D Boyutlandırabileceğiniz Yapay Zeka Araçları
 > Text to 3D

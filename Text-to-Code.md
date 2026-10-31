@@ -185,3 +185,8 @@ Daha fazla bilgi almak için https://www.ai2sql.io/ web sitesini ziyaret edin.
 
 
 
+
+### agent-qa
+[agent-qa](https://vostride.com), vostride tarafından geliştirilen, web, Android ve iOS uygulamalarını doğal dil talimatlarıyla test eden bir yapay zekâ aracıdır. Kalıcı memidex belleği, doğrulanmış kendini geliştirme ve incelenebilir test kanıtları sunar; CLI ve MCP üzerinden kullanılabilir.
+
+Kurulum ve model yapılandırması için [resmî başlangıç kılavuzuna](https://vostride.com/docs/agent-qa/quickstart) bakabilirsiniz. Model sağlayıcısı ücretleri ayrıca uygulanabilir.
